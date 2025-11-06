@@ -1,0 +1,672 @@
+{
+  "companyCode": "INDIAN-OVERSEAS-BANK-9059279",
+  "timestamp": "2025-10-13T12:15:56.601Z",
+  "annualResults": {
+    "2023": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "123 636",
+        "forecast": "117 821",
+        "spreadRaw": "4.94%"
+      },
+      "EBITDA": {
+        "metric": "EBITDA",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "0,00",
+        "forecast": "0,00",
+        "spreadRaw": "-"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "59 422",
+        "forecast": "56 000",
+        "spreadRaw": "6.11%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "23 483",
+        "forecast": "21 051",
+        "spreadRaw": "11.55%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "20 988",
+        "forecast": "21 051",
+        "spreadRaw": "-0.3%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "1,15",
+        "forecast": "1,10",
+        "spreadRaw": "4.55%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "12/05/23",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    }
+  },
+  "quarterlyResults": {},
+  "upcomingEvents": {
+    "count": 6,
+    "events": [
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48074396.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025 04:30 pm",
+        "dateTimeISO": "2025-10-16T11:00:00.000Z",
+        "title": "Q2 2026 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Call-51323557.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "20/11/2025 11:00 am",
+        "dateTimeISO": "2025-11-20T05:30:00.000Z",
+        "title": "Extraordinary Shareholders Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Extraordinary-Shareholders-Meeting-51241244.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/02/2026",
+        "dateTimeISO": "2026-02-10T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48819824.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "08/05/2026",
+        "dateTimeISO": "2026-05-07T18:30:00.000Z",
+        "title": "Q4 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2026-Earnings-Release-Projected-49748376.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/07/2026",
+        "dateTimeISO": "2026-07-29T18:30:00.000Z",
+        "title": "Q1 2027 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2027-Earnings-Release-Projected-50552175.ics"
+      }
+    ]
+  },
+  "pastEvents": {
+    "count": 57,
+    "events": [
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/07/2025 04:00 pm",
+        "dateTimeISO": "2025-07-29T10:30:00.000Z",
+        "title": "Analyst Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Analyst-Meeting-50593145.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/07/2025 12:27 pm",
+        "dateTimeISO": "2025-07-18T06:57:00.000Z",
+        "title": "Q1 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Release-47397592.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/07/2025",
+        "dateTimeISO": "2025-07-17T18:30:00.000Z",
+        "title": "Q1 2026 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Call-50552139.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/07/2025 11:00 am",
+        "dateTimeISO": "2025-07-02T05:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-50185025.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/05/2025 05:30 pm",
+        "dateTimeISO": "2025-05-02T12:00:00.000Z",
+        "title": "Q4 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Call-49733591.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/05/2025 02:04 pm",
+        "dateTimeISO": "2025-05-02T08:34:00.000Z",
+        "title": "Q4 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Release-46619080.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/03/2025",
+        "dateTimeISO": "2025-03-05T18:30:00.000Z",
+        "title": "Non Deal Roadshow",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Non-Deal-Roadshow-49226524.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/02/2025",
+        "dateTimeISO": "2025-02-20T18:30:00.000Z",
+        "title": "Non Deal Roadshow - Day 3",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Non-Deal-Roadshow-Day-3-49096575.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/02/2025",
+        "dateTimeISO": "2025-02-19T18:30:00.000Z",
+        "title": "Non Deal Roadshow - Day 2",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Non-Deal-Roadshow-Day-2-49096573.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/02/2025",
+        "dateTimeISO": "2025-02-18T18:30:00.000Z",
+        "title": "Non Deal Roadshow - Day 1",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Non-Deal-Roadshow-Day-1-49096564.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/01/2025 05:15 pm",
+        "dateTimeISO": "2025-01-20T11:45:00.000Z",
+        "title": "Q3 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Call-48795235.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/01/2025 12:35 pm",
+        "dateTimeISO": "2025-01-20T07:05:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-45755216.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/10/2024 03:07 pm",
+        "dateTimeISO": "2024-10-17T09:37:00.000Z",
+        "title": "Q2 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Release-45099345.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/10/2024",
+        "dateTimeISO": "2024-10-16T18:30:00.000Z",
+        "title": "Q2 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Call-48593489.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2024 05:30 pm",
+        "dateTimeISO": "2024-07-22T12:00:00.000Z",
+        "title": "Q1 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Call-47419663.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2024 01:11 pm",
+        "dateTimeISO": "2024-07-22T07:41:00.000Z",
+        "title": "Q1 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Release-44433933.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/07/2024 11:00 am",
+        "dateTimeISO": "2024-07-02T05:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-46933830.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/05/2024 04:00 pm",
+        "dateTimeISO": "2024-05-24T10:30:00.000Z",
+        "title": "Q4 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Call-46791130.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/05/2024 02:09 pm",
+        "dateTimeISO": "2024-05-09T08:39:00.000Z",
+        "title": "Q4 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Release-43772950.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/01/2024 01:12 pm",
+        "dateTimeISO": "2024-01-24T07:42:00.000Z",
+        "title": "Q3 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Release-42904189.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/10/2023 12:54 pm",
+        "dateTimeISO": "2023-10-27T07:24:00.000Z",
+        "title": "Q2 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Release-42218246.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/08/2023 02:19 pm",
+        "dateTimeISO": "2023-08-02T08:49:00.000Z",
+        "title": "Q1 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Release-41229033.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/08/2023",
+        "dateTimeISO": "2023-08-01T18:30:00.000Z",
+        "title": "Q1 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Call-44573498.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/07/2023 11:00 am",
+        "dateTimeISO": "2023-07-07T05:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-44086312.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/05/2023 07:04 pm",
+        "dateTimeISO": "2023-05-12T13:34:00.000Z",
+        "title": "Q4 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Release-40499453.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/02/2023 03:32 pm",
+        "dateTimeISO": "2023-02-09T10:02:00.000Z",
+        "title": "Q3 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2023-Earnings-Release-37683126.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/11/2022 09:28 pm",
+        "dateTimeISO": "2022-11-05T15:58:00.000Z",
+        "title": "Interim 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2023-Earnings-Release-36764406.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/07/2019",
+        "dateTimeISO": "2019-07-22T18:30:00.000Z",
+        "title": "Q1 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2020-Earnings-Release-27625136.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/05/2019",
+        "dateTimeISO": "2019-05-08T18:30:00.000Z",
+        "title": "FY 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2019-Earnings-Release-27624736.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/01/2019",
+        "dateTimeISO": "2019-01-24T18:30:00.000Z",
+        "title": "Q3 2019 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2019-Earnings-Call-27952490.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/01/2019",
+        "dateTimeISO": "2019-01-24T18:30:00.000Z",
+        "title": "Q3 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2019-Earnings-Release-27624368.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/10/2018 11:00 am",
+        "dateTimeISO": "2018-10-26T05:30:00.000Z",
+        "title": "Interim 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2019-Earnings-Release-27537495.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/10/2018",
+        "dateTimeISO": "2018-10-25T18:30:00.000Z",
+        "title": "Interim 2019 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2019-Earnings-Call-27537494.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/07/2018",
+        "dateTimeISO": "2018-07-26T18:30:00.000Z",
+        "title": "Q1 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2019-Earnings-Release-26968219.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/05/2018",
+        "dateTimeISO": "2018-05-27T18:30:00.000Z",
+        "title": "FY 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2018-Earnings-Release-26619361.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/02/2018",
+        "dateTimeISO": "2018-02-12T18:30:00.000Z",
+        "title": "Q3 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2018-Earnings-Release-25967030.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2018",
+        "dateTimeISO": "2018-01-29T18:30:00.000Z",
+        "title": "Extraordinary Shareholders Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Extraordinary-Shareholders-Meeting-25822137.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/11/2017",
+        "dateTimeISO": "2017-11-06T18:30:00.000Z",
+        "title": "Interim 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2018-Earnings-Release-25437146.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/08/2017",
+        "dateTimeISO": "2017-08-09T18:30:00.000Z",
+        "title": "Q1 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2018-Earnings-Release-22863506.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/05/2017",
+        "dateTimeISO": "2017-05-16T18:30:00.000Z",
+        "title": "FY 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2017-Earnings-Release-22842589.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/01/2017",
+        "dateTimeISO": "2017-01-23T18:30:00.000Z",
+        "title": "Q3 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2017-Earnings-Release-22833625.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/11/2016",
+        "dateTimeISO": "2016-11-10T18:30:00.000Z",
+        "title": "Interim 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2017-Earnings-Release-21324032.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/09/2016 10:00 am",
+        "dateTimeISO": "2016-09-15T04:30:00.000Z",
+        "title": "Extraordinary Shareholders Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Extraordinary-Shareholders-Meeting-23002247.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/08/2016",
+        "dateTimeISO": "2016-08-08T18:30:00.000Z",
+        "title": "Q1 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2017-Earnings-Release-20958624.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/05/2016",
+        "dateTimeISO": "2016-05-26T18:30:00.000Z",
+        "title": "FY 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2016-Earnings-Release-20954915.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/03/2016",
+        "dateTimeISO": "2016-03-23T18:30:00.000Z",
+        "title": "Extraordinary Shareholders Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Extraordinary-Shareholders-Meeting-22074799.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/02/2016",
+        "dateTimeISO": "2016-02-09T18:30:00.000Z",
+        "title": "Q3 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2016-Earnings-Release-19293004.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/10/2015",
+        "dateTimeISO": "2015-10-30T18:30:00.000Z",
+        "title": "Interim 2016 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2016-Earnings-Call-21408770.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/10/2015",
+        "dateTimeISO": "2015-10-30T18:30:00.000Z",
+        "title": "Interim 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2016-Earnings-Release-19360752.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/08/2015",
+        "dateTimeISO": "2015-07-31T18:30:00.000Z",
+        "title": "Q1 2016 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2016-Earnings-Release-Projected-19287986.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/06/2015",
+        "dateTimeISO": "2015-06-29T18:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-20390329.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/04/2015",
+        "dateTimeISO": "2015-04-29T18:30:00.000Z",
+        "title": "FY 2015 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2015-Earnings-Release-Projected-19284693.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/02/2015",
+        "dateTimeISO": "2015-02-04T18:30:00.000Z",
+        "title": "Q3 2015 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2015-Earnings-Release-19830278.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/06/2014",
+        "dateTimeISO": "2014-06-18T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-18376833.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/02/2014",
+        "dateTimeISO": "2014-02-09T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-17885641.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/06/2013",
+        "dateTimeISO": "2013-06-19T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-16811861.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/06/2012",
+        "dateTimeISO": "2012-06-20T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-15300014.ics"
+      }
+    ]
+  },
+  "pastDividends": {
+    "count": 16,
+    "dividends": [
+      {
+        "section": "Past Dividends",
+        "dateRaw": "19/06/2014",
+        "dateISO": "2014-06-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.5,
+        "currency": "INR",
+        "title": "Final Payment 0.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "10/02/2014",
+        "dateISO": "2014-02-09T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 0.7,
+        "currency": "INR",
+        "title": "Interim Payment 0.7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2013",
+        "dateISO": "2013-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Annual 2 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "21/06/2012",
+        "dateISO": "2012-06-20T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.5,
+        "currency": "INR",
+        "title": "Annual 4.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2011",
+        "dateISO": "2011-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Annual 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "26/05/2010",
+        "dateISO": "2010-05-25T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3.5,
+        "currency": "INR",
+        "title": "Annual 3.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "21/05/2009",
+        "dateISO": "2009-05-20T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.5,
+        "currency": "INR",
+        "title": "Annual 4.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "05/05/2008",
+        "dateISO": "2008-05-04T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3.5,
+        "currency": "INR",
+        "title": "Annual 3.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "07/05/2007",
+        "dateISO": "2007-05-06T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Annual 3 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "11/05/2006",
+        "dateISO": "2006-05-10T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.6,
+        "currency": "INR",
+        "title": "Annual 2.6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "12/05/2005",
+        "dateISO": "2005-05-11T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Final Payment 1 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "11/11/2004",
+        "dateISO": "2004-11-10T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 1.4,
+        "currency": "INR",
+        "title": "Interim Payment 1.4 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "10/06/2004",
+        "dateISO": "2004-06-09T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.8,
+        "currency": "INR",
+        "title": "Final Payment 0.8 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/01/2004",
+        "dateISO": "2004-01-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 1.2,
+        "currency": "INR",
+        "title": "Interim Payment 1.2 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "12/06/2003",
+        "dateISO": "2003-06-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.6,
+        "currency": "INR",
+        "title": "Annual 1.6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "26/06/2002",
+        "dateISO": "2002-06-25T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.2,
+        "currency": "INR",
+        "title": "Annual 1.2 INR"
+      }
+    ]
+  }
+}

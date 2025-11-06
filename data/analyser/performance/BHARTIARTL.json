@@ -1,0 +1,1370 @@
+[
+  {
+    "Quarter": "2019-Mar",
+    "Sales": 20602,
+    "EPS": 0.27,
+    "sales_qoq_change": null,
+    "sales_qoq_pct": null,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": null,
+    "eps_qoq_pct": null,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2019-Jun",
+    "Sales": 20738,
+    "EPS": -6.18,
+    "sales_qoq_change": 136,
+    "sales_qoq_pct": 0.6601300844578196,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": -6.449999999999999,
+    "eps_qoq_pct": -2388.8888888888887,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": "01/08/2019",
+    "currentDateClosePrice": 318.745142200517,
+    "pastYearDateClosePrice": 347.42108413422,
+    "price_yoy_pct": -8.253944059026805,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2019-Sep",
+    "Sales": 21131,
+    "EPS": -44.92,
+    "sales_qoq_change": 393,
+    "sales_qoq_pct": 1.8950718487800173,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": -38.74,
+    "eps_qoq_pct": -626.8608414239483,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": "21/10/2019",
+    "currentDateClosePrice": 377.396610169492,
+    "pastYearDateClosePrice": 259.594479770511,
+    "price_yoy_pct": 45.379289460670165,
+    "price_qoq_pct": 18.40074096943519,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2019-Dec",
+    "Sales": 21947,
+    "EPS": -2.02,
+    "sales_qoq_change": 816,
+    "sales_qoq_pct": 3.8616251005631534,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": 42.9,
+    "eps_qoq_pct": 95.50311665182547,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": "04/02/2020",
+    "currentDateClosePrice": 510.641723642631,
+    "pastYearDateClosePrice": 276.988123124435,
+    "price_yoy_pct": 84.35509720870911,
+    "price_qoq_pct": 35.306388526727225,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Mar",
+    "Sales": 23723,
+    "EPS": -9.69,
+    "sales_qoq_change": 1776,
+    "sales_qoq_pct": 8.092222171595207,
+    "sales_yoy_change": 3121,
+    "sales_yoy_pct": 15.149014658770993,
+    "eps_qoq_change": -7.67,
+    "eps_qoq_pct": -379.7029702970297,
+    "eps_yoy_change": -9.959999999999999,
+    "eps_yoy_pct": -3688.8888888888887,
+    "dateTimeRaw": "18/05/2020",
+    "currentDateClosePrice": 529.48695202528,
+    "pastYearDateClosePrice": 323.222729100833,
+    "price_yoy_pct": 63.81488811082355,
+    "price_qoq_pct": 3.6904991327809396,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Jun",
+    "Sales": 23939,
+    "EPS": -29.22,
+    "sales_qoq_change": 216,
+    "sales_qoq_pct": 0.9105087889390043,
+    "sales_yoy_change": 3201,
+    "sales_yoy_pct": 15.435432539299837,
+    "eps_qoq_change": -19.53,
+    "eps_qoq_pct": -201.54798761609908,
+    "eps_yoy_change": -23.04,
+    "eps_yoy_pct": -372.81553398058253,
+    "dateTimeRaw": "29/07/2020",
+    "currentDateClosePrice": 557.188945705257,
+    "pastYearDateClosePrice": 329.225647802356,
+    "price_yoy_pct": 69.24226573008497,
+    "price_qoq_pct": 5.231855775485552,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Sep",
+    "Sales": 25785,
+    "EPS": -1.4,
+    "sales_qoq_change": 1846,
+    "sales_qoq_pct": 7.71126613475918,
+    "sales_yoy_change": 4654,
+    "sales_yoy_pct": 22.02451374757465,
+    "eps_qoq_change": 27.82,
+    "eps_qoq_pct": 95.20876112251882,
+    "eps_yoy_change": 43.52,
+    "eps_yoy_pct": 96.8833481745325,
+    "dateTimeRaw": "27/10/2020",
+    "currentDateClosePrice": 426.45324906636,
+    "pastYearDateClosePrice": 367.162125825912,
+    "price_yoy_pct": 16.148485660680738,
+    "price_qoq_pct": -23.463440480395644,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Dec",
+    "Sales": 26518,
+    "EPS": -16.1,
+    "sales_qoq_change": 733,
+    "sales_qoq_pct": 2.842738025984099,
+    "sales_yoy_change": 4571,
+    "sales_yoy_pct": 20.827447942771222,
+    "eps_qoq_change": -14.700000000000001,
+    "eps_qoq_pct": -1050.0000000000002,
+    "eps_yoy_change": -14.080000000000002,
+    "eps_yoy_pct": -697.0297029702971,
+    "dateTimeRaw": "03/02/2021",
+    "currentDateClosePrice": 599.160172364263,
+    "pastYearDateClosePrice": 501.932571100259,
+    "price_yoy_pct": 19.370649936280614,
+    "price_qoq_pct": 40.498442367601285,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2021-Mar",
+    "Sales": 25747,
+    "EPS": 1.39,
+    "sales_qoq_change": -771,
+    "sales_qoq_pct": -2.907459084395505,
+    "sales_yoy_change": 2024,
+    "sales_yoy_pct": 8.531804577835855,
+    "eps_qoq_change": 17.490000000000002,
+    "eps_qoq_pct": 108.63354037267081,
+    "eps_yoy_change": 11.08,
+    "eps_yoy_pct": 114.34468524251807,
+    "dateTimeRaw": "17/05/2021 03:54 pm",
+    "currentDateClosePrice": 540.902338408503,
+    "pastYearDateClosePrice": 545.281516805516,
+    "price_yoy_pct": -0.8031041328281262,
+    "price_qoq_pct": -9.723248747639007,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 47.96,
+        "sales": {
+          "actual": 8.531804577835855,
+          "ratio": 0.17789417384978845,
+          "score": -10
+        },
+        "eps": {
+          "actual": 114.34468524251807,
+          "ratio": 2.384167749009968,
+          "score": 10
+        },
+        "price": {
+          "actual": -0.8031041328281262,
+          "ratio": -0.016745290509343747,
+          "score": -5.08
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 11.99,
+        "sales": {
+          "actual": -2.907459084395505,
+          "ratio": -0.24249033230988365,
+          "score": -2.42
+        },
+        "eps": {
+          "actual": 108.63354037267081,
+          "ratio": 9.060345318821586,
+          "score": 10
+        },
+        "price": {
+          "actual": -9.723248747639007,
+          "ratio": -0.8109465177346962,
+          "score": -6.35
+        }
+      },
+      "final_performance_score": {
+        "x": 94.1436,
+        "abs_sqrt_x": 9.7028
+      },
+      "final_price_score": {
+        "x": -66.1289,
+        "abs_sqrt_x": 8.132
+      }
+    }
+  },
+  {
+    "Quarter": "2021-Jun",
+    "Sales": 26854,
+    "EPS": 0.52,
+    "sales_qoq_change": 1107,
+    "sales_qoq_pct": 4.29953004233503,
+    "sales_yoy_change": 2915,
+    "sales_yoy_pct": 12.176782655917123,
+    "eps_qoq_change": -0.8699999999999999,
+    "eps_qoq_pct": -62.589928057553955,
+    "eps_yoy_change": 29.74,
+    "eps_yoy_pct": 101.77960301163587,
+    "dateTimeRaw": "03/08/2021 04:30 pm",
+    "currentDateClosePrice": 570.966136167768,
+    "pastYearDateClosePrice": 538.638942832519,
+    "price_yoy_pct": 6.001644286105888,
+    "price_qoq_pct": 5.558082416083034,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 70,
+        "sales": {
+          "actual": 12.176782655917123,
+          "ratio": 0.1739540379416732,
+          "score": -10
+        },
+        "eps": {
+          "actual": 101.77960301163587,
+          "ratio": 1.4539943287376553,
+          "score": 7.27
+        },
+        "price": {
+          "actual": 6.001644286105888,
+          "ratio": 0.0857377755157984,
+          "score": -4.14
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 17.5,
+        "sales": {
+          "actual": 4.29953004233503,
+          "ratio": 0.2456874309905731,
+          "score": 0.74
+        },
+        "eps": {
+          "actual": -62.589928057553955,
+          "ratio": -3.576567317574512,
+          "score": -10
+        },
+        "price": {
+          "actual": 5.558082416083034,
+          "ratio": 0.3176047094904591,
+          "score": -1.82
+        }
+      },
+      "final_performance_score": {
+        "x": -146.5995,
+        "abs_sqrt_x": 12.1078
+      },
+      "final_price_score": {
+        "x": -20.452,
+        "abs_sqrt_x": 4.5224
+      }
+    }
+  },
+  {
+    "Quarter": "2021-Sep",
+    "Sales": 28326,
+    "EPS": 2.06,
+    "sales_qoq_change": 1472,
+    "sales_qoq_pct": 5.481492515081552,
+    "sales_yoy_change": 2541,
+    "sales_yoy_pct": 9.854566608493311,
+    "eps_qoq_change": 1.54,
+    "eps_qoq_pct": 296.1538461538462,
+    "eps_yoy_change": 3.46,
+    "eps_yoy_pct": 247.14285714285717,
+    "dateTimeRaw": "02/11/2021 03:44 pm",
+    "currentDateClosePrice": 713.95,
+    "pastYearDateClosePrice": 450.120494110888,
+    "price_yoy_pct": 58.61308457199844,
+    "price_qoq_pct": 25.04244206003468,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 39.98,
+        "sales": {
+          "actual": 9.854566608493311,
+          "ratio": 0.2464874089167912,
+          "score": -10
+        },
+        "eps": {
+          "actual": 247.14285714285717,
+          "ratio": 6.18166225970128,
+          "score": 10
+        },
+        "price": {
+          "actual": 58.61308457199844,
+          "ratio": 1.4660601443721473,
+          "score": 6.17
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 9.995,
+        "sales": {
+          "actual": 5.481492515081552,
+          "ratio": 0.5484234632397751,
+          "score": 1.65
+        },
+        "eps": {
+          "actual": 296.1538461538462,
+          "ratio": 29.63019971524224,
+          "score": 10
+        },
+        "price": {
+          "actual": 25.04244206003468,
+          "ratio": 2.5054969544807086,
+          "score": 6.51
+        }
+      },
+      "final_performance_score": {
+        "x": 102.7225,
+        "abs_sqrt_x": 10.1352
+      },
+      "final_price_score": {
+        "x": 80.449,
+        "abs_sqrt_x": 8.9693
+      }
+    }
+  },
+  {
+    "Quarter": "2021-Dec",
+    "Sales": 29867,
+    "EPS": 1.49,
+    "sales_qoq_change": 1541,
+    "sales_qoq_pct": 5.440231589352538,
+    "sales_yoy_change": 3349,
+    "sales_yoy_pct": 12.629157553359981,
+    "eps_qoq_change": -0.5700000000000001,
+    "eps_qoq_pct": -27.669902912621364,
+    "eps_yoy_change": 17.59,
+    "eps_yoy_pct": 109.25465838509317,
+    "dateTimeRaw": "08/02/2022 03:42 pm",
+    "currentDateClosePrice": 708.9,
+    "pastYearDateClosePrice": 587.793990232692,
+    "price_yoy_pct": 20.603478732296225,
+    "price_qoq_pct": -0.7073324462497469,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 53.79,
+        "sales": {
+          "actual": 12.629157553359981,
+          "ratio": 0.2347863460375531,
+          "score": -10
+        },
+        "eps": {
+          "actual": 109.25465838509317,
+          "ratio": 2.031133266129265,
+          "score": 10
+        },
+        "price": {
+          "actual": 20.603478732296225,
+          "ratio": 0.38303548489117356,
+          "score": -1.17
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 13.4475,
+        "sales": {
+          "actual": 5.440231589352538,
+          "ratio": 0.4045533808776753,
+          "score": 1.21
+        },
+        "eps": {
+          "actual": -27.669902912621364,
+          "ratio": -2.0576243102897465,
+          "score": -10
+        },
+        "price": {
+          "actual": -0.7073324462497469,
+          "ratio": -0.052599549823368424,
+          "score": -5.09
+        }
+      },
+      "final_performance_score": {
+        "x": -98.5359,
+        "abs_sqrt_x": 9.9265
+      },
+      "final_price_score": {
+        "x": -27.277,
+        "abs_sqrt_x": 5.2227
+      }
+    }
+  },
+  {
+    "Quarter": "2022-Mar",
+    "Sales": 31500,
+    "EPS": 3.59,
+    "sales_qoq_change": 1633,
+    "sales_qoq_pct": 5.467572906552382,
+    "sales_yoy_change": 5753,
+    "sales_yoy_pct": 22.34435079815124,
+    "eps_qoq_change": 2.0999999999999996,
+    "eps_qoq_pct": 140.9395973154362,
+    "eps_yoy_change": 2.2,
+    "eps_yoy_pct": 158.27338129496405,
+    "dateTimeRaw": "17/05/2022 03:41 pm",
+    "currentDateClosePrice": 707.05,
+    "pastYearDateClosePrice": 540.902338408503,
+    "price_yoy_pct": 30.71675786803828,
+    "price_qoq_pct": -0.26096769643109363,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 23.46,
+        "sales": {
+          "actual": 22.34435079815124,
+          "ratio": 0.9524446205520563,
+          "score": 4.21
+        },
+        "eps": {
+          "actual": 158.27338129496405,
+          "ratio": 6.746520941814325,
+          "score": 10
+        },
+        "price": {
+          "actual": 30.71675786803828,
+          "ratio": 1.3093247173076845,
+          "score": 5.77
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 5.865,
+        "sales": {
+          "actual": 5.467572906552382,
+          "ratio": 0.9322374947233388,
+          "score": 2.8
+        },
+        "eps": {
+          "actual": 140.9395973154362,
+          "ratio": 24.03062187816474,
+          "score": 10
+        },
+        "price": {
+          "actual": -0.26096769643109363,
+          "ratio": -0.044495770917492516,
+          "score": -5.07
+        }
+      },
+      "final_performance_score": {
+        "x": 225.5641,
+        "abs_sqrt_x": 15.0188
+      },
+      "final_price_score": {
+        "x": 7.588,
+        "abs_sqrt_x": 2.7546
+      }
+    }
+  },
+  {
+    "Quarter": "2022-Jun",
+    "Sales": 32805,
+    "EPS": 2.88,
+    "sales_qoq_change": 1305,
+    "sales_qoq_pct": 4.142857142857142,
+    "sales_yoy_change": 5951,
+    "sales_yoy_pct": 22.160571981827662,
+    "eps_qoq_change": -0.71,
+    "eps_qoq_pct": -19.77715877437326,
+    "eps_yoy_change": 2.36,
+    "eps_yoy_pct": 453.8461538461538,
+    "dateTimeRaw": "08/08/2022 04:48 pm",
+    "currentDateClosePrice": 704.35,
+    "pastYearDateClosePrice": 598.225291582879,
+    "price_yoy_pct": 17.739923388447774,
+    "price_qoq_pct": -0.38186832614382743,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 27.93,
+        "sales": {
+          "actual": 22.160571981827662,
+          "ratio": 0.7934325808029954,
+          "score": 1.56
+        },
+        "eps": {
+          "actual": 453.8461538461538,
+          "ratio": 16.249414745655347,
+          "score": 10
+        },
+        "price": {
+          "actual": 17.739923388447774,
+          "ratio": 0.6351565839043242,
+          "score": 1.35
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 6.9825,
+        "sales": {
+          "actual": 4.142857142857142,
+          "ratio": 0.5933200347808295,
+          "score": 1.78
+        },
+        "eps": {
+          "actual": -19.77715877437326,
+          "ratio": -2.8323893697634457,
+          "score": -10
+        },
+        "price": {
+          "actual": -0.38186832614382743,
+          "ratio": -0.05468934137398173,
+          "score": -5.09
+        }
+      },
+      "final_performance_score": {
+        "x": 5.602,
+        "abs_sqrt_x": 2.3669
+      },
+      "final_price_score": {
+        "x": -24.0856,
+        "abs_sqrt_x": 4.9077
+      }
+    }
+  },
+  {
+    "Quarter": "2022-Sep",
+    "Sales": 34527,
+    "EPS": 3.8,
+    "sales_qoq_change": 1722,
+    "sales_qoq_pct": 5.249199817101052,
+    "sales_yoy_change": 6201,
+    "sales_yoy_pct": 21.891548400762552,
+    "eps_qoq_change": 0.9199999999999999,
+    "eps_qoq_pct": 31.944444444444443,
+    "eps_yoy_change": 1.7399999999999998,
+    "eps_yoy_pct": 84.4660194174757,
+    "dateTimeRaw": "31/10/2022 03:57 pm",
+    "currentDateClosePrice": 832,
+    "pastYearDateClosePrice": 685.35,
+    "price_yoy_pct": 21.39782592835777,
+    "price_qoq_pct": 18.12309221267835,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 25.53,
+        "sales": {
+          "actual": 21.891548400762552,
+          "ratio": 0.8574832902766374,
+          "score": 2.62
+        },
+        "eps": {
+          "actual": 84.4660194174757,
+          "ratio": 3.3085005647268195,
+          "score": 10
+        },
+        "price": {
+          "actual": 21.39782592835777,
+          "ratio": 0.8381443763555726,
+          "score": 3.38
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 6.3825,
+        "sales": {
+          "actual": 5.249199817101052,
+          "ratio": 0.8224363207365533,
+          "score": 2.47
+        },
+        "eps": {
+          "actual": 31.944444444444443,
+          "ratio": 5.005005005005004,
+          "score": 10
+        },
+        "price": {
+          "actual": 18.12309221267835,
+          "ratio": 2.8394974089586134,
+          "score": 6.84
+        }
+      },
+      "final_performance_score": {
+        "x": 212.9653,
+        "abs_sqrt_x": 14.5933
+      },
+      "final_price_score": {
+        "x": 58.21,
+        "abs_sqrt_x": 7.6295
+      }
+    }
+  },
+  {
+    "Quarter": "2022-Dec",
+    "Sales": 35804,
+    "EPS": 2.81,
+    "sales_qoq_change": 1277,
+    "sales_qoq_pct": 3.6985547542502966,
+    "sales_yoy_change": 5937,
+    "sales_yoy_pct": 19.878126360196873,
+    "eps_qoq_change": -0.9899999999999998,
+    "eps_qoq_pct": -26.052631578947366,
+    "eps_yoy_change": 1.32,
+    "eps_yoy_pct": 88.59060402684564,
+    "dateTimeRaw": "07/02/2023 03:41 pm",
+    "currentDateClosePrice": 785.9,
+    "pastYearDateClosePrice": 706.5,
+    "price_yoy_pct": 11.238499646142955,
+    "price_qoq_pct": -5.540865384615387,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 31.22,
+        "sales": {
+          "actual": 19.878126360196873,
+          "ratio": 0.6367112863612068,
+          "score": -1.58
+        },
+        "eps": {
+          "actual": 88.59060402684564,
+          "ratio": 2.8376234473685344,
+          "score": 10
+        },
+        "price": {
+          "actual": 11.238499646142955,
+          "ratio": 0.35997756714102996,
+          "score": -1.4
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 7.805,
+        "sales": {
+          "actual": 3.6985547542502966,
+          "ratio": 0.4738699236707619,
+          "score": 1.42
+        },
+        "eps": {
+          "actual": -26.052631578947366,
+          "ratio": -3.3379412657203544,
+          "score": -10
+        },
+        "price": {
+          "actual": -5.540865384615387,
+          "ratio": -0.709912285024393,
+          "score": -6.18
+        }
+      },
+      "final_performance_score": {
+        "x": -0.48,
+        "abs_sqrt_x": 0.6928
+      },
+      "final_price_score": {
+        "x": -40.1524,
+        "abs_sqrt_x": 6.3366
+      }
+    }
+  },
+  {
+    "Quarter": "2023-Mar",
+    "Sales": 36009,
+    "EPS": 5.3,
+    "sales_qoq_change": 205,
+    "sales_qoq_pct": 0.5725617249469332,
+    "sales_yoy_change": 4509,
+    "sales_yoy_pct": 14.314285714285715,
+    "eps_qoq_change": 2.4899999999999998,
+    "eps_qoq_pct": 88.61209964412811,
+    "eps_yoy_change": 1.71,
+    "eps_yoy_pct": 47.63231197771588,
+    "dateTimeRaw": "16/05/2023 04:48 pm",
+    "currentDateClosePrice": 787.35,
+    "pastYearDateClosePrice": 693.2,
+    "price_yoy_pct": 13.581938834391224,
+    "price_qoq_pct": 0.18450184501845596,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 18.57,
+        "sales": {
+          "actual": 14.314285714285715,
+          "ratio": 0.7708285252711747,
+          "score": 1.18
+        },
+        "eps": {
+          "actual": 47.63231197771588,
+          "ratio": 2.565014107577592,
+          "score": 10
+        },
+        "price": {
+          "actual": 13.581938834391224,
+          "ratio": 0.7313914288848262,
+          "score": 2.31
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 4.6425,
+        "sales": {
+          "actual": 0.5725617249469332,
+          "ratio": 0.12333047387117571,
+          "score": 0.37
+        },
+        "eps": {
+          "actual": 88.61209964412811,
+          "ratio": 19.087151242677027,
+          "score": 10
+        },
+        "price": {
+          "actual": 0.18450184501845596,
+          "ratio": 0.0397419159975134,
+          "score": -4.6
+        }
+      },
+      "final_performance_score": {
+        "x": 201.5293,
+        "abs_sqrt_x": 14.1961
+      },
+      "final_price_score": {
+        "x": -15.8239,
+        "abs_sqrt_x": 3.9779
+      }
+    }
+  },
+  {
+    "Quarter": "2023-Jun",
+    "Sales": 37440,
+    "EPS": 2.84,
+    "sales_qoq_change": 1431,
+    "sales_qoq_pct": 3.9740064983754064,
+    "sales_yoy_change": 4635,
+    "sales_yoy_pct": 14.12894375857339,
+    "eps_qoq_change": -2.46,
+    "eps_qoq_pct": -46.41509433962264,
+    "eps_yoy_change": -0.040000000000000036,
+    "eps_yoy_pct": -1.3888888888888902,
+    "dateTimeRaw": "03/08/2023 04:57 pm",
+    "currentDateClosePrice": 871.7,
+    "pastYearDateClosePrice": 693.15,
+    "price_yoy_pct": 25.759215177090105,
+    "price_qoq_pct": 10.713151711437103,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 33.78,
+        "sales": {
+          "actual": 14.12894375857339,
+          "ratio": 0.4182635807748191,
+          "score": -7.04
+        },
+        "eps": {
+          "actual": -1.3888888888888902,
+          "ratio": -0.041115716071311134,
+          "score": -10
+        },
+        "price": {
+          "actual": 25.759215177090105,
+          "ratio": 0.7625581757575519,
+          "score": 2.63
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 8.445,
+        "sales": {
+          "actual": 3.9740064983754064,
+          "ratio": 0.4705750738159155,
+          "score": 1.41
+        },
+        "eps": {
+          "actual": -46.41509433962264,
+          "ratio": -5.496162740038205,
+          "score": -10
+        },
+        "price": {
+          "actual": 10.713151711437103,
+          "ratio": 1.268579243509426,
+          "score": 5.27
+        }
+      },
+      "final_performance_score": {
+        "x": -247.5735,
+        "abs_sqrt_x": 15.7345
+      },
+      "final_price_score": {
+        "x": 34.6898,
+        "abs_sqrt_x": 5.8898
+      }
+    }
+  },
+  {
+    "Quarter": "2023-Sep",
+    "Sales": 37044,
+    "EPS": 2.36,
+    "sales_qoq_change": -396,
+    "sales_qoq_pct": -1.0576923076923077,
+    "sales_yoy_change": 2517,
+    "sales_yoy_pct": 7.2899469980015645,
+    "eps_qoq_change": -0.48,
+    "eps_qoq_pct": -16.901408450704224,
+    "eps_yoy_change": -1.44,
+    "eps_yoy_pct": -37.89473684210527,
+    "dateTimeRaw": "31/10/2023 04:50 pm",
+    "currentDateClosePrice": 914.4,
+    "pastYearDateClosePrice": 832,
+    "price_yoy_pct": 9.90384615384615,
+    "price_qoq_pct": 4.8984742457267325,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 47.65,
+        "sales": {
+          "actual": 7.2899469980015645,
+          "ratio": 0.15298944381955015,
+          "score": -10
+        },
+        "eps": {
+          "actual": -37.89473684210527,
+          "ratio": -0.7952725465289668,
+          "score": -10
+        },
+        "price": {
+          "actual": 9.90384615384615,
+          "ratio": 0.20784566954556452,
+          "score": -2.92
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 11.9125,
+        "sales": {
+          "actual": -1.0576923076923077,
+          "ratio": -0.08878844135927033,
+          "score": -0.89
+        },
+        "eps": {
+          "actual": -16.901408450704224,
+          "ratio": -1.4187960923990954,
+          "score": -10
+        },
+        "price": {
+          "actual": 4.8984742457267325,
+          "ratio": 0.4112045536811528,
+          "score": -0.89
+        }
+      },
+      "final_performance_score": {
+        "x": -300.7921,
+        "abs_sqrt_x": 17.3434
+      },
+      "final_price_score": {
+        "x": -9.3185,
+        "abs_sqrt_x": 3.0526
+      }
+    }
+  },
+  {
+    "Quarter": "2023-Dec",
+    "Sales": 37900,
+    "EPS": 4.27,
+    "sales_qoq_change": 856,
+    "sales_qoq_pct": 2.3107655760716983,
+    "sales_yoy_change": 2096,
+    "sales_yoy_pct": 5.854094514579376,
+    "eps_qoq_change": 1.9099999999999997,
+    "eps_qoq_pct": 80.9322033898305,
+    "eps_yoy_change": 1.4599999999999995,
+    "eps_yoy_pct": 51.95729537366546,
+    "dateTimeRaw": "05/02/2024 03:52 pm",
+    "currentDateClosePrice": 1113.55,
+    "pastYearDateClosePrice": 792.9,
+    "price_yoy_pct": 40.44015638794299,
+    "price_qoq_pct": 21.779308836395447,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 29.45,
+        "sales": {
+          "actual": 5.854094514579376,
+          "ratio": 0.19878079845770377,
+          "score": -10
+        },
+        "eps": {
+          "actual": 51.95729537366546,
+          "ratio": 1.7642545118392348,
+          "score": 8.82
+        },
+        "price": {
+          "actual": 40.44015638794299,
+          "ratio": 1.3731801829522239,
+          "score": 5.93
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 7.3625,
+        "sales": {
+          "actual": 2.3107655760716983,
+          "ratio": 0.31385610540871967,
+          "score": 0.94
+        },
+        "eps": {
+          "actual": 80.9322033898305,
+          "ratio": 10.992489424764754,
+          "score": 10
+        },
+        "price": {
+          "actual": 21.779308836395447,
+          "ratio": 2.9581404192048146,
+          "score": 6.96
+        }
+      },
+      "final_performance_score": {
+        "x": 78.676,
+        "abs_sqrt_x": 8.8699
+      },
+      "final_price_score": {
+        "x": 83.6065,
+        "abs_sqrt_x": 9.1437
+      }
+    }
+  },
+  {
+    "Quarter": "2024-Mar",
+    "Sales": 37599,
+    "EPS": 3.61,
+    "sales_qoq_change": -301,
+    "sales_qoq_pct": -0.7941952506596305,
+    "sales_yoy_change": 1590,
+    "sales_yoy_pct": 4.415562775972673,
+    "eps_qoq_change": -0.6599999999999997,
+    "eps_qoq_pct": -15.45667447306791,
+    "eps_yoy_change": -1.69,
+    "eps_yoy_pct": -31.886792452830186,
+    "dateTimeRaw": "14/05/2024 04:22 pm",
+    "currentDateClosePrice": 1284.3,
+    "pastYearDateClosePrice": 791.95,
+    "price_yoy_pct": 62.16932887177219,
+    "price_qoq_pct": 15.333842216335144,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 41.71,
+        "sales": {
+          "actual": 4.415562775972673,
+          "ratio": 0.1058634086783187,
+          "score": -10
+        },
+        "eps": {
+          "actual": -31.886792452830186,
+          "ratio": -0.76448795139847,
+          "score": -10
+        },
+        "price": {
+          "actual": 62.16932887177219,
+          "ratio": 1.4905137586135744,
+          "score": 6.23
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 10.4275,
+        "sales": {
+          "actual": -0.7941952506596305,
+          "ratio": -0.07616353398797703,
+          "score": -0.76
+        },
+        "eps": {
+          "actual": -15.45667447306791,
+          "ratio": -1.482299158289898,
+          "score": -10
+        },
+        "price": {
+          "actual": 15.333842216335144,
+          "ratio": 1.4705195124751995,
+          "score": 5.47
+        }
+      },
+      "final_performance_score": {
+        "x": -300.5776,
+        "abs_sqrt_x": 17.3372
+      },
+      "final_price_score": {
+        "x": 68.7338,
+        "abs_sqrt_x": 8.2906
+      }
+    }
+  },
+  {
+    "Quarter": "2024-Jun",
+    "Sales": 38506,
+    "EPS": 7.21,
+    "sales_qoq_change": 907,
+    "sales_qoq_pct": 2.412298199420197,
+    "sales_yoy_change": 1066,
+    "sales_yoy_pct": 2.8472222222222223,
+    "eps_qoq_change": 3.6,
+    "eps_qoq_pct": 99.7229916897507,
+    "eps_yoy_change": 4.37,
+    "eps_yoy_pct": 153.8732394366197,
+    "dateTimeRaw": "05/08/2024 04:45 pm",
+    "currentDateClosePrice": 1465.7,
+    "pastYearDateClosePrice": 889.65,
+    "price_yoy_pct": 64.75018265610072,
+    "price_qoq_pct": 14.12442575722184,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 24.06,
+        "sales": {
+          "actual": 2.8472222222222223,
+          "ratio": 0.11833841322619379,
+          "score": -10
+        },
+        "eps": {
+          "actual": 153.8732394366197,
+          "ratio": 6.39539648531254,
+          "score": 10
+        },
+        "price": {
+          "actual": 64.75018265610072,
+          "ratio": 2.6911962866209778,
+          "score": 9.23
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 6.015,
+        "sales": {
+          "actual": 2.412298199420197,
+          "ratio": 0.4010470821978715,
+          "score": 1.2
+        },
+        "eps": {
+          "actual": 99.7229916897507,
+          "ratio": 16.579050987489726,
+          "score": 10
+        },
+        "price": {
+          "actual": 14.12442575722184,
+          "ratio": 2.3482004583909957,
+          "score": 6.35
+        }
+      },
+      "final_performance_score": {
+        "x": 101.44,
+        "abs_sqrt_x": 10.0717
+      },
+      "final_price_score": {
+        "x": 125.5154,
+        "abs_sqrt_x": 11.2034
+      }
+    }
+  },
+  {
+    "Quarter": "2024-Sep",
+    "Sales": 41473,
+    "EPS": 6.21,
+    "sales_qoq_change": 2967,
+    "sales_qoq_pct": 7.7052926816600005,
+    "sales_yoy_change": 4429,
+    "sales_yoy_pct": 11.956052262174712,
+    "eps_qoq_change": -1,
+    "eps_qoq_pct": -13.869625520110956,
+    "eps_yoy_change": 3.85,
+    "eps_yoy_pct": 163.135593220339,
+    "dateTimeRaw": "28/10/2024 04:21 pm",
+    "currentDateClosePrice": 1663.35,
+    "pastYearDateClosePrice": 914.6,
+    "price_yoy_pct": 81.86638967854797,
+    "price_qoq_pct": 13.485024220508961,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 30.11,
+        "sales": {
+          "actual": 11.956052262174712,
+          "ratio": 0.3970791186374863,
+          "score": -7.57
+        },
+        "eps": {
+          "actual": 163.135593220339,
+          "ratio": 5.417987154445002,
+          "score": 10
+        },
+        "price": {
+          "actual": 81.86638967854797,
+          "ratio": 2.718910318118498,
+          "score": 9.3
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 7.5275,
+        "sales": {
+          "actual": 7.7052926816600005,
+          "ratio": 1.0236190875669213,
+          "score": 3.08
+        },
+        "eps": {
+          "actual": -13.869625520110956,
+          "ratio": -1.842527468629818,
+          "score": -10
+        },
+        "price": {
+          "actual": 13.485024220508961,
+          "ratio": 1.7914346357368265,
+          "score": 5.79
+        }
+      },
+      "final_performance_score": {
+        "x": -47.8185,
+        "abs_sqrt_x": 6.9151
+      },
+      "final_price_score": {
+        "x": 120.0141,
+        "abs_sqrt_x": 10.9551
+      }
+    }
+  },
+  {
+    "Quarter": "2024-Dec",
+    "Sales": 45129,
+    "EPS": 25.54,
+    "sales_qoq_change": 3656,
+    "sales_qoq_pct": 8.815373857690547,
+    "sales_yoy_change": 7229,
+    "sales_yoy_pct": 19.073878627968337,
+    "eps_qoq_change": 19.33,
+    "eps_qoq_pct": 311.2721417069243,
+    "eps_yoy_change": 21.27,
+    "eps_yoy_pct": 498.1264637002342,
+    "dateTimeRaw": "06/02/2025 04:38 pm",
+    "currentDateClosePrice": 1619.75,
+    "pastYearDateClosePrice": 1134.05,
+    "price_yoy_pct": 42.82879943565099,
+    "price_qoq_pct": -2.6212162202783484,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 10.34,
+        "sales": {
+          "actual": 19.073878627968337,
+          "ratio": 1.8446691129563189,
+          "score": 9.22
+        },
+        "eps": {
+          "actual": 498.1264637002342,
+          "ratio": 48.17470635398783,
+          "score": 10
+        },
+        "price": {
+          "actual": 42.82879943565099,
+          "ratio": 4.142050235556189,
+          "score": 10
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 2.585,
+        "sales": {
+          "actual": 8.815373857690547,
+          "ratio": 3.410202652878355,
+          "score": 10
+        },
+        "eps": {
+          "actual": 311.2721417069243,
+          "ratio": 120.41475501234983,
+          "score": 10
+        },
+        "price": {
+          "actual": -2.6212162202783484,
+          "ratio": -1.0140101432411406,
+          "score": -6.69
+        }
+      },
+      "final_performance_score": {
+        "x": 385.0084,
+        "abs_sqrt_x": 19.6216
+      },
+      "final_price_score": {
+        "x": 55.2439,
+        "abs_sqrt_x": 7.4326
+      }
+    }
+  },
+  {
+    "Quarter": "2025-Mar",
+    "Sales": 47876,
+    "EPS": 19.02,
+    "sales_qoq_change": 2747,
+    "sales_qoq_pct": 6.086995058609763,
+    "sales_yoy_change": 10277,
+    "sales_yoy_pct": 27.333173754621132,
+    "eps_qoq_change": -6.52,
+    "eps_qoq_pct": -25.52858261550509,
+    "eps_yoy_change": 15.41,
+    "eps_yoy_pct": 426.8698060941828,
+    "dateTimeRaw": "13/05/2025 05:40 pm",
+    "currentDateClosePrice": 1820.6,
+    "pastYearDateClosePrice": 1285.95,
+    "price_yoy_pct": 41.57626657335043,
+    "price_qoq_pct": 12.400061737922513,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 13.18,
+        "sales": {
+          "actual": 27.333173754621132,
+          "ratio": 2.0738371589242135,
+          "score": 10
+        },
+        "eps": {
+          "actual": 426.8698060941828,
+          "ratio": 32.38769393734316,
+          "score": 10
+        },
+        "price": {
+          "actual": 41.57626657335043,
+          "ratio": 3.154496705110048,
+          "score": 10
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 3.295,
+        "sales": {
+          "actual": 6.086995058609763,
+          "ratio": 1.8473429616418098,
+          "score": 5.97
+        },
+        "eps": {
+          "actual": -25.52858261550509,
+          "ratio": -7.747673024432501,
+          "score": -10
+        },
+        "price": {
+          "actual": 12.400061737922513,
+          "ratio": 3.7632964303254974,
+          "score": 7.76
+        }
+      },
+      "final_performance_score": {
+        "x": 135.6409,
+        "abs_sqrt_x": 11.6465
+      },
+      "final_price_score": {
+        "x": 160.2176,
+        "abs_sqrt_x": 12.6577
+      }
+    }
+  },
+  {
+    "Quarter": "2025-Jun",
+    "Sales": 49463,
+    "EPS": 10.26,
+    "sales_qoq_change": 1587,
+    "sales_qoq_pct": 3.314813267607988,
+    "sales_yoy_change": 10957,
+    "sales_yoy_pct": 28.455305666649355,
+    "eps_qoq_change": -8.76,
+    "eps_qoq_pct": -46.05678233438486,
+    "eps_yoy_change": 3.05,
+    "eps_yoy_pct": 42.302357836338416,
+    "dateTimeRaw": "05/08/2025 05:10 pm",
+    "currentDateClosePrice": 1931.8,
+    "pastYearDateClosePrice": 1465.7,
+    "price_yoy_pct": 31.80050487821518,
+    "price_qoq_pct": 6.107876524222786,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 22.65,
+        "sales": {
+          "actual": 28.455305666649355,
+          "ratio": 1.256304885944784,
+          "score": 6.28
+        },
+        "eps": {
+          "actual": 42.302357836338416,
+          "ratio": 1.8676537676087601,
+          "score": 9.34
+        },
+        "price": {
+          "actual": 31.80050487821518,
+          "ratio": 1.403995800362701,
+          "score": 6.01
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 5.6625,
+        "sales": {
+          "actual": 3.314813267607988,
+          "ratio": 0.585397486553287,
+          "score": 1.76
+        },
+        "eps": {
+          "actual": -46.05678233438486,
+          "ratio": -8.133648094372603,
+          "score": -10
+        },
+        "price": {
+          "actual": 6.107876524222786,
+          "ratio": 1.078653690811971,
+          "score": 5.08
+        }
+      },
+      "final_performance_score": {
+        "x": 29.7716,
+        "abs_sqrt_x": 5.4563
+      },
+      "final_price_score": {
+        "x": 61.9265,
+        "abs_sqrt_x": 7.8693
+      }
+    }
+  },
+  {
+    "Quarter": "2025-Sep",
+    "Sales": 52145,
+    "EPS": 11.66,
+    "sales_qoq_change": 2682,
+    "sales_qoq_pct": 5.422234801771021,
+    "sales_yoy_change": 10672,
+    "sales_yoy_pct": 25.732404214790343,
+    "eps_qoq_change": 1.4000000000000004,
+    "eps_qoq_pct": 13.645224171539965,
+    "eps_yoy_change": 5.45,
+    "eps_yoy_pct": 87.76167471819646,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": -100,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  }
+]

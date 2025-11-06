@@ -1,0 +1,3406 @@
+{
+  "companyCode": "TRENT-LIMITED-46728633",
+  "timestamp": "2025-10-13T12:10:20.356Z",
+  "annualResults": {
+    "2023": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "82 420",
+        "forecast": "81 101",
+        "spreadRaw": "1.63%"
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "10 737",
+        "forecast": "11 222",
+        "spreadRaw": "-4.33%"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "5 800",
+        "forecast": "6 673",
+        "spreadRaw": "-13.08%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "5 521",
+        "forecast": "5 544",
+        "spreadRaw": "-0.41%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "3 937",
+        "forecast": "4 770",
+        "spreadRaw": "-17.46%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "12,5",
+        "forecast": "13,0",
+        "spreadRaw": "-3.57%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "27/04/23",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2024": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "123 751",
+        "forecast": "124 704",
+        "spreadRaw": "-0.76%"
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "19 221",
+        "forecast": "18 982",
+        "spreadRaw": "1.26%"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "12 510",
+        "forecast": "12 685",
+        "spreadRaw": "-1.38%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "19 208",
+        "forecast": "11 931",
+        "spreadRaw": "61%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "14 868",
+        "forecast": "9 777",
+        "spreadRaw": "52.07%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "41,8",
+        "forecast": "27,6",
+        "spreadRaw": "51.32%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "29/04/24",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2025": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "171 346",
+        "forecast": "173 375",
+        "spreadRaw": "-1.17%"
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "27 590",
+        "forecast": "27 589",
+        "spreadRaw": "0%"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "18 633",
+        "forecast": "18 715",
+        "spreadRaw": "-0.44%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "19 432",
+        "forecast": "19 617",
+        "spreadRaw": "-0.94%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "15 467",
+        "forecast": "16 340",
+        "spreadRaw": "-5.34%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "43,5",
+        "forecast": "46,0",
+        "spreadRaw": "-5.37%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "29/04/25",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2026": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "216 506",
+        "spreadRaw": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "35 592",
+        "spreadRaw": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "25 419",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "26 257",
+        "spreadRaw": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "20 428",
+        "spreadRaw": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "57,0",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": "-",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2027": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "274 350",
+        "spreadRaw": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "45 865",
+        "spreadRaw": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "33 244",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "33 898",
+        "spreadRaw": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "26 731",
+        "spreadRaw": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "74,7",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2028": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "335 949",
+        "spreadRaw": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "57 354",
+        "spreadRaw": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "41 551",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "42 756",
+        "spreadRaw": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "33 433",
+        "spreadRaw": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "94,4",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": null,
+        "spreadRaw": null
+      }
+    }
+  },
+  "quarterlyResults": {
+    "2024 Q2": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "29 824",
+        "releasedNum": 29824,
+        "forecast": "26 934",
+        "forecastNum": 26934,
+        "spreadRaw": "10.73%",
+        "spreadPct": 10.73
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "4 566",
+        "releasedNum": 4566,
+        "forecast": "3 291",
+        "forecastNum": 3291,
+        "spreadRaw": "38.75%",
+        "spreadPct": 38.75
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "3 044",
+        "releasedNum": 3044,
+        "forecast": "2 034",
+        "forecastNum": 2034,
+        "spreadRaw": "49.63%",
+        "spreadPct": 49.63
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "3 143",
+        "releasedNum": 3143,
+        "forecast": "1 625",
+        "forecastNum": 1625,
+        "spreadRaw": "93.43%",
+        "spreadPct": 93.43
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "2 347",
+        "releasedNum": 2347,
+        "forecast": "1 382",
+        "forecastNum": 1382,
+        "spreadRaw": "69.81%",
+        "spreadPct": 69.81
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "6,60",
+        "releasedNum": 6.6,
+        "forecast": "4,00",
+        "forecastNum": 4,
+        "spreadRaw": "65%",
+        "spreadPct": 65
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "07/11/23",
+        "releasedDate": "07/11/23",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q3": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "34 666",
+        "releasedNum": 34666,
+        "forecast": "32 612",
+        "forecastNum": 32612,
+        "spreadRaw": "6.3%",
+        "spreadPct": 6.3
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "6 285",
+        "releasedNum": 6285,
+        "forecast": "5 274",
+        "forecastNum": 5274,
+        "spreadRaw": "19.18%",
+        "spreadPct": 19.18
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "4 640",
+        "releasedNum": 4640,
+        "forecast": "4 287",
+        "forecastNum": 4287,
+        "spreadRaw": "8.23%",
+        "spreadPct": 8.23
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "4 455",
+        "releasedNum": 4455,
+        "forecast": "3 550",
+        "forecastNum": 3550,
+        "spreadRaw": "25.51%",
+        "spreadPct": 25.51
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "3 744",
+        "releasedNum": 3744,
+        "forecast": "2 642",
+        "forecastNum": 2642,
+        "spreadRaw": "41.72%",
+        "spreadPct": 41.72
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "10,5",
+        "releasedNum": 10.5,
+        "forecast": "7,79",
+        "forecastNum": 7.79,
+        "spreadRaw": "35.12%",
+        "spreadPct": 35.12
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "07/02/24",
+        "releasedDate": "07/02/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q4": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "32 977",
+        "releasedNum": 32977,
+        "forecast": "32 008",
+        "forecastNum": 32008,
+        "spreadRaw": "3.03%",
+        "spreadPct": 3.03
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "4 696",
+        "releasedNum": 4696,
+        "forecast": "4 310",
+        "forecastNum": 4310,
+        "spreadRaw": "8.98%",
+        "spreadPct": 8.98
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "7 042",
+        "releasedNum": 7042,
+        "forecast": "3 127",
+        "forecastNum": 3127,
+        "spreadRaw": "125.21%",
+        "spreadPct": 125.21
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "19,8",
+        "releasedNum": 19.8,
+        "forecast": "10,7",
+        "forecastNum": 10.7,
+        "spreadRaw": "84.5%",
+        "spreadPct": 84.5
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "29/04/24",
+        "releasedDate": "29/04/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q1": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "41 044",
+        "releasedNum": 41044,
+        "forecast": "38 324",
+        "forecastNum": 38324,
+        "spreadRaw": "7.1%",
+        "spreadPct": 7.1
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "6 127",
+        "releasedNum": 6127,
+        "forecast": "6 242",
+        "forecastNum": 6242,
+        "spreadRaw": "-1.84%",
+        "spreadPct": -1.84
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "4 314",
+        "releasedNum": 4314,
+        "forecast": "5 090",
+        "forecastNum": 5090,
+        "spreadRaw": "-15.25%",
+        "spreadPct": -15.25
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "3 912",
+        "releasedNum": 3912,
+        "forecast": "3 647",
+        "forecastNum": 3647,
+        "spreadRaw": "7.27%",
+        "spreadPct": 7.27
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "11,0",
+        "releasedNum": 11,
+        "forecast": "10,3",
+        "forecastNum": 10.3,
+        "spreadRaw": "7.59%",
+        "spreadPct": 7.59
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "09/08/24",
+        "releasedDate": "09/08/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q2": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "41 567",
+        "releasedNum": 41567,
+        "forecast": "43 372",
+        "forecastNum": 43372,
+        "spreadRaw": "-4.16%",
+        "spreadPct": -4.16
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "6 430",
+        "releasedNum": 6430,
+        "forecast": "6 626",
+        "forecastNum": 6626,
+        "spreadRaw": "-2.95%",
+        "spreadPct": -2.95
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "4 461",
+        "releasedNum": 4461,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "4 668",
+        "releasedNum": 4668,
+        "forecast": "5 557",
+        "forecastNum": 5557,
+        "spreadRaw": "-15.99%",
+        "spreadPct": -15.99
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "3 388",
+        "releasedNum": 3388,
+        "forecast": "3 899",
+        "forecastNum": 3899,
+        "spreadRaw": "-13.12%",
+        "spreadPct": -13.12
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "9,53",
+        "releasedNum": 9.53,
+        "forecast": "10,6",
+        "forecastNum": 10.6,
+        "spreadRaw": "-10.1%",
+        "spreadPct": -10.1
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "07/11/24",
+        "releasedDate": "07/11/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q3": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "46 566",
+        "releasedNum": 46566,
+        "forecast": "46 670",
+        "forecastNum": 46670,
+        "spreadRaw": "-0.22%",
+        "spreadPct": -0.22
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "8 682",
+        "releasedNum": 8682,
+        "forecast": "8 232",
+        "forecastNum": 8232,
+        "spreadRaw": "5.46%",
+        "spreadPct": 5.46
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "6 232",
+        "releasedNum": 6232,
+        "forecast": "6 726",
+        "forecastNum": 6726,
+        "spreadRaw": "-7.34%",
+        "spreadPct": -7.34
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "4 973",
+        "releasedNum": 4973,
+        "forecast": "5 320",
+        "forecastNum": 5320,
+        "spreadRaw": "-6.53%",
+        "spreadPct": -6.53
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "14,0",
+        "releasedNum": 14,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "06/02/25",
+        "releasedDate": "06/02/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q4": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "42 169",
+        "releasedNum": 42169,
+        "forecast": "42 174",
+        "forecastNum": 42174,
+        "spreadRaw": "-0.01%",
+        "spreadPct": -0.01
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "7 326",
+        "releasedNum": 7326,
+        "forecast": "6 325",
+        "forecastNum": 6325,
+        "spreadRaw": "15.83%",
+        "spreadPct": 15.83
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "3 800",
+        "releasedNum": 3800,
+        "forecast": "4 172",
+        "forecastNum": 4172,
+        "spreadRaw": "-8.91%",
+        "spreadPct": -8.91
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "4 169",
+        "releasedNum": 4169,
+        "forecast": "3 861",
+        "forecastNum": 3861,
+        "spreadRaw": "7.98%",
+        "spreadPct": 7.98
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "3 182",
+        "releasedNum": 3182,
+        "forecast": "4 299",
+        "forecastNum": 4299,
+        "spreadRaw": "-26%",
+        "spreadPct": -26
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "9,84",
+        "releasedNum": 9.84,
+        "forecast": "14,0",
+        "forecastNum": 14,
+        "spreadRaw": "-29.75%",
+        "spreadPct": -29.75
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "29/04/25",
+        "releasedDate": "29/04/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q1": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "48 835",
+        "releasedNum": 48835,
+        "forecast": "50 439",
+        "forecastNum": 50439,
+        "spreadRaw": "-3.18%",
+        "spreadPct": -3.18
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "8 479",
+        "releasedNum": 8479,
+        "forecast": "7 911",
+        "forecastNum": 7911,
+        "spreadRaw": "7.17%",
+        "spreadPct": 7.17
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "5 549",
+        "releasedNum": 5549,
+        "forecast": "6 522",
+        "forecastNum": 6522,
+        "spreadRaw": "-14.91%",
+        "spreadPct": -14.91
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "5 647",
+        "releasedNum": 5647,
+        "forecast": "6 783",
+        "forecastNum": 6783,
+        "spreadRaw": "-16.75%",
+        "spreadPct": -16.75
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "4 297",
+        "releasedNum": 4297,
+        "forecast": "4 782",
+        "forecastNum": 4782,
+        "spreadRaw": "-10.14%",
+        "spreadPct": -10.14
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "12,1",
+        "releasedNum": 12.1,
+        "forecast": "14,9",
+        "forecastNum": 14.9,
+        "spreadRaw": "-18.78%",
+        "spreadPct": -18.78
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "06/08/25",
+        "releasedDate": "06/08/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q2": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "48 200",
+        "forecastNum": 48200,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "7 923",
+        "forecastNum": 7923,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "4 385",
+        "forecastNum": 4385,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "15,5",
+        "forecastNum": 15.5,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q3": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "5 500",
+        "forecastNum": 5500,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "15,5",
+        "forecastNum": 15.5,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q4": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "4 810",
+        "forecastNum": 4810,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "13,5",
+        "forecastNum": 13.5,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    }
+  },
+  "upcomingEvents": {
+    "count": 4,
+    "events": [
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113382.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/02/2026",
+        "dateTimeISO": "2026-02-04T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48805037.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/04/2026",
+        "dateTimeISO": "2026-04-22T18:30:00.000Z",
+        "title": "Q4 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2026-Earnings-Release-Projected-49684164.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/08/2026",
+        "dateTimeISO": "2026-08-11T18:30:00.000Z",
+        "title": "Q1 2027 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2027-Earnings-Release-Projected-50697147.ics"
+      }
+    ]
+  },
+  "pastEvents": {
+    "count": 245,
+    "events": [
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/09/2025",
+        "dateTimeISO": "2025-09-22T18:30:00.000Z",
+        "title": "Investor Meeting - Invesco Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Invesco-Mutual-Fund-51147473.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/09/2025",
+        "dateTimeISO": "2025-09-21T18:30:00.000Z",
+        "title": "Investor Meeting - JP Morgan",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-JP-Morgan-51066231.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/09/2025",
+        "dateTimeISO": "2025-09-18T18:30:00.000Z",
+        "title": "Investor Meeting - RBC BlueBay Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-RBC-BlueBay-Asset-Management-51066229.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/09/2025",
+        "dateTimeISO": "2025-09-17T18:30:00.000Z",
+        "title": "Investor Meeting - Aberdeen Group",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Aberdeen-Group-51066227.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/09/2025",
+        "dateTimeISO": "2025-09-16T18:30:00.000Z",
+        "title": "Investor Meeting - Ambit Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Ambit-Capital-51066225.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/09/2025",
+        "dateTimeISO": "2025-09-09T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-50940951.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/09/2025",
+        "dateTimeISO": "2025-09-08T18:30:00.000Z",
+        "title": "Investor Meeting - Kotak Securities Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Kotak-Securities-Limited-50940941.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/09/2025",
+        "dateTimeISO": "2025-09-04T18:30:00.000Z",
+        "title": "Investor Meeting - Goldman Sachs",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Goldman-Sachs-50940936.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/08/2025",
+        "dateTimeISO": "2025-08-28T18:30:00.000Z",
+        "title": "Investor Meeting - UBS",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-UBS-50867205.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/08/2025",
+        "dateTimeISO": "2025-08-27T18:30:00.000Z",
+        "title": "Investor Meeting - ICICI Securities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ICICI-Securities-50867203.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/08/2025",
+        "dateTimeISO": "2025-08-25T18:30:00.000Z",
+        "title": "Investor Meeting - Dalal Broacha Portfolio",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Dalal-Broacha-Portfolio-50904489.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/08/2025",
+        "dateTimeISO": "2025-08-24T18:30:00.000Z",
+        "title": "Investor Meeting - IIFLCAP",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFLCAP-50904487.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/08/2025",
+        "dateTimeISO": "2025-08-24T18:30:00.000Z",
+        "title": "Investor Meeting - Amansa Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Amansa-Capital-50867200.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/08/2025",
+        "dateTimeISO": "2025-08-24T18:30:00.000Z",
+        "title": "Investor Meeting - Dalal Broacha Portfolio Managers Pvt Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Dalal-Broacha-Portfolio-Managers-Pvt-Ltd-50825809.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/08/2025",
+        "dateTimeISO": "2025-08-21T18:30:00.000Z",
+        "title": "Investor Meeting - Bernstein",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Bernstein-50867195.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/08/2025",
+        "dateTimeISO": "2025-08-21T18:30:00.000Z",
+        "title": "Investor Meeting - Balyasny Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Balyasny-Asset-Management-50825807.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/08/2025",
+        "dateTimeISO": "2025-08-19T18:30:00.000Z",
+        "title": "Investor Meeting - Goldman Sachs",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Goldman-Sachs-50825804.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/08/2025",
+        "dateTimeISO": "2025-08-19T18:30:00.000Z",
+        "title": "Antique Flagship India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Antique-Flagship-India-Conference-50825803.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/08/2025",
+        "dateTimeISO": "2025-08-18T18:30:00.000Z",
+        "title": "Investor Meeting - Mirae Asset Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Mirae-Asset-Mutual-Fund-50856293.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/08/2025 05:50 pm",
+        "dateTimeISO": "2025-08-06T12:20:00.000Z",
+        "title": "Q1 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Release-47464487.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/07/2025 03:30 pm",
+        "dateTimeISO": "2025-07-03T10:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-49765764.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/06/2025",
+        "dateTimeISO": "2025-06-19T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Asset-Management-50270752.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/06/2025",
+        "dateTimeISO": "2025-06-17T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-50220844.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/06/2025",
+        "dateTimeISO": "2025-06-15T18:30:00.000Z",
+        "title": "Investor Meeting - Axis Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Axis-Asset-Management-50220841.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/06/2025",
+        "dateTimeISO": "2025-06-15T18:30:00.000Z",
+        "title": "Investor Meeting - Citigroup",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Citigroup-50209695.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/06/2025",
+        "dateTimeISO": "2025-06-11T18:30:00.000Z",
+        "title": "Investor Meeting - ADIA",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ADIA-50083810.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/06/2025",
+        "dateTimeISO": "2025-06-11T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-49902979.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/06/2025",
+        "dateTimeISO": "2025-06-04T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-50083806.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/06/2025",
+        "dateTimeISO": "2025-06-03T18:30:00.000Z",
+        "title": "Morgan Stanley India Investment Forum",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-India-Investment-Forum-49987571.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/06/2025",
+        "dateTimeISO": "2025-06-01T18:30:00.000Z",
+        "title": "Bank of America Securities India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Bank-of-America-Securities-India-Conference-49987570.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/05/2025",
+        "dateTimeISO": "2025-05-28T18:30:00.000Z",
+        "title": "Investor Meeting - HSBC",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-HSBC-49987567.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/05/2025",
+        "dateTimeISO": "2025-05-27T18:30:00.000Z",
+        "title": "Investor Meeting - Macquarie Capital Securities (India) Private Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Macquarie-Capital-Securities-India-Private-Ltd-49987566.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/05/2025",
+        "dateTimeISO": "2025-05-27T18:30:00.000Z",
+        "title": "Trinity Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Trinity-Conference-49987564.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/05/2025",
+        "dateTimeISO": "2025-05-22T18:30:00.000Z",
+        "title": "Investor Meeting - Kotak (Chanakya Wealth)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Kotak-Chanakya-Wealth-49993677.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/05/2025",
+        "dateTimeISO": "2025-05-20T18:30:00.000Z",
+        "title": "Investor Meeting - Axis Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Axis-Mutual-Fund-49993673.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/05/2025",
+        "dateTimeISO": "2025-05-19T18:30:00.000Z",
+        "title": "Phillips Capital Bharat Consumption Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Phillips-Capital-Bharat-Consumption-Conference-49987551.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/05/2025",
+        "dateTimeISO": "2025-05-15T18:30:00.000Z",
+        "title": "Investor Meeting - Kotak",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Kotak-49922355.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/05/2025",
+        "dateTimeISO": "2025-05-13T18:30:00.000Z",
+        "title": "Investor Meeting - Bernstein",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Bernstein-49922333.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/05/2025",
+        "dateTimeISO": "2025-05-12T18:30:00.000Z",
+        "title": "Investor Meeting - Amansa Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Amansa-Capital-49901481.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/05/2025",
+        "dateTimeISO": "2025-05-07T18:30:00.000Z",
+        "title": "Investor Meeting - GIC Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-GIC-Asset-Management-49822112.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/05/2025",
+        "dateTimeISO": "2025-05-06T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-49822108.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/04/2025 03:17 pm",
+        "dateTimeISO": "2025-04-29T09:47:00.000Z",
+        "title": "Q4 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Release-46574346.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/03/2025",
+        "dateTimeISO": "2025-03-20T18:30:00.000Z",
+        "title": "Investor Meeting - Tata AIG",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Tata-AIG-49370729.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/03/2025",
+        "dateTimeISO": "2025-03-19T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Asset Management Company Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Asset-Management-Company-Ltd-49383102.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/03/2025",
+        "dateTimeISO": "2025-03-19T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-49240344.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/03/2025",
+        "dateTimeISO": "2025-03-18T18:30:00.000Z",
+        "title": "Investor Meeting - Aditya Birla Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Aditya-Birla-Capital-49333853.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/03/2025",
+        "dateTimeISO": "2025-03-18T18:30:00.000Z",
+        "title": "Investor Meeting - Goldman Sachs",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Goldman-Sachs-49333851.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/03/2025",
+        "dateTimeISO": "2025-03-17T18:30:00.000Z",
+        "title": "Investor Meeting - North Rock Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-North-Rock-Capital-49333848.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/03/2025",
+        "dateTimeISO": "2025-03-05T18:30:00.000Z",
+        "title": "Investor Meeting - Lord Abbett",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Lord-Abbett-49095876.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/03/2025",
+        "dateTimeISO": "2025-03-05T18:30:00.000Z",
+        "title": "Investor Meeting - Aikya Investment Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Aikya-Investment-Management-49044700.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/03/2025",
+        "dateTimeISO": "2025-03-04T18:30:00.000Z",
+        "title": "Investor Meeting - Lord Abbett",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Lord-Abbett-49240320.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/03/2025",
+        "dateTimeISO": "2025-03-04T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-49207031.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/03/2025",
+        "dateTimeISO": "2025-03-04T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-49207030.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/03/2025",
+        "dateTimeISO": "2025-03-03T18:30:00.000Z",
+        "title": "Investor Meeting - Jay Kothari DSP",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Jay-Kothari-DSP-49207027.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/02/2025",
+        "dateTimeISO": "2025-02-26T18:30:00.000Z",
+        "title": "IIFL Enterprising India Global Investor Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/IIFL-Enterprising-India-Global-Investor-Conference-48960195.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/02/2025",
+        "dateTimeISO": "2025-02-20T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-49095863.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/02/2025",
+        "dateTimeISO": "2025-02-20T18:30:00.000Z",
+        "title": "Investor Meeting - Loomis, Sayles & Company",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Loomis-Sayles-Company-49044693.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/02/2025",
+        "dateTimeISO": "2025-02-19T18:30:00.000Z",
+        "title": "Investor Meeting - Ikigai Asset Manager",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Ikigai-Asset-Manager-49095859.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/02/2025",
+        "dateTimeISO": "2025-02-19T18:30:00.000Z",
+        "title": "Investor Meeting - Goldman Sachs",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Goldman-Sachs-49044691.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/02/2025",
+        "dateTimeISO": "2025-02-19T18:30:00.000Z",
+        "title": "Investor Meeting - ICICI Prudential MF",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ICICI-Prudential-MF-48960184.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/02/2025",
+        "dateTimeISO": "2025-02-18T18:30:00.000Z",
+        "title": "Investor Meeting - Jennison Associates",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Jennison-Associates-49044688.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/02/2025",
+        "dateTimeISO": "2025-02-18T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Financial Services Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Financial-Services-Limited-49044687.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/02/2025",
+        "dateTimeISO": "2025-02-17T18:30:00.000Z",
+        "title": "Investor Meeting - Amansa Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Amansa-Capital-48960182.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/02/2025",
+        "dateTimeISO": "2025-02-17T18:30:00.000Z",
+        "title": "Kotak Chasing Growth Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Kotak-Chasing-Growth-Conference-48960181.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/02/2025",
+        "dateTimeISO": "2025-02-13T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-49044682.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/02/2025",
+        "dateTimeISO": "2025-02-13T18:30:00.000Z",
+        "title": "Investor Meeting - Lord Abbett",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Lord-Abbett-49044681.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/02/2025",
+        "dateTimeISO": "2025-02-12T18:30:00.000Z",
+        "title": "Investor Meeting - Bernstein",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Bernstein-49000456.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/02/2025",
+        "dateTimeISO": "2025-02-11T18:30:00.000Z",
+        "title": "Axis Capital India Flagship Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Axis-Capital-India-Flagship-Conference-48960162.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/02/2025",
+        "dateTimeISO": "2025-02-10T18:30:00.000Z",
+        "title": "Nuvama India Investor Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Nuvama-India-Investor-Conference-48960151.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/02/2025 12:54 pm",
+        "dateTimeISO": "2025-02-06T07:24:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-45808892.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/02/2025",
+        "dateTimeISO": "2025-02-05T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Call-48989853.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/12/2024",
+        "dateTimeISO": "2024-12-18T18:30:00.000Z",
+        "title": "Investor Meeting - GIC Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-GIC-Asset-Management-48593147.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/12/2024",
+        "dateTimeISO": "2024-12-18T18:30:00.000Z",
+        "title": "Investor Meeting - AustralianSuper Private Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-AustralianSuper-Private-Limited-48557428.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/12/2024",
+        "dateTimeISO": "2024-12-17T18:30:00.000Z",
+        "title": "Investor Meeting - Baroda BNP Paribas Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Baroda-BNP-Paribas-Mutual-Fund-48480768.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/12/2024",
+        "dateTimeISO": "2024-12-12T18:30:00.000Z",
+        "title": "Investor Meeting - SBI Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-SBI-Mutual-Fund-48480766.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/12/2024",
+        "dateTimeISO": "2024-12-11T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-48537816.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/12/2024",
+        "dateTimeISO": "2024-12-10T18:30:00.000Z",
+        "title": "Investor Meeting - Marcellus Investment",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Marcellus-Investment-48537809.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/12/2024",
+        "dateTimeISO": "2024-12-09T18:30:00.000Z",
+        "title": "Investor Meeting - AustralianSuper Private Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-AustralianSuper-Private-Limited-48480761.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/12/2024",
+        "dateTimeISO": "2024-12-05T18:30:00.000Z",
+        "title": "Investor Meeting - Sumitomo Mitsui DS AM, Singapore",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Sumitomo-Mitsui-DS-AM-Singapore-48480760.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/12/2024",
+        "dateTimeISO": "2024-12-04T18:30:00.000Z",
+        "title": "Investor Meeting - Sumitomo Mitsui DS AM",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Sumitomo-Mitsui-DS-AM-48528108.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/12/2024",
+        "dateTimeISO": "2024-12-03T18:30:00.000Z",
+        "title": "Investor Meeting - WCM Investment",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-WCM-Investment-48480720.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/11/2024",
+        "dateTimeISO": "2024-11-22T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-48424439.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/11/2024",
+        "dateTimeISO": "2024-11-21T18:30:00.000Z",
+        "title": "Investor Meeting - Centrum Broking Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Centrum-Broking-Limited-48269309.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/11/2024",
+        "dateTimeISO": "2024-11-21T18:30:00.000Z",
+        "title": "Investor Meeting - Valiant Capital Management, L.P.",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Valiant-Capital-Management-L-P-48255381.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/11/2024",
+        "dateTimeISO": "2024-11-19T18:30:00.000Z",
+        "title": "Morgan Stanley Asia Pacific Summit",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-Asia-Pacific-Summit-48255377.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/11/2024",
+        "dateTimeISO": "2024-11-18T18:30:00.000Z",
+        "title": "Anand Rathi Flagship G-200 Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Anand-Rathi-Flagship-G-200-Conference-48255375.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/11/2024",
+        "dateTimeISO": "2024-11-17T18:30:00.000Z",
+        "title": "Investor Meeting - Abu Dhabi Investment Authority",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Abu-Dhabi-Investment-Authority-48344978.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/11/2024",
+        "dateTimeISO": "2024-11-13T18:30:00.000Z",
+        "title": "Investor Meeting - Wellington Management Co. LLP",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Wellington-Management-Co-LLP-48269292.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/11/2024",
+        "dateTimeISO": "2024-11-11T18:30:00.000Z",
+        "title": "Investor Meeting - Avendus Spark",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Avendus-Spark-48255345.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/11/2024",
+        "dateTimeISO": "2024-11-11T18:30:00.000Z",
+        "title": "UBS India Summit",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/UBS-India-Summit-48255344.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/11/2024 12:12 pm",
+        "dateTimeISO": "2024-11-07T06:42:00.000Z",
+        "title": "Q2 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Release-45098621.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/09/2024",
+        "dateTimeISO": "2024-09-22T18:30:00.000Z",
+        "title": "Investor Meeting - Hill Fort Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Hill-Fort-Capital-47817289.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/09/2024",
+        "dateTimeISO": "2024-09-17T18:30:00.000Z",
+        "title": "Investor Meeting - Arisaig Partners",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Arisaig-Partners-47817285.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/09/2024",
+        "dateTimeISO": "2024-09-11T18:30:00.000Z",
+        "title": "Investor Meeting - Veritas Asset Management (Asia) Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Veritas-Asset-Management-Asia-Ltd-47817277.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/09/2024",
+        "dateTimeISO": "2024-09-10T18:30:00.000Z",
+        "title": "Investor Meeting - Bank of India Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Bank-of-India-Mutual-Fund-47817274.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/09/2024",
+        "dateTimeISO": "2024-09-09T18:30:00.000Z",
+        "title": "Investor Meeting - Elara Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Elara-Capital-47817267.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/09/2024",
+        "dateTimeISO": "2024-09-04T18:30:00.000Z",
+        "title": "Investor Meeting - Bernstein",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Bernstein-47755473.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/09/2024",
+        "dateTimeISO": "2024-09-03T18:30:00.000Z",
+        "title": "Investor Meeting - Quest Investment Advisors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Quest-Investment-Advisors-47697687.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/08/2024",
+        "dateTimeISO": "2024-08-22T18:30:00.000Z",
+        "title": "Investor Meeting - Axis Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Axis-Mutual-Fund-47697656.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/08/2024",
+        "dateTimeISO": "2024-08-19T18:30:00.000Z",
+        "title": "Motilal Oswal Global Investor Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Motilal-Oswal-Global-Investor-Conference-47697604.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/08/2024 12:39 pm",
+        "dateTimeISO": "2024-08-09T07:09:00.000Z",
+        "title": "Q1 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Release-44433177.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/08/2024",
+        "dateTimeISO": "2024-08-08T18:30:00.000Z",
+        "title": "Q1 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Call-47632408.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/06/2024",
+        "dateTimeISO": "2024-06-18T18:30:00.000Z",
+        "title": "Investor Meeting - Global Investment Research",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Global-Investment-Research-46954065.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/06/2024",
+        "dateTimeISO": "2024-06-13T18:30:00.000Z",
+        "title": "Investor Meeting - Global Investment Research",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Global-Investment-Research-46944708.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/06/2024",
+        "dateTimeISO": "2024-06-12T18:30:00.000Z",
+        "title": "Morgan Stanley India Investment Forum",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-India-Investment-Forum-46925966.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/06/2024 02:30 pm",
+        "dateTimeISO": "2024-06-12T09:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-46574303.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/06/2024",
+        "dateTimeISO": "2024-06-10T18:30:00.000Z",
+        "title": "Investor Meeting - Amansa Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Amansa-Capital-46925956.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/05/2024",
+        "dateTimeISO": "2024-05-29T18:30:00.000Z",
+        "title": "Investor Meeting - Wasatch Global Advisors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Wasatch-Global-Advisors-46802218.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/05/2024",
+        "dateTimeISO": "2024-05-28T18:30:00.000Z",
+        "title": "Investor Meeting - Stewart Investors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Stewart-Investors-46802215.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/05/2024",
+        "dateTimeISO": "2024-05-27T18:30:00.000Z",
+        "title": "Investor Meeting - Matthews Asia",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Matthews-Asia-46802209.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/05/2024",
+        "dateTimeISO": "2024-05-21T18:30:00.000Z",
+        "title": "Investor Meeting - ICICI Prudential",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ICICI-Prudential-46742374.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/05/2024",
+        "dateTimeISO": "2024-05-21T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-46699103.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/05/2024",
+        "dateTimeISO": "2024-05-16T18:30:00.000Z",
+        "title": "Investor Meeting - Ambit Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Ambit-Capital-46742361.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/05/2024",
+        "dateTimeISO": "2024-05-13T18:30:00.000Z",
+        "title": "Investor Meeting - Fidelity International",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Fidelity-International-46687412.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/05/2024",
+        "dateTimeISO": "2024-05-09T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL Capital – Institutional Equities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-Capital-Institutional-Equities-46644349.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/04/2024 03:15 pm",
+        "dateTimeISO": "2024-04-29T09:45:00.000Z",
+        "title": "Q4 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Release-43737013.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/03/2024",
+        "dateTimeISO": "2024-03-21T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-46171302.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/03/2024",
+        "dateTimeISO": "2024-03-18T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-46171238.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/02/2024",
+        "dateTimeISO": "2024-02-27T18:30:00.000Z",
+        "title": "Investor Meeting - Nirmal Bang Institutional Equities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Nirmal-Bang-Institutional-Equities-46170364.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/02/2024",
+        "dateTimeISO": "2024-02-22T18:30:00.000Z",
+        "title": "Investor Meeting - Frist Sentier Investors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Frist-Sentier-Investors-46170195.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/02/2024",
+        "dateTimeISO": "2024-02-21T18:30:00.000Z",
+        "title": "UBS India Consumer Reverse Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/UBS-India-Consumer-Reverse-Conference-46170148.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/02/2024",
+        "dateTimeISO": "2024-02-20T18:30:00.000Z",
+        "title": "Kotak Chasing Growth Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Kotak-Chasing-Growth-Conference-46170089.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/02/2024",
+        "dateTimeISO": "2024-02-18T18:30:00.000Z",
+        "title": "Antique Build India New India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Antique-Build-India-New-India-Conference-46170022.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/02/2024",
+        "dateTimeISO": "2024-02-15T18:30:00.000Z",
+        "title": "IIFL Enterprising India Global Investors Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/IIFL-Enterprising-India-Global-Investors-Conference-46169979.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/02/2024",
+        "dateTimeISO": "2024-02-14T18:30:00.000Z",
+        "title": "Investor Meeting - Capital Research Global Investo",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Capital-Research-Global-Investo-46169910.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/02/2024",
+        "dateTimeISO": "2024-02-13T18:30:00.000Z",
+        "title": "Investor Meeting - Capital Research Global Investors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Capital-Research-Global-Investors-46169878.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/02/2024",
+        "dateTimeISO": "2024-02-13T18:30:00.000Z",
+        "title": "Nuvama India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Nuvama-India-Conference-46169846.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/02/2024",
+        "dateTimeISO": "2024-02-11T18:30:00.000Z",
+        "title": "Investor Meeting - Sixteenth Street Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Sixteenth-Street-Capital-46169790.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/02/2024 01:09 pm",
+        "dateTimeISO": "2024-02-07T07:39:00.000Z",
+        "title": "Q3 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Release-42837864.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/12/2023",
+        "dateTimeISO": "2023-12-20T18:30:00.000Z",
+        "title": "Investor Meeting - Axis Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Axis-Mutual-Fund-45605333.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/12/2023",
+        "dateTimeISO": "2023-12-11T18:30:00.000Z",
+        "title": "Investor Meeting - HDFC Life Insurance",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-HDFC-Life-Insurance-45447725.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/12/2023",
+        "dateTimeISO": "2023-12-07T18:30:00.000Z",
+        "title": "Investor Meeting - GQG Partners",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-GQG-Partners-45488072.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/12/2023",
+        "dateTimeISO": "2023-12-06T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-45447711.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/12/2023",
+        "dateTimeISO": "2023-12-05T18:30:00.000Z",
+        "title": "Investor Meeting - JP Morgan Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-JP-Morgan-Asset-Management-45488062.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/12/2023",
+        "dateTimeISO": "2023-12-05T18:30:00.000Z",
+        "title": "Investor Meeting - Alliance Bernstein",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Alliance-Bernstein-45447707.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/12/2023",
+        "dateTimeISO": "2023-11-30T18:30:00.000Z",
+        "title": "Investor Meeting - Axiom Investors LLC",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Axiom-Investors-LLC-45447698.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/11/2023",
+        "dateTimeISO": "2023-11-29T18:30:00.000Z",
+        "title": "Investor Meeting - SBI Life Insurance Co. Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-SBI-Life-Insurance-Co-Ltd-45437207.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/11/2023",
+        "dateTimeISO": "2023-11-29T18:30:00.000Z",
+        "title": "B&K Indian INC Leaders Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/B-K-Indian-INC-Leaders-Conference-45423967.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/11/2023",
+        "dateTimeISO": "2023-11-28T18:30:00.000Z",
+        "title": "Investor Meeting - Franklin Templeton",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Franklin-Templeton-45423963.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/11/2023",
+        "dateTimeISO": "2023-11-27T18:30:00.000Z",
+        "title": "Investor Meeting - Max Life Insurance",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Max-Life-Insurance-45423960.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/11/2023",
+        "dateTimeISO": "2023-11-22T18:30:00.000Z",
+        "title": "Investor Meeting - Fidelity Management & Research",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Fidelity-Management-Research-45369225.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/11/2023",
+        "dateTimeISO": "2023-11-21T18:30:00.000Z",
+        "title": "Investor Meeting - Baillie Gifford",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Baillie-Gifford-45381124.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/11/2023",
+        "dateTimeISO": "2023-11-21T18:30:00.000Z",
+        "title": "Investor Meeting - JP Morgan Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-JP-Morgan-Asset-Management-45369223.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/11/2023",
+        "dateTimeISO": "2023-11-21T18:30:00.000Z",
+        "title": "JM Financial India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/JM-Financial-India-Conference-45369221.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/11/2023",
+        "dateTimeISO": "2023-11-20T18:30:00.000Z",
+        "title": "Investor Meeting - Baillie Gifford",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Baillie-Gifford-45381119.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/11/2023",
+        "dateTimeISO": "2023-11-20T18:30:00.000Z",
+        "title": "Investor Meeting - Kotak Securities Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Kotak-Securities-Limited-45369219.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/11/2023",
+        "dateTimeISO": "2023-11-14T18:30:00.000Z",
+        "title": "Investor Meeting - Invesco Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Invesco-Mutual-Fund-45326913.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/11/2023 02:11 pm",
+        "dateTimeISO": "2023-11-07T08:41:00.000Z",
+        "title": "Q2 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Release-42217620.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/09/2023",
+        "dateTimeISO": "2023-09-21T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-44857965.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/09/2023",
+        "dateTimeISO": "2023-09-19T18:30:00.000Z",
+        "title": "Investor Meeting - Quest Investment Advisors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Quest-Investment-Advisors-44850111.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/09/2023",
+        "dateTimeISO": "2023-09-14T18:30:00.000Z",
+        "title": "Investor Meeting - Sumitomo Mitsui DS AM",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Sumitomo-Mitsui-DS-AM-44819648.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/09/2023",
+        "dateTimeISO": "2023-09-05T18:30:00.000Z",
+        "title": "Investor Meeting - Baron Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Baron-Capital-44759512.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/09/2023",
+        "dateTimeISO": "2023-08-31T18:30:00.000Z",
+        "title": "Investor Meeting - Ambit Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Ambit-Capital-44728165.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/08/2023",
+        "dateTimeISO": "2023-08-22T18:30:00.000Z",
+        "title": "Investor Meeting - Capital Group",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Capital-Group-44635031.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/08/2023",
+        "dateTimeISO": "2023-08-22T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Financial Services Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Financial-Services-Limited-44598132.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/08/2023",
+        "dateTimeISO": "2023-08-15T18:30:00.000Z",
+        "title": "Nuvama India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Nuvama-India-Conference-44598124.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/08/2023 06:53 pm",
+        "dateTimeISO": "2023-08-09T13:23:00.000Z",
+        "title": "Q1 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Release-41144905.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/06/2023",
+        "dateTimeISO": "2023-06-21T18:30:00.000Z",
+        "title": "Investor Meeting - DAM Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-DAM-Capital-44145081.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/06/2023",
+        "dateTimeISO": "2023-06-20T18:30:00.000Z",
+        "title": "Investor Meeting - Dolat Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Dolat-Capital-44145078.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/06/2023",
+        "dateTimeISO": "2023-06-18T18:30:00.000Z",
+        "title": "Investor Meeting - Marcellus",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Marcellus-44145070.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/06/2023",
+        "dateTimeISO": "2023-06-15T18:30:00.000Z",
+        "title": "Investor Meeting - BOB Capital Markets Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-BOB-Capital-Markets-Ltd-44116662.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/06/2023",
+        "dateTimeISO": "2023-06-13T18:30:00.000Z",
+        "title": "Investor Meeting - BOB Capital Markets Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-BOB-Capital-Markets-Ltd-44097062.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/06/2023 02:30 pm",
+        "dateTimeISO": "2023-06-12T09:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-43736890.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/06/2023",
+        "dateTimeISO": "2023-06-08T18:30:00.000Z",
+        "title": "Investor Meeting - UTI Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-UTI-Mutual-Fund-44077566.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/06/2023",
+        "dateTimeISO": "2023-06-06T18:30:00.000Z",
+        "title": "Investor Meeting - ICICI Prudential Mutual Fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ICICI-Prudential-Mutual-Fund-44077542.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/06/2023",
+        "dateTimeISO": "2023-06-06T18:30:00.000Z",
+        "title": "Morgan Stanley India Investment Forum",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-India-Investment-Forum-44066955.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/06/2023",
+        "dateTimeISO": "2023-06-05T18:30:00.000Z",
+        "title": "Investor Meeting - JP Morgan",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-JP-Morgan-44077530.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/06/2023",
+        "dateTimeISO": "2023-06-05T18:30:00.000Z",
+        "title": "Investor Meeting - BlackRock",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-BlackRock-44077529.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/05/2023",
+        "dateTimeISO": "2023-05-30T18:30:00.000Z",
+        "title": "Investor Meeting - B&K Securities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-B-K-Securities-44055980.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/05/2023",
+        "dateTimeISO": "2023-05-24T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-43766366.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/05/2023",
+        "dateTimeISO": "2023-05-15T18:30:00.000Z",
+        "title": "Investor Meeting - Nuvama Institutional Equities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Nuvama-Institutional-Equities-43913971.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/05/2023",
+        "dateTimeISO": "2023-05-10T18:30:00.000Z",
+        "title": "Investor Meeting - Centrum Broking Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Centrum-Broking-Limited-43753349.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/05/2023",
+        "dateTimeISO": "2023-05-04T18:30:00.000Z",
+        "title": "Investor Meeting - Philip Capital Private Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Philip-Capital-Private-Limited-43753334.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/04/2023 06:18 pm",
+        "dateTimeISO": "2023-04-27T12:48:00.000Z",
+        "title": "Q4 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Release-40069655.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/03/2023",
+        "dateTimeISO": "2023-03-19T18:30:00.000Z",
+        "title": "Investor Meeting - ICICI Securities Ltd.",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ICICI-Securities-Ltd-43222688.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/03/2023",
+        "dateTimeISO": "2023-03-15T18:30:00.000Z",
+        "title": "Investor Meeting - ASK Investment Managers",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ASK-Investment-Managers-43222665.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/03/2023",
+        "dateTimeISO": "2023-03-09T18:30:00.000Z",
+        "title": "Investor Meeting - Morgan Stanley",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Morgan-Stanley-43222598.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/03/2023",
+        "dateTimeISO": "2023-03-08T18:30:00.000Z",
+        "title": "Investor Meeting - Jetha Global",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Jetha-Global-43159782.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/03/2023",
+        "dateTimeISO": "2023-03-02T18:30:00.000Z",
+        "title": "Investor Meeting - DAM Capital Advisors Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-DAM-Capital-Advisors-Ltd-43159714.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/03/2023",
+        "dateTimeISO": "2023-03-01T18:30:00.000Z",
+        "title": "Investor meeting - ICICI Securities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-meeting-ICICI-Securities-43159692.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/03/2023",
+        "dateTimeISO": "2023-02-28T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Financial Services Ltd.",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Financial-Services-Ltd-43159673.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/02/2023",
+        "dateTimeISO": "2023-02-23T18:30:00.000Z",
+        "title": "Investors Meeting - Emkay Global Financial Services Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investors-Meeting-Emkay-Global-Financial-Services-Ltd-43027449.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/02/2023",
+        "dateTimeISO": "2023-02-20T18:30:00.000Z",
+        "title": "Kotak Chasing Growth Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Kotak-Chasing-Growth-Conference-43027412.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/02/2023",
+        "dateTimeISO": "2023-02-20T18:30:00.000Z",
+        "title": "Investor Meeting - Goldman Sachs India Securities Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Goldman-Sachs-India-Securities-Ltd-43027410.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/02/2023",
+        "dateTimeISO": "2023-02-19T18:30:00.000Z",
+        "title": "Investor Meeting - Morgan Stanley",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Morgan-Stanley-43027402.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/02/2023",
+        "dateTimeISO": "2023-02-16T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Financial Services Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Financial-Services-Ltd-43027381.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/02/2023",
+        "dateTimeISO": "2023-02-15T18:30:00.000Z",
+        "title": "Investors Meeting - Jefferies",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investors-Meeting-Jefferies-43027357.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/02/2023",
+        "dateTimeISO": "2023-02-14T18:30:00.000Z",
+        "title": "Investor Meeting - IIFL Securities Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-IIFL-Securities-Ltd-43027333.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/02/2023",
+        "dateTimeISO": "2023-02-13T18:30:00.000Z",
+        "title": "Q3 2023 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2023-Earnings-Call-43222517.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2023 06:31 pm",
+        "dateTimeISO": "2023-02-08T13:01:00.000Z",
+        "title": "Q3 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2023-Earnings-Release-37682220.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/12/2022",
+        "dateTimeISO": "2022-12-22T18:30:00.000Z",
+        "title": "Investor Meeting - Phillip Capital (India) Private Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Phillip-Capital-India-Private-Limited-42616745.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/12/2022",
+        "dateTimeISO": "2022-12-22T18:30:00.000Z",
+        "title": "Investor Meeting - Morgan Stanley",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Morgan-Stanley-42616744.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/12/2022",
+        "dateTimeISO": "2022-12-14T18:30:00.000Z",
+        "title": "Investor Meeting - Millennium Management, SG",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Millennium-Management-SG-42520757.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/12/2022",
+        "dateTimeISO": "2022-12-13T18:30:00.000Z",
+        "title": "Investor Meeting - Phillip Capital (India) Private Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Phillip-Capital-India-Private-Limited-42571502.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/12/2022",
+        "dateTimeISO": "2022-12-11T18:30:00.000Z",
+        "title": "Investor Meeting - JP Morgan Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-JP-Morgan-Asset-Management-42469946.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/12/2022",
+        "dateTimeISO": "2022-12-08T18:30:00.000Z",
+        "title": "Investor Meeting - Sumitomo Mitsui DS Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Sumitomo-Mitsui-DS-Asset-Management-42469937.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/12/2022",
+        "dateTimeISO": "2022-12-08T18:30:00.000Z",
+        "title": "Investor Meeting - FSSA Investment Managers",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-FSSA-Investment-Managers-42469936.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/12/2022",
+        "dateTimeISO": "2022-12-06T18:30:00.000Z",
+        "title": "Investor Meeting - Premji Invest",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Premji-Invest-42469917.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/12/2022",
+        "dateTimeISO": "2022-12-04T18:30:00.000Z",
+        "title": "Investor Meeting - Batlivala & Karani Securities India Pvt.Ltd.",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Batlivala-Karani-Securities-India-Pvt-Ltd-42469884.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/11/2022",
+        "dateTimeISO": "2022-11-28T18:30:00.000Z",
+        "title": "Investor Meeting - Amansa Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Amansa-Capital-42469805.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/11/2022",
+        "dateTimeISO": "2022-11-20T18:30:00.000Z",
+        "title": "KIE India Consumer Forum",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/KIE-India-Consumer-Forum-42364158.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/11/2022",
+        "dateTimeISO": "2022-11-15T18:30:00.000Z",
+        "title": "Investor Meeting - Centrum Broking Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Centrum-Broking-Limited-42364104.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/11/2022 04:47 pm",
+        "dateTimeISO": "2022-11-10T11:17:00.000Z",
+        "title": "Interim 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2023-Earnings-Release-36698370.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/09/2022",
+        "dateTimeISO": "2022-09-20T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Financial Services Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Financial-Services-Ltd-41799016.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/09/2022",
+        "dateTimeISO": "2022-09-19T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Financial Services Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Financial-Services-Ltd-41799011.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/09/2022",
+        "dateTimeISO": "2022-09-18T18:30:00.000Z",
+        "title": "Investor Meeting - JP Morgan India",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-JP-Morgan-India-41799006.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/09/2022",
+        "dateTimeISO": "2022-09-15T18:30:00.000Z",
+        "title": "Investor Meeting - Batlivala & Karani Securities India Pvt. Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Batlivala-Karani-Securities-India-Pvt-Ltd-41798998.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/09/2022",
+        "dateTimeISO": "2022-09-08T18:30:00.000Z",
+        "title": "Investor Meeting - Aditya Birla Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Aditya-Birla-Capital-41740521.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/09/2022",
+        "dateTimeISO": "2022-09-08T18:30:00.000Z",
+        "title": "Investor Meeting - Franklin Templeton Investments",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Franklin-Templeton-Investments-41631796.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/09/2022",
+        "dateTimeISO": "2022-09-07T18:30:00.000Z",
+        "title": "Investor Meeting - Motilal Oswal Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Motilal-Oswal-Asset-Management-41740506.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2022",
+        "dateTimeISO": "2022-09-06T18:30:00.000Z",
+        "title": "Investor Meeting - Spark Capital Advisors",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Spark-Capital-Advisors-41740493.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2022",
+        "dateTimeISO": "2022-09-06T18:30:00.000Z",
+        "title": "Investor Meeting - Hill Fort Capital",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Hill-Fort-Capital-41740491.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2022",
+        "dateTimeISO": "2022-09-06T18:30:00.000Z",
+        "title": "Investor Meeting - Sixteenth Street Singapore",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Sixteenth-Street-Singapore-41631774.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/09/2022",
+        "dateTimeISO": "2022-08-31T18:30:00.000Z",
+        "title": "Investor Meeting - SBI Life Insurance Co. Ltd.",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-SBI-Life-Insurance-Co-Ltd-41631749.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/08/2022",
+        "dateTimeISO": "2022-08-29T18:30:00.000Z",
+        "title": "Investor Meeting - Premji Invest",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Premji-Invest-41631731.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/08/2022",
+        "dateTimeISO": "2022-08-28T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-41631723.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/08/2022",
+        "dateTimeISO": "2022-08-25T18:30:00.000Z",
+        "title": "Investor Meeting - DAnnual meeting for shareholders Capital Advisors Ltd",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-DAnnual-meeting-for-shareholders-Capital-Advisors-Ltd-41631713.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/08/2022",
+        "dateTimeISO": "2022-08-24T18:30:00.000Z",
+        "title": "Investor Meeting - Centrum Broking Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Centrum-Broking-Limited-41631687.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/08/2022",
+        "dateTimeISO": "2022-08-22T18:30:00.000Z",
+        "title": "Investor Meeting - Group Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Group-Meeting-41631662.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/08/2022",
+        "dateTimeISO": "2022-08-17T18:30:00.000Z",
+        "title": "Investor Meeting - Dalal & Brocha Stock Broking Pvt. Ltd.",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Dalal-Brocha-Stock-Broking-Pvt-Ltd-41624604.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/08/2022 02:23 pm",
+        "dateTimeISO": "2022-08-11T08:53:00.000Z",
+        "title": "Q1 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2023-Earnings-Release-36030192.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/07/2022",
+        "dateTimeISO": "2022-07-06T18:30:00.000Z",
+        "title": "Investor Meeting - Goldman Sachs Asset Management",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Goldman-Sachs-Asset-Management-41002951.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/06/2022",
+        "dateTimeISO": "2022-06-22T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-40814294.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/06/2022 02:30 pm",
+        "dateTimeISO": "2022-06-10T09:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-40232251.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/05/2022",
+        "dateTimeISO": "2022-05-19T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-40238478.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/04/2022 05:06 pm",
+        "dateTimeISO": "2022-04-27T11:36:00.000Z",
+        "title": "FY 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2022-Earnings-Release-32994566.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/03/2022",
+        "dateTimeISO": "2022-03-15T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-39873200.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/03/2022",
+        "dateTimeISO": "2022-03-03T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-39674444.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/02/2022",
+        "dateTimeISO": "2022-02-23T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-39597388.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/02/2022",
+        "dateTimeISO": "2022-02-21T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-38552688.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/02/2022 07:16 pm",
+        "dateTimeISO": "2022-02-10T13:46:00.000Z",
+        "title": "Q3 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2022-Earnings-Release-32259920.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/11/2021 06:21 pm",
+        "dateTimeISO": "2021-11-02T12:51:00.000Z",
+        "title": "Interim 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2022-Earnings-Release-31559442.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/08/2021 06:55 pm",
+        "dateTimeISO": "2021-08-10T13:25:00.000Z",
+        "title": "Q1 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2022-Earnings-Release-30947631.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2021 10:45 am",
+        "dateTimeISO": "2021-07-22T05:15:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-36459670.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/07/2021",
+        "dateTimeISO": "2021-07-08T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-35649510.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/04/2021",
+        "dateTimeISO": "2021-04-29T18:30:00.000Z",
+        "title": "FY 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2021-Earnings-Release-30947536.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/02/2021",
+        "dateTimeISO": "2021-02-03T18:30:00.000Z",
+        "title": "Q3 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2021-Earnings-Release-29927558.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/11/2020",
+        "dateTimeISO": "2020-11-04T18:30:00.000Z",
+        "title": "Interim 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2021-Earnings-Release-29427410.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/08/2020",
+        "dateTimeISO": "2020-08-04T18:30:00.000Z",
+        "title": "Q1 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2021-Earnings-Release-28971126.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/07/2020",
+        "dateTimeISO": "2020-07-23T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-30879353.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/05/2020",
+        "dateTimeISO": "2020-05-21T18:30:00.000Z",
+        "title": "FY 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2020-Earnings-Release-30660125.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/02/2020",
+        "dateTimeISO": "2020-02-05T18:30:00.000Z",
+        "title": "Q3 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2020-Earnings-Release-28301422.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/11/2019",
+        "dateTimeISO": "2019-11-06T18:30:00.000Z",
+        "title": "Interim 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2020-Earnings-Release-28294963.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/08/2019 03:30 pm",
+        "dateTimeISO": "2019-08-01T10:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-29007008.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/07/2019",
+        "dateTimeISO": "2019-07-30T18:30:00.000Z",
+        "title": "Q1 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2020-Earnings-Release-26401160.ics"
+      }
+    ]
+  },
+  "pastDividends": {
+    "count": 35,
+    "dividends": [
+      {
+        "section": "Past Dividends",
+        "dateRaw": "12/06/2025",
+        "dateISO": "2025-06-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Annual 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/05/2024",
+        "dateISO": "2024-05-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3.2,
+        "currency": "INR",
+        "title": "Annual 3.2 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "25/05/2023",
+        "dateISO": "2023-05-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.2,
+        "currency": "INR",
+        "title": "Annual 2.2 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "20/05/2022",
+        "dateISO": "2022-05-19T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.1,
+        "currency": "INR",
+        "title": "Final Payment 1.1 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/02/2022",
+        "dateISO": "2022-02-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 0.6,
+        "currency": "INR",
+        "title": "Interim Payment 0.6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/07/2021",
+        "dateISO": "2021-07-08T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.6,
+        "currency": "INR",
+        "title": "Annual 0.6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "24/07/2020",
+        "dateISO": "2020-07-23T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "19/07/2019",
+        "dateISO": "2019-07-18T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.3,
+        "currency": "INR",
+        "title": "Annual 1.3 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/07/2018",
+        "dateISO": "2018-07-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.15,
+        "currency": "INR",
+        "title": "Annual 1.15 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "19/07/2017",
+        "dateISO": "2017-07-18T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "17/03/2016",
+        "dateISO": "2016-03-16T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 9,
+        "currency": "INR",
+        "title": "Interim Payment 9 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/07/2015",
+        "dateISO": "2015-07-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Annual 7.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/07/2015",
+        "dateISO": "2015-07-26T18:30:00.000Z",
+        "type": "Bonus Payment",
+        "amount": 2.5,
+        "currency": "INR",
+        "title": "Bonus Payment 2.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "04/08/2014",
+        "dateISO": "2014-08-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "15/07/2013",
+        "dateISO": "2013-07-14T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "23/07/2012",
+        "dateISO": "2012-07-22T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6.5,
+        "currency": "INR",
+        "title": "Annual 6.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2011",
+        "dateISO": "2011-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Annual 7.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/08/2010",
+        "dateISO": "2010-08-08T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6.5,
+        "currency": "INR",
+        "title": "Annual 6.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "31/07/2009",
+        "dateISO": "2009-07-30T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5.5,
+        "currency": "INR",
+        "title": "Annual 5.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "16/07/2008",
+        "dateISO": "2008-07-15T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/05/2007",
+        "dateISO": "2007-05-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "04/08/2006",
+        "dateISO": "2006-08-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6.5,
+        "currency": "INR",
+        "title": "Annual 6.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/04/2005",
+        "dateISO": "2005-04-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "06/08/2004",
+        "dateISO": "2004-08-05T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5.5,
+        "currency": "INR",
+        "title": "Annual 5.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "07/08/2003",
+        "dateISO": "2003-08-06T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5.5,
+        "currency": "INR",
+        "title": "Annual 5.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/05/2002",
+        "dateISO": "2002-05-27T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Annual 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/03/2002",
+        "dateISO": "2002-03-07T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2001",
+        "dateISO": "2001-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "17/04/2000",
+        "dateISO": "2000-04-16T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Interim Payment 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "05/07/1999",
+        "dateISO": "1999-07-04T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.5,
+        "currency": "INR",
+        "title": "Annual 4.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "01/06/1998",
+        "dateISO": "1998-05-31T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 60,
+        "currency": "INR",
+        "title": "Interim Payment 60 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "07/07/1997",
+        "dateISO": "1997-07-06T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Annual 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/07/1996",
+        "dateISO": "1996-07-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Annual 7.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/1995",
+        "dateISO": "1995-08-13T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "23/09/1994",
+        "dateISO": "1994-09-22T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      }
+    ]
+  }
+}

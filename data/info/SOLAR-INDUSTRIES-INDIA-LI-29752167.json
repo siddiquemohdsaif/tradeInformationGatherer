@@ -1,0 +1,2085 @@
+{
+  "companyCode": "SOLAR-INDUSTRIES-INDIA-LI-29752167",
+  "timestamp": "2025-10-13T12:17:41.422Z",
+  "annualResults": {
+    "2023": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "69 225",
+        "forecast": "64 412",
+        "spreadRaw": "7.47%"
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "12 889",
+        "forecast": "12 421",
+        "spreadRaw": "3.77%"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "11 607",
+        "forecast": "10 805",
+        "spreadRaw": "7.42%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "11 016",
+        "forecast": "10 825",
+        "spreadRaw": "1.77%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "7 572",
+        "forecast": "7 580",
+        "spreadRaw": "-0.1%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "83,7",
+        "forecast": "83,8",
+        "spreadRaw": "-0.09%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "03/05/23",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2024": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "60 695",
+        "forecast": "62 009",
+        "spreadRaw": "-2.12%"
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "13 692",
+        "forecast": "14 364",
+        "spreadRaw": "-4.68%"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "12 258",
+        "forecast": "13 025",
+        "spreadRaw": "-5.88%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "11 613",
+        "forecast": "12 419",
+        "spreadRaw": "-6.49%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "8 359",
+        "forecast": "8 827",
+        "spreadRaw": "-5.3%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "92,4",
+        "forecast": "97,6",
+        "spreadRaw": "-5.37%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "16/05/24",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2025": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "75 403",
+        "forecast": "74 128",
+        "spreadRaw": "1.72%"
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "19 604",
+        "forecast": "19 426",
+        "spreadRaw": "0.91%"
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "17 789",
+        "forecast": "17 619",
+        "spreadRaw": "0.96%"
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "17 387",
+        "forecast": "17 227",
+        "spreadRaw": "0.93%"
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "12 094",
+        "forecast": "12 445",
+        "spreadRaw": "-2.82%"
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "134",
+        "forecast": "136",
+        "spreadRaw": "-2.02%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "20/05/25",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2026": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "100 190",
+        "spreadRaw": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "26 550",
+        "spreadRaw": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "24 221",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "23 580",
+        "spreadRaw": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "16 988",
+        "spreadRaw": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "188",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": "-",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2027": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "126 833",
+        "spreadRaw": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "34 271",
+        "spreadRaw": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "30 967",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "30 358",
+        "spreadRaw": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "21 970",
+        "spreadRaw": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "243",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2028": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "156 349",
+        "spreadRaw": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "42 625",
+        "spreadRaw": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "37 452",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "38 281",
+        "spreadRaw": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "27 812",
+        "spreadRaw": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": "307",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2028",
+        "released": null,
+        "forecast": null,
+        "spreadRaw": null
+      }
+    }
+  },
+  "quarterlyResults": {
+    "2024 Q2": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "13 475",
+        "releasedNum": 13475,
+        "forecast": "15 499",
+        "forecastNum": 15499,
+        "spreadRaw": "-13.06%",
+        "spreadPct": -13.06
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "3 362",
+        "releasedNum": 3362,
+        "forecast": "3 183",
+        "forecastNum": 3183,
+        "spreadRaw": "5.61%",
+        "spreadPct": 5.61
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "2 845",
+        "releasedNum": 2845,
+        "forecast": "2 942",
+        "forecastNum": 2942,
+        "spreadRaw": "-3.29%",
+        "spreadPct": -3.29
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "2 001",
+        "releasedNum": 2001,
+        "forecast": "1 940",
+        "forecastNum": 1940,
+        "spreadRaw": "3.19%",
+        "spreadPct": 3.19
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "22,1",
+        "releasedNum": 22.1,
+        "forecast": "24,0",
+        "forecastNum": 24,
+        "spreadRaw": "-7.83%",
+        "spreadPct": -7.83
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2024 Q2",
+        "released": "02/11/23",
+        "releasedDate": "02/11/23",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q3": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "14 291",
+        "releasedNum": 14291,
+        "forecast": "15 473",
+        "forecastNum": 15473,
+        "spreadRaw": "-7.64%",
+        "spreadPct": -7.64
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "3 562",
+        "releasedNum": 3562,
+        "forecast": "3 594",
+        "forecastNum": 3594,
+        "spreadRaw": "-0.89%",
+        "spreadPct": -0.89
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "2 989",
+        "releasedNum": 2989,
+        "forecast": "2 816",
+        "forecastNum": 2816,
+        "spreadRaw": "6.15%",
+        "spreadPct": 6.15
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "2 033",
+        "releasedNum": 2033,
+        "forecast": "2 147",
+        "forecastNum": 2147,
+        "spreadRaw": "-5.27%",
+        "spreadPct": -5.27
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "22,5",
+        "releasedNum": 22.5,
+        "forecast": "23,0",
+        "forecastNum": 23,
+        "spreadRaw": "-2.3%",
+        "spreadPct": -2.3
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2024 Q3",
+        "released": "07/02/24",
+        "releasedDate": "07/02/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q4": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "16 107",
+        "releasedNum": 16107,
+        "forecast": "17 404",
+        "forecastNum": 17404,
+        "spreadRaw": "-7.45%",
+        "spreadPct": -7.45
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "3 537",
+        "releasedNum": 3537,
+        "forecast": "4 189",
+        "forecastNum": 4189,
+        "spreadRaw": "-15.56%",
+        "spreadPct": -15.56
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "2 351",
+        "releasedNum": 2351,
+        "forecast": "2 884",
+        "forecastNum": 2884,
+        "spreadRaw": "-18.5%",
+        "spreadPct": -18.5
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2024 Q4",
+        "released": "16/05/24",
+        "releasedDate": "16/05/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q1": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "16 948",
+        "releasedNum": 16948,
+        "forecast": "19 850",
+        "forecastNum": 19850,
+        "spreadRaw": "-14.62%",
+        "spreadPct": -14.62
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "4 494",
+        "releasedNum": 4494,
+        "forecast": "4 657",
+        "forecastNum": 4657,
+        "spreadRaw": "-3.5%",
+        "spreadPct": -3.5
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q1",
+        "released": "06/08/24",
+        "releasedDate": "06/08/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q2": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "17 158",
+        "releasedNum": 17158,
+        "forecast": "19 072",
+        "forecastNum": 19072,
+        "spreadRaw": "-10.03%",
+        "spreadPct": -10.03
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "4 448",
+        "releasedNum": 4448,
+        "forecast": "5 405",
+        "forecastNum": 5405,
+        "spreadRaw": "-17.71%",
+        "spreadPct": -17.71
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "4 070",
+        "releasedNum": 4070,
+        "forecast": "4 891",
+        "forecastNum": 4891,
+        "spreadRaw": "-16.79%",
+        "spreadPct": -16.79
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "2 859",
+        "releasedNum": 2859,
+        "forecast": "3 619",
+        "forecastNum": 3619,
+        "spreadRaw": "-21.01%",
+        "spreadPct": -21.01
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q2",
+        "released": "13/11/24",
+        "releasedDate": "13/11/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q3": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "19 731",
+        "releasedNum": 19731,
+        "forecast": "21 282",
+        "forecastNum": 21282,
+        "spreadRaw": "-7.29%",
+        "spreadPct": -7.29
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "5 265",
+        "releasedNum": 5265,
+        "forecast": "5 541",
+        "forecastNum": 5541,
+        "spreadRaw": "-4.97%",
+        "spreadPct": -4.97
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "4 591",
+        "releasedNum": 4591,
+        "forecast": "5 434",
+        "forecastNum": 5434,
+        "spreadRaw": "-15.51%",
+        "spreadPct": -15.51
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "3 149",
+        "releasedNum": 3149,
+        "forecast": "4 021",
+        "forecastNum": 4021,
+        "spreadRaw": "-21.69%",
+        "spreadPct": -21.69
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q3",
+        "released": "05/02/25",
+        "releasedDate": "05/02/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q4": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "21 666",
+        "releasedNum": 21666,
+        "forecast": "20 547",
+        "forecastNum": 20547,
+        "spreadRaw": "5.44%",
+        "spreadPct": 5.44
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "5 397",
+        "releasedNum": 5397,
+        "forecast": "5 123",
+        "forecastNum": 5123,
+        "spreadRaw": "5.35%",
+        "spreadPct": 5.35
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "3 222",
+        "releasedNum": 3222,
+        "forecast": "3 432",
+        "forecastNum": 3432,
+        "spreadRaw": "-6.11%",
+        "spreadPct": -6.11
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "35,6",
+        "releasedNum": 35.6,
+        "forecast": "37,9",
+        "forecastNum": 37.9,
+        "spreadRaw": "-6.04%",
+        "spreadPct": -6.04
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2025 Q4",
+        "released": "20/05/25",
+        "releasedDate": "20/05/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q1": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "21 545",
+        "releasedNum": 21545,
+        "forecast": "21 792",
+        "forecastNum": 21792,
+        "spreadRaw": "-1.14%",
+        "spreadPct": -1.14
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "5 349",
+        "releasedNum": 5349,
+        "forecast": "5 671",
+        "forecastNum": 5671,
+        "spreadRaw": "-5.68%",
+        "spreadPct": -5.68
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "4 808",
+        "releasedNum": 4808,
+        "forecast": "5 120",
+        "forecastNum": 5120,
+        "spreadRaw": "-6.1%",
+        "spreadPct": -6.1
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "3 387",
+        "releasedNum": 3387,
+        "forecast": "3 674",
+        "forecastNum": 3674,
+        "spreadRaw": "-7.8%",
+        "spreadPct": -7.8
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "37,4",
+        "releasedNum": 37.4,
+        "forecast": "42,4",
+        "forecastNum": 42.4,
+        "spreadRaw": "-11.72%",
+        "spreadPct": -11.72
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q1",
+        "released": "07/08/25",
+        "releasedDate": "07/08/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q2": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "21 790",
+        "forecastNum": 21790,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "5 545",
+        "forecastNum": 5545,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "5 319",
+        "forecastNum": 5319,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "5 119",
+        "forecastNum": 5119,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "3 517",
+        "forecastNum": 3517,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "42,6",
+        "forecastNum": 42.6,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q2",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q3": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "26 490",
+        "forecastNum": 26490,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "6 900",
+        "forecastNum": 6900,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "6 350",
+        "forecastNum": 6350,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q3",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q4": {
+      "Net salesMillion INR": {
+        "metric": "Net salesMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "31 049",
+        "forecastNum": 31049,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion INR": {
+        "metric": "EBITDAMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "9 865",
+        "forecastNum": 9865,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion INR": {
+        "metric": "EBITMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "9 190",
+        "forecastNum": 9190,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million INR": {
+        "metric": "Earnings before Tax (EBT)Million INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion INR": {
+        "metric": "Net incomeMillion INR",
+        "unit": "Million INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS INR": {
+        "metric": "EPS INR",
+        "unit": "INR",
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "period": "2026 Q4",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    }
+  },
+  "upcomingEvents": {
+    "count": 5,
+    "events": [
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48303426.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/02/2026",
+        "dateTimeISO": "2026-02-13T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48922260.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/05/2026",
+        "dateTimeISO": "2026-05-29T18:30:00.000Z",
+        "title": "Q4 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2026-Earnings-Release-Projected-49941648.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/07/2026",
+        "dateTimeISO": "2026-07-28T18:30:00.000Z",
+        "title": "Q1 2027 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2027-Earnings-Release-Projected-50685090.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/09/2026",
+        "dateTimeISO": "2026-09-29T18:30:00.000Z",
+        "title": "Annual General Meeting (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-Projected-50465641.ics"
+      }
+    ]
+  },
+  "pastEvents": {
+    "count": 63,
+    "events": [
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/08/2025 11:00 am",
+        "dateTimeISO": "2025-08-08T05:30:00.000Z",
+        "title": "Q1 2026 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Call-50714911.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/08/2025 03:07 pm",
+        "dateTimeISO": "2025-08-07T09:37:00.000Z",
+        "title": "Q1 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Release-47578034.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2025 11:30 am",
+        "dateTimeISO": "2025-07-22T06:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-50020544.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/07/2025",
+        "dateTimeISO": "2025-07-07T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-50121926.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/05/2025 11:00 am",
+        "dateTimeISO": "2025-05-21T05:30:00.000Z",
+        "title": "Q4 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Call-49941553.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/05/2025 03:18 pm",
+        "dateTimeISO": "2025-05-20T09:48:00.000Z",
+        "title": "Q4 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Release-46713737.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/02/2025",
+        "dateTimeISO": "2025-02-17T18:30:00.000Z",
+        "title": "Investor Meeting - ICICI Securities Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-ICICI-Securities-Limited-49082748.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/02/2025 11:00 am",
+        "dateTimeISO": "2025-02-06T05:30:00.000Z",
+        "title": "Q3 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Call-48922135.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/02/2025 02:38 pm",
+        "dateTimeISO": "2025-02-05T09:08:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-46187051.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/11/2024 11:00 am",
+        "dateTimeISO": "2024-11-14T05:30:00.000Z",
+        "title": "Q2 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Call-48303341.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/11/2024 03:06 pm",
+        "dateTimeISO": "2024-11-13T09:36:00.000Z",
+        "title": "Q2 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Release-45338015.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/08/2024",
+        "dateTimeISO": "2024-08-19T18:30:00.000Z",
+        "title": "Motilal Oswal Global Investor Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Motilal-Oswal-Global-Investor-Conference-47699497.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/08/2024 10:30 am",
+        "dateTimeISO": "2024-08-07T05:00:00.000Z",
+        "title": "Q1 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Call-47577855.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/08/2024 02:44 pm",
+        "dateTimeISO": "2024-08-06T09:14:00.000Z",
+        "title": "Q1 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Release-44460280.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/07/2024 11:30 am",
+        "dateTimeISO": "2024-07-18T06:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-46756283.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/07/2024",
+        "dateTimeISO": "2024-07-03T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-46826677.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/05/2024 11:00 am",
+        "dateTimeISO": "2024-05-17T05:30:00.000Z",
+        "title": "Q4 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Call-46713697.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/05/2024 02:40 pm",
+        "dateTimeISO": "2024-05-16T09:10:00.000Z",
+        "title": "Q4 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Release-43772012.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2024 11:00 am",
+        "dateTimeISO": "2024-02-08T05:30:00.000Z",
+        "title": "Q3 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Call-46184809.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/02/2024 02:24 pm",
+        "dateTimeISO": "2024-02-07T08:54:00.000Z",
+        "title": "Q3 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Release-42786209.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/11/2023",
+        "dateTimeISO": "2023-11-20T18:30:00.000Z",
+        "title": "Investor Meeting - Nirmal Bang Institutional Equities",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Nirmal-Bang-Institutional-Equities-45390901.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/11/2023 11:00 am",
+        "dateTimeISO": "2023-11-03T05:30:00.000Z",
+        "title": "Q2 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Call-45336571.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/11/2023 02:46 pm",
+        "dateTimeISO": "2023-11-02T09:16:00.000Z",
+        "title": "Q2 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Release-42217049.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/09/2023",
+        "dateTimeISO": "2023-09-24T18:30:00.000Z",
+        "title": "Investor Meeting - SBI Mutual fund",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-SBI-Mutual-fund-44892383.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/09/2023",
+        "dateTimeISO": "2023-09-21T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-44892382.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2023",
+        "dateTimeISO": "2023-09-06T18:30:00.000Z",
+        "title": "Investor Meeting - Aditya Birla Money Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Aditya-Birla-Money-Limited-44779187.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/08/2023",
+        "dateTimeISO": "2023-08-25T18:30:00.000Z",
+        "title": "Investor Meeting - Kotak Mahindra AMC",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Kotak-Mahindra-AMC-44705541.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/08/2023 11:00 am",
+        "dateTimeISO": "2023-08-04T05:30:00.000Z",
+        "title": "Q1 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Call-44558810.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/08/2023 02:20 pm",
+        "dateTimeISO": "2023-08-03T08:50:00.000Z",
+        "title": "Q1 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Release-41066156.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/06/2023",
+        "dateTimeISO": "2023-06-22T18:30:00.000Z",
+        "title": "Investor Meeting - Kotak Securities Limited",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-Kotak-Securities-Limited-44174671.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/06/2023 11:30 am",
+        "dateTimeISO": "2023-06-21T06:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-44036876.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/06/2023",
+        "dateTimeISO": "2023-06-08T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-43837313.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/05/2023 11:00 am",
+        "dateTimeISO": "2023-05-04T05:30:00.000Z",
+        "title": "Q4 2023 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Call-43771877.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/05/2023 03:16 pm",
+        "dateTimeISO": "2023-05-03T09:46:00.000Z",
+        "title": "Q4 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Release-40231577.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2023",
+        "dateTimeISO": "2023-02-07T18:30:00.000Z",
+        "title": "Nuvama India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Nuvama-India-Conference-42966045.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/01/2023 05:00 pm",
+        "dateTimeISO": "2023-01-25T11:30:00.000Z",
+        "title": "Q3 2023 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2023-Earnings-Call-42839895.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/01/2023 02:21 pm",
+        "dateTimeISO": "2023-01-25T08:51:00.000Z",
+        "title": "Q3 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2023-Earnings-Release-37681223.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/01/2023",
+        "dateTimeISO": "2023-01-05T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-42685017.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/12/2022",
+        "dateTimeISO": "2022-12-21T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-42616514.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/12/2022",
+        "dateTimeISO": "2022-12-20T18:30:00.000Z",
+        "title": "Investor Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Meeting-42616503.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/11/2022 11:00 am",
+        "dateTimeISO": "2022-11-05T05:30:00.000Z",
+        "title": "Interim 2023 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2023-Earnings-Call-42216579.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/11/2022 02:22 pm",
+        "dateTimeISO": "2022-11-04T08:52:00.000Z",
+        "title": "Interim 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2023-Earnings-Release-36763393.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/07/2019",
+        "dateTimeISO": "2019-07-17T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-28583134.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/05/2019 01:00 pm",
+        "dateTimeISO": "2019-05-10T07:30:00.000Z",
+        "title": "FY 2019 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2019-Earnings-Call-28579926.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/05/2019",
+        "dateTimeISO": "2019-05-08T18:30:00.000Z",
+        "title": "FY 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2019-Earnings-Release-27955807.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/01/2019 04:00 pm",
+        "dateTimeISO": "2019-01-31T10:30:00.000Z",
+        "title": "Q3 2019 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2019-Earnings-Call-27952870.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/01/2019",
+        "dateTimeISO": "2019-01-30T18:30:00.000Z",
+        "title": "Q3 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2019-Earnings-Release-27918200.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/10/2018",
+        "dateTimeISO": "2018-10-28T18:30:00.000Z",
+        "title": "Interim 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2019-Earnings-Release-27495930.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/08/2018 11:00 am",
+        "dateTimeISO": "2018-08-01T05:30:00.000Z",
+        "title": "Q1 2019 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2019-Earnings-Call-27013242.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/07/2018",
+        "dateTimeISO": "2018-07-30T18:30:00.000Z",
+        "title": "Q1 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2019-Earnings-Release-27056527.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/05/2018 11:00 am",
+        "dateTimeISO": "2018-05-14T05:30:00.000Z",
+        "title": "FY 2018 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2018-Earnings-Call-26618225.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/05/2018",
+        "dateTimeISO": "2018-05-10T18:30:00.000Z",
+        "title": "FY 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2018-Earnings-Release-26521715.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/02/2018",
+        "dateTimeISO": "2018-02-06T18:30:00.000Z",
+        "title": "Q3 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2018-Earnings-Release-25923612.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/11/2017 12:15 pm",
+        "dateTimeISO": "2017-11-16T06:45:00.000Z",
+        "title": "Interim 2018 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2018-Earnings-Call-25530464.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/11/2017",
+        "dateTimeISO": "2017-11-13T18:30:00.000Z",
+        "title": "Interim 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2018-Earnings-Release-25487107.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/08/2017",
+        "dateTimeISO": "2017-08-08T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-24762946.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/08/2017",
+        "dateTimeISO": "2017-08-01T18:30:00.000Z",
+        "title": "Q1 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2018-Earnings-Release-22855517.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/05/2017 12:00 pm",
+        "dateTimeISO": "2017-05-30T06:30:00.000Z",
+        "title": "FY 2017 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2017-Earnings-Call-24499344.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/05/2017",
+        "dateTimeISO": "2017-05-28T18:30:00.000Z",
+        "title": "FY 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2017-Earnings-Release-22847696.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/02/2017",
+        "dateTimeISO": "2017-02-19T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-23944208.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/02/2017",
+        "dateTimeISO": "2017-02-08T18:30:00.000Z",
+        "title": "Q3 2017 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2017-Earnings-Release-Projected-22832279.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/11/2016",
+        "dateTimeISO": "2016-11-23T18:30:00.000Z",
+        "title": "Interim 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2017-Earnings-Release-21324423.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/07/2016",
+        "dateTimeISO": "2016-07-26T18:30:00.000Z",
+        "title": "Q1 2017 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2017-Earnings-Release-Projected-20958424.ics"
+      }
+    ]
+  },
+  "pastDividends": {
+    "count": 29,
+    "dividends": [
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2025",
+        "dateISO": "2025-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2024",
+        "dateISO": "2024-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8.5,
+        "currency": "INR",
+        "title": "Annual 8.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/06/2023",
+        "dateISO": "2023-06-08T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Annual 8 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/05/2022",
+        "dateISO": "2022-05-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Annual 7.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "18/08/2021",
+        "dateISO": "2021-08-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "03/09/2020",
+        "dateISO": "2020-09-02T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2019",
+        "dateISO": "2019-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2018",
+        "dateISO": "2018-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/08/2017",
+        "dateISO": "2017-08-08T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Final Payment 3 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "20/02/2017",
+        "dateISO": "2017-02-19T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Interim Payment 2 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "16/03/2016",
+        "dateISO": "2016-03-15T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 13.5,
+        "currency": "INR",
+        "title": "Interim Payment 13.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/11/2015",
+        "dateISO": "2015-11-08T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 9,
+        "currency": "INR",
+        "title": "Interim Payment 9 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/08/2015",
+        "dateISO": "2015-08-26T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 9,
+        "currency": "INR",
+        "title": "Final Payment 9 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "19/11/2014",
+        "dateISO": "2014-11-18T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Interim Payment 8 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2014",
+        "dateISO": "2014-08-21T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Final Payment 7 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "13/11/2013",
+        "dateISO": "2013-11-12T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "30/08/2013",
+        "dateISO": "2013-08-29T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Final Payment 6 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "15/11/2012",
+        "dateISO": "2012-11-14T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "01/08/2012",
+        "dateISO": "2012-07-31T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Final Payment 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/11/2011",
+        "dateISO": "2011-11-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/07/2011",
+        "dateISO": "2011-07-28T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Final Payment 4 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "11/11/2010",
+        "dateISO": "2010-11-10T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Interim Payment 4 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "11/08/2010",
+        "dateISO": "2010-08-10T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 3.5,
+        "currency": "INR",
+        "title": "Final Payment 3.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "17/02/2010",
+        "dateISO": "2010-02-16T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 3.5,
+        "currency": "INR",
+        "title": "Interim Payment 3.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/09/2009",
+        "dateISO": "2009-09-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.5,
+        "currency": "INR",
+        "title": "Annual 4.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "10/09/2008",
+        "dateISO": "2008-09-09T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Final Payment 1.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "01/11/2007",
+        "dateISO": "2007-10-31T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Interim Payment 1.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "12/09/2007",
+        "dateISO": "2007-09-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Annual 1.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "18/09/2006",
+        "dateISO": "2006-09-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Annual 1.5 INR"
+      }
+    ]
+  }
+}

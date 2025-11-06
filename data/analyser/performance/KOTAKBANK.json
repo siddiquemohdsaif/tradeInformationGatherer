@@ -1,0 +1,740 @@
+[
+  {
+    "Quarter": "2019-Mar",
+    "Sales": 7976,
+    "EPS": 10.67,
+    "sales_qoq_change": null,
+    "sales_qoq_pct": null,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": null,
+    "eps_qoq_pct": null,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": "30/04/2019",
+    "currentDateClosePrice": 1386.55,
+    "pastYearDateClosePrice": 1211.1,
+    "price_yoy_pct": 14.486830154405093,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2019-Jun",
+    "Sales": 8314,
+    "EPS": 10.11,
+    "sales_qoq_change": 338,
+    "sales_qoq_pct": 4.237713139418255,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": -0.5600000000000005,
+    "eps_qoq_pct": -5.24835988753515,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": "22/07/2019",
+    "currentDateClosePrice": 1454.3,
+    "pastYearDateClosePrice": 1333.3,
+    "price_yoy_pct": 9.075226880672018,
+    "price_qoq_pct": 4.88622840864015,
+    "performance": {
+      "yoy": null,
+      "qoq": {
+        "expectedQoqGrowth": 4.495,
+        "sales": {
+          "actual": 4.237713139418255,
+          "ratio": 0.942761543808288,
+          "score": 2.83
+        },
+        "eps": {
+          "actual": -5.24835988753515,
+          "ratio": -1.16759953004119,
+          "score": -10
+        },
+        "price": {
+          "actual": 4.88622840864015,
+          "ratio": 1.0870363534238376,
+          "score": 5.09
+        }
+      },
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2019-Sep",
+    "Sales": 8419,
+    "EPS": 12.59,
+    "sales_qoq_change": 105,
+    "sales_qoq_pct": 1.262929997594419,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": 2.4800000000000004,
+    "eps_qoq_pct": 24.5301681503462,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": -100,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2019-Dec",
+    "Sales": 8332,
+    "EPS": 12.28,
+    "sales_qoq_change": -87,
+    "sales_qoq_pct": -1.033376885615869,
+    "sales_yoy_change": null,
+    "sales_yoy_pct": null,
+    "eps_qoq_change": -0.3100000000000005,
+    "eps_qoq_pct": -2.4622716441620374,
+    "eps_yoy_change": null,
+    "eps_yoy_pct": null,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Mar",
+    "Sales": 8434,
+    "EPS": 9.7,
+    "sales_qoq_change": 102,
+    "sales_qoq_pct": 1.2241958713394143,
+    "sales_yoy_change": 458,
+    "sales_yoy_pct": 5.742226680040121,
+    "eps_qoq_change": -2.58,
+    "eps_qoq_pct": -21.009771986970684,
+    "eps_yoy_change": -0.9700000000000006,
+    "eps_yoy_pct": -9.090909090909097,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Jun",
+    "Sales": 8422,
+    "EPS": 9.56,
+    "sales_qoq_change": -12,
+    "sales_qoq_pct": -0.14228124258951863,
+    "sales_yoy_change": 108,
+    "sales_yoy_pct": 1.2990137118114025,
+    "eps_qoq_change": -0.1399999999999988,
+    "eps_qoq_pct": -1.4432989690721525,
+    "eps_yoy_change": -0.5499999999999989,
+    "eps_yoy_pct": -5.440158259149347,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Sep",
+    "Sales": 8337,
+    "EPS": 14.89,
+    "sales_qoq_change": -85,
+    "sales_qoq_pct": -1.0092614580859653,
+    "sales_yoy_change": -82,
+    "sales_yoy_pct": -0.9739874094310489,
+    "eps_qoq_change": 5.33,
+    "eps_qoq_pct": 55.7531380753138,
+    "eps_yoy_change": 2.3000000000000007,
+    "eps_yoy_pct": 18.26846703733122,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2020-Dec",
+    "Sales": 8280,
+    "EPS": 13.14,
+    "sales_qoq_change": -57,
+    "sales_qoq_pct": -0.6836991723641598,
+    "sales_yoy_change": -52,
+    "sales_yoy_pct": -0.6240998559769564,
+    "eps_qoq_change": -1.75,
+    "eps_qoq_pct": -11.752854264607118,
+    "eps_yoy_change": 0.8600000000000012,
+    "eps_yoy_pct": 7.003257328990238,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2021-Mar",
+    "Sales": 7952,
+    "EPS": 12.86,
+    "sales_qoq_change": -328,
+    "sales_qoq_pct": -3.961352657004831,
+    "sales_yoy_change": -482,
+    "sales_yoy_pct": -5.714963244012331,
+    "eps_qoq_change": -0.28000000000000114,
+    "eps_qoq_pct": -2.130898021308989,
+    "eps_yoy_change": 3.16,
+    "eps_yoy_pct": 32.57731958762887,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2021-Jun",
+    "Sales": 8043,
+    "EPS": 9.11,
+    "sales_qoq_change": 91,
+    "sales_qoq_pct": 1.1443661971830987,
+    "sales_yoy_change": -379,
+    "sales_yoy_pct": -4.500118736642128,
+    "eps_qoq_change": -3.75,
+    "eps_qoq_pct": -29.160186625194402,
+    "eps_yoy_change": -0.45000000000000107,
+    "eps_yoy_pct": -4.707112970711308,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2021-Sep",
+    "Sales": 8226,
+    "EPS": 15.06,
+    "sales_qoq_change": 183,
+    "sales_qoq_pct": 2.2752704214845205,
+    "sales_yoy_change": -111,
+    "sales_yoy_pct": -1.331414177761785,
+    "eps_qoq_change": 5.950000000000001,
+    "eps_qoq_pct": 65.31284302963778,
+    "eps_yoy_change": 0.16999999999999993,
+    "eps_yoy_pct": 1.1417058428475482,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2021-Dec",
+    "Sales": 8626,
+    "EPS": 17.15,
+    "sales_qoq_change": 400,
+    "sales_qoq_pct": 4.862630683199611,
+    "sales_yoy_change": 346,
+    "sales_yoy_pct": 4.178743961352657,
+    "eps_qoq_change": 2.089999999999998,
+    "eps_qoq_pct": 13.87782204515271,
+    "eps_yoy_change": 4.009999999999998,
+    "eps_yoy_pct": 30.51750380517502,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2022-Mar",
+    "Sales": 8838,
+    "EPS": 19.4,
+    "sales_qoq_change": 212,
+    "sales_qoq_pct": 2.4576860653837236,
+    "sales_yoy_change": 886,
+    "sales_yoy_pct": 11.14185110663984,
+    "eps_qoq_change": 2.25,
+    "eps_qoq_pct": 13.119533527696795,
+    "eps_yoy_change": 6.539999999999999,
+    "eps_yoy_pct": 50.85536547433903,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2022-Jun",
+    "Sales": 9164,
+    "EPS": 13.88,
+    "sales_qoq_change": 326,
+    "sales_qoq_pct": 3.688617334238516,
+    "sales_yoy_change": 1121,
+    "sales_yoy_pct": 13.937585478055453,
+    "eps_qoq_change": -5.519999999999998,
+    "eps_qoq_pct": -28.453608247422675,
+    "eps_yoy_change": 4.770000000000001,
+    "eps_yoy_pct": 52.36004390779365,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2022-Sep",
+    "Sales": 9994,
+    "EPS": 18.17,
+    "sales_qoq_change": 830,
+    "sales_qoq_pct": 9.057180270624182,
+    "sales_yoy_change": 1768,
+    "sales_yoy_pct": 21.49282761974228,
+    "eps_qoq_change": 4.290000000000001,
+    "eps_qoq_pct": 30.907780979827095,
+    "eps_yoy_change": 3.110000000000001,
+    "eps_yoy_pct": 20.650730411686595,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2022-Dec",
+    "Sales": 11011,
+    "EPS": 20.11,
+    "sales_qoq_change": 1017,
+    "sales_qoq_pct": 10.176105663398038,
+    "sales_yoy_change": 2385,
+    "sales_yoy_pct": 27.64896823556689,
+    "eps_qoq_change": 1.9399999999999977,
+    "eps_qoq_pct": 10.67694001100714,
+    "eps_yoy_change": 2.960000000000001,
+    "eps_yoy_pct": 17.2594752186589,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2023-Mar",
+    "Sales": 11982,
+    "EPS": 22.78,
+    "sales_qoq_change": 971,
+    "sales_qoq_pct": 8.818454272999727,
+    "sales_yoy_change": 3144,
+    "sales_yoy_pct": 35.57365919891378,
+    "eps_qoq_change": 2.6700000000000017,
+    "eps_qoq_pct": 13.276976628543022,
+    "eps_yoy_change": 3.3800000000000026,
+    "eps_yoy_pct": 17.42268041237115,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2023-Jun",
+    "Sales": 12869,
+    "EPS": 20.89,
+    "sales_qoq_change": 887,
+    "sales_qoq_pct": 7.402770822901019,
+    "sales_yoy_change": 3705,
+    "sales_yoy_pct": 40.42994325621999,
+    "eps_qoq_change": -1.8900000000000006,
+    "eps_qoq_pct": -8.296751536435472,
+    "eps_yoy_change": 7.01,
+    "eps_yoy_pct": 50.504322766570596,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2023-Sep",
+    "Sales": 13717,
+    "EPS": 22.45,
+    "sales_qoq_change": 848,
+    "sales_qoq_pct": 6.589478591965188,
+    "sales_yoy_change": 3723,
+    "sales_yoy_pct": 37.25235141084651,
+    "eps_qoq_change": 1.5599999999999987,
+    "eps_qoq_pct": 7.467687888942071,
+    "eps_yoy_change": 4.279999999999998,
+    "eps_yoy_pct": 23.555310952118862,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2023-Dec",
+    "Sales": 14495,
+    "EPS": 21.46,
+    "sales_qoq_change": 778,
+    "sales_qoq_pct": 5.671794124079609,
+    "sales_yoy_change": 3484,
+    "sales_yoy_pct": 31.641086186540733,
+    "eps_qoq_change": -0.9899999999999984,
+    "eps_qoq_pct": -4.409799554565694,
+    "eps_yoy_change": 1.3500000000000014,
+    "eps_yoy_pct": 6.713078070611643,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2024-Mar",
+    "Sales": 15156,
+    "EPS": 26.65,
+    "sales_qoq_change": 661,
+    "sales_qoq_pct": 4.560193170058641,
+    "sales_yoy_change": 3174,
+    "sales_yoy_pct": 26.489734601902853,
+    "eps_qoq_change": 5.189999999999998,
+    "eps_qoq_pct": 24.184529356943138,
+    "eps_yoy_change": 3.8699999999999974,
+    "eps_yoy_pct": 16.988586479367854,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2024-Jun",
+    "Sales": 15837,
+    "EPS": 37.47,
+    "sales_qoq_change": 681,
+    "sales_qoq_pct": 4.493269992082344,
+    "sales_yoy_change": 2968,
+    "sales_yoy_pct": 23.063175071878156,
+    "eps_qoq_change": 10.82,
+    "eps_qoq_pct": 40.60037523452158,
+    "eps_yoy_change": 16.58,
+    "eps_yoy_pct": 79.36811871708952,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2024-Sep",
+    "Sales": 16427,
+    "EPS": 25.37,
+    "sales_qoq_change": 590,
+    "sales_qoq_pct": 3.725453052977205,
+    "sales_yoy_change": 2710,
+    "sales_yoy_pct": 19.756506524750307,
+    "eps_qoq_change": -12.099999999999998,
+    "eps_qoq_pct": -32.29250066720042,
+    "eps_yoy_change": 2.9200000000000017,
+    "eps_yoy_pct": 13.006681514476623,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2024-Dec",
+    "Sales": 16633,
+    "EPS": 23.64,
+    "sales_qoq_change": 206,
+    "sales_qoq_pct": 1.2540329944603397,
+    "sales_yoy_change": 2138,
+    "sales_yoy_pct": 14.74991376336668,
+    "eps_qoq_change": -1.7300000000000004,
+    "eps_qoq_pct": -6.819077650768627,
+    "eps_yoy_change": 2.1799999999999997,
+    "eps_yoy_pct": 10.158434296365328,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2025-Mar",
+    "Sales": 16772,
+    "EPS": 24.81,
+    "sales_qoq_change": 139,
+    "sales_qoq_pct": 0.8356880899416823,
+    "sales_yoy_change": 1616,
+    "sales_yoy_pct": 10.662443916600687,
+    "eps_qoq_change": 1.1699999999999982,
+    "eps_qoq_pct": 4.949238578680195,
+    "eps_yoy_change": -1.8399999999999999,
+    "eps_yoy_pct": -6.904315196998123,
+    "dateTimeRaw": "03/05/2025 02:04 pm",
+    "currentDateClosePrice": 2185.2,
+    "pastYearDateClosePrice": 1546.7,
+    "price_yoy_pct": 41.28143790004524,
+    "price_qoq_pct": null,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 12.61,
+        "sales": {
+          "actual": 10.662443916600687,
+          "ratio": 0.8455546325615136,
+          "score": 2.43
+        },
+        "eps": {
+          "actual": -6.904315196998123,
+          "ratio": -0.5475269783503667,
+          "score": -10
+        },
+        "price": {
+          "actual": 41.28143790004524,
+          "ratio": 3.2737064155468074,
+          "score": 10
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 3.1525,
+        "sales": {
+          "actual": 0.8356880899416823,
+          "ratio": 0.2650874194898279,
+          "score": 0.8
+        },
+        "eps": {
+          "actual": 4.949238578680195,
+          "ratio": 1.5699408655607279,
+          "score": 4.99
+        },
+        "price": null
+      },
+      "final_performance_score": {
+        "x": -68.555,
+        "abs_sqrt_x": 8.2798
+      },
+      "final_price_score": null
+    }
+  },
+  {
+    "Quarter": "2025-Jun",
+    "Sales": 17248,
+    "EPS": 22.49,
+    "sales_qoq_change": 476,
+    "sales_qoq_pct": 2.8380634390651087,
+    "sales_yoy_change": 1411,
+    "sales_yoy_pct": 8.909515691103113,
+    "eps_qoq_change": -2.3200000000000003,
+    "eps_qoq_pct": -9.35106811769448,
+    "eps_yoy_change": -14.98,
+    "eps_yoy_pct": -39.978649586335735,
+    "dateTimeRaw": "26/07/2025 01:04 pm",
+    "currentDateClosePrice": 2124.6,
+    "pastYearDateClosePrice": 1813.85,
+    "price_yoy_pct": 17.132067149984838,
+    "price_qoq_pct": -2.77320153761669,
+    "performance": {
+      "yoy": {
+        "expectedYoyGrowth": 13.09,
+        "sales": {
+          "actual": 8.909515691103113,
+          "ratio": 0.6806352705197184,
+          "score": -0.48
+        },
+        "eps": {
+          "actual": -39.978649586335735,
+          "ratio": -3.054136714005786,
+          "score": -10
+        },
+        "price": {
+          "actual": 17.132067149984838,
+          "ratio": 1.3087904621837156,
+          "score": 5.77
+        }
+      },
+      "qoq": {
+        "expectedQoqGrowth": 3.2725,
+        "sales": {
+          "actual": 2.8380634390651087,
+          "ratio": 0.8672462762613014,
+          "score": 2.6
+        },
+        "eps": {
+          "actual": -9.35106811769448,
+          "ratio": -2.857469249104501,
+          "score": -10
+        },
+        "price": {
+          "actual": -2.77320153761669,
+          "ratio": -0.8474259855207609,
+          "score": -6.41
+        }
+      },
+      "final_performance_score": {
+        "x": -193.4704,
+        "abs_sqrt_x": 13.9094
+      },
+      "final_price_score": {
+        "x": -7.7952,
+        "abs_sqrt_x": 2.792
+      }
+    }
+  },
+  {
+    "Quarter": "2025-Sep",
+    "Sales": 17199,
+    "EPS": 22.47,
+    "sales_qoq_change": -49,
+    "sales_qoq_pct": -0.2840909090909091,
+    "sales_yoy_change": 772,
+    "sales_yoy_pct": 4.699579959822244,
+    "eps_qoq_change": -0.019999999999999574,
+    "eps_qoq_pct": -0.0889284126278327,
+    "eps_yoy_change": -2.900000000000002,
+    "eps_yoy_pct": -11.430823807646835,
+    "dateTimeRaw": null,
+    "currentDateClosePrice": null,
+    "pastYearDateClosePrice": null,
+    "price_yoy_pct": null,
+    "price_qoq_pct": -100,
+    "performance": {
+      "yoy": null,
+      "qoq": null,
+      "final_performance_score": null,
+      "final_price_score": null
+    }
+  }
+]

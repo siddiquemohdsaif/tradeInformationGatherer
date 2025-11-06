@@ -1,0 +1,2712 @@
+{
+  "companyCode": "ABB-LTD-8943400",
+  "timestamp": "2025-10-13T12:13:00.114Z",
+  "annualResults": {
+    "2022": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "29 446",
+        "forecast": "29 318",
+        "spreadRaw": "0.44%"
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "4 151",
+        "forecast": "4 238",
+        "spreadRaw": "-2.06%"
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "3 337",
+        "forecast": "3 231",
+        "spreadRaw": "3.27%"
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "3 394",
+        "forecast": "3 288",
+        "spreadRaw": "3.23%"
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "2 475",
+        "forecast": "2 214",
+        "spreadRaw": "11.78%"
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "1,30",
+        "forecast": "1,12",
+        "spreadRaw": "16.5%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2022",
+        "released": "02/02/23",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2023": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "32 235",
+        "forecast": "32 047",
+        "spreadRaw": "0.59%"
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "5 651",
+        "forecast": "5 802",
+        "spreadRaw": "-2.6%"
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "4 871",
+        "forecast": "5 023",
+        "spreadRaw": "-3.03%"
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "4 778",
+        "forecast": "4 793",
+        "spreadRaw": "-0.32%"
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "3 745",
+        "forecast": "3 647",
+        "spreadRaw": "2.7%"
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "2,01",
+        "forecast": "1,98",
+        "spreadRaw": "1.57%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2023",
+        "released": "01/02/24",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2024": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "32 850",
+        "forecast": "32 690",
+        "spreadRaw": "0.49%"
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "5 873",
+        "forecast": "6 096",
+        "spreadRaw": "-3.66%"
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "5 071",
+        "forecast": "5 252",
+        "spreadRaw": "-3.45%"
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "5 233",
+        "forecast": "5 284",
+        "spreadRaw": "-0.96%"
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "3 935",
+        "forecast": "3 943",
+        "spreadRaw": "-0.21%"
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "2,13",
+        "forecast": "2,15",
+        "spreadRaw": "-0.85%"
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2024",
+        "released": "30/01/25",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2025": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": null,
+        "forecast": "34 949",
+        "spreadRaw": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": null,
+        "forecast": "7 020",
+        "spreadRaw": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": null,
+        "forecast": "6 190",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": null,
+        "forecast": "6 177",
+        "spreadRaw": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": null,
+        "forecast": "4 576",
+        "spreadRaw": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": null,
+        "forecast": "2,49",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2025",
+        "released": "-",
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2026": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "37 157",
+        "spreadRaw": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "7 682",
+        "spreadRaw": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "6 732",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "6 875",
+        "spreadRaw": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "5 142",
+        "spreadRaw": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": "2,75",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2026",
+        "released": null,
+        "forecast": null,
+        "spreadRaw": null
+      }
+    },
+    "2027": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "39 469",
+        "spreadRaw": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "8 327",
+        "spreadRaw": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "7 320",
+        "spreadRaw": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "7 328",
+        "spreadRaw": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "5 487",
+        "spreadRaw": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": "2,99",
+        "spreadRaw": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "March",
+        "year": "2027",
+        "released": null,
+        "forecast": null,
+        "spreadRaw": null
+      }
+    }
+  },
+  "quarterlyResults": {
+    "2023 Q4": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "8 245",
+        "releasedNum": 8245,
+        "forecast": "8 098",
+        "forecastNum": 8098,
+        "spreadRaw": "1.82%",
+        "spreadPct": 1.82
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "1 315",
+        "releasedNum": 1315,
+        "forecast": "1 419",
+        "forecastNum": 1419,
+        "spreadRaw": "-7.3%",
+        "spreadPct": -7.3
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "1 116",
+        "releasedNum": 1116,
+        "forecast": "1 225",
+        "forecastNum": 1225,
+        "spreadRaw": "-8.89%",
+        "spreadPct": -8.89
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "1 082",
+        "releasedNum": 1082,
+        "forecast": "1 194",
+        "forecastNum": 1194,
+        "spreadRaw": "-9.4%",
+        "spreadPct": -9.4
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "921",
+        "releasedNum": 921,
+        "forecast": "889",
+        "forecastNum": 889,
+        "spreadRaw": "3.65%",
+        "spreadPct": 3.65
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "0,50",
+        "releasedNum": 0.5,
+        "forecast": "0,48",
+        "forecastNum": 0.48,
+        "spreadRaw": "3.15%",
+        "spreadPct": 3.15
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2023 Q4",
+        "released": "01/02/24",
+        "releasedDate": "01/02/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q1": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "7 870",
+        "releasedNum": 7870,
+        "forecast": "8 143",
+        "forecastNum": 8143,
+        "spreadRaw": "-3.36%",
+        "spreadPct": -3.36
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "1 418",
+        "releasedNum": 1418,
+        "forecast": "1 389",
+        "forecastNum": 1389,
+        "spreadRaw": "2.08%",
+        "spreadPct": 2.08
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "1 217",
+        "releasedNum": 1217,
+        "forecast": "1 233",
+        "forecastNum": 1233,
+        "spreadRaw": "-1.26%",
+        "spreadPct": -1.26
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "1 253",
+        "releasedNum": 1253,
+        "forecast": "1 190",
+        "forecastNum": 1190,
+        "spreadRaw": "5.28%",
+        "spreadPct": 5.28
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "905",
+        "releasedNum": 905,
+        "forecast": "867",
+        "forecastNum": 867,
+        "spreadRaw": "4.43%",
+        "spreadPct": 4.43
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "0,49",
+        "releasedNum": 0.49,
+        "forecast": "0,46",
+        "forecastNum": 0.46,
+        "spreadRaw": "7.14%",
+        "spreadPct": 7.14
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2024 Q1",
+        "released": "18/04/24",
+        "releasedDate": "18/04/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q2": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "8 239",
+        "releasedNum": 8239,
+        "forecast": "8 419",
+        "forecastNum": 8419,
+        "spreadRaw": "-2.14%",
+        "spreadPct": -2.14
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "1 578",
+        "releasedNum": 1578,
+        "forecast": "1 588",
+        "forecastNum": 1588,
+        "spreadRaw": "-0.61%",
+        "spreadPct": -0.61
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "1 376",
+        "releasedNum": 1376,
+        "forecast": "1 433",
+        "forecastNum": 1433,
+        "spreadRaw": "-4.01%",
+        "spreadPct": -4.01
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "1 419",
+        "releasedNum": 1419,
+        "forecast": "1 368",
+        "forecastNum": 1368,
+        "spreadRaw": "3.72%",
+        "spreadPct": 3.72
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "1 096",
+        "releasedNum": 1096,
+        "forecast": "1 050",
+        "forecastNum": 1050,
+        "spreadRaw": "4.38%",
+        "spreadPct": 4.38
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "0,59",
+        "releasedNum": 0.59,
+        "forecast": "0,58",
+        "forecastNum": 0.58,
+        "spreadRaw": "1.39%",
+        "spreadPct": 1.39
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2024 Q2",
+        "released": "18/07/24",
+        "releasedDate": "18/07/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q3": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "8 151",
+        "releasedNum": 8151,
+        "forecast": "8 352",
+        "forecastNum": 8352,
+        "spreadRaw": "-2.41%",
+        "spreadPct": -2.41
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "1 503",
+        "releasedNum": 1503,
+        "forecast": "1 516",
+        "forecastNum": 1516,
+        "spreadRaw": "-0.84%",
+        "spreadPct": -0.84
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "1 309",
+        "releasedNum": 1309,
+        "forecast": "1 422",
+        "forecastNum": 1422,
+        "spreadRaw": "-7.98%",
+        "spreadPct": -7.98
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "1 324",
+        "releasedNum": 1324,
+        "forecast": "1 367",
+        "forecastNum": 1367,
+        "spreadRaw": "-3.16%",
+        "spreadPct": -3.16
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "947",
+        "releasedNum": 947,
+        "forecast": "1 018",
+        "forecastNum": 1018,
+        "spreadRaw": "-7.02%",
+        "spreadPct": -7.02
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "0,51",
+        "releasedNum": 0.51,
+        "forecast": "0,55",
+        "forecastNum": 0.55,
+        "spreadRaw": "-6.5%",
+        "spreadPct": -6.5
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2024 Q3",
+        "released": "17/10/24",
+        "releasedDate": "17/10/24",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2024 Q4": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "8 590",
+        "releasedNum": 8590,
+        "forecast": "8 325",
+        "forecastNum": 8325,
+        "spreadRaw": "3.18%",
+        "spreadPct": 3.18
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "1 374",
+        "releasedNum": 1374,
+        "forecast": "1 446",
+        "forecastNum": 1446,
+        "spreadRaw": "-4.98%",
+        "spreadPct": -4.98
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "1 169",
+        "releasedNum": 1169,
+        "forecast": "1 240",
+        "forecastNum": 1240,
+        "spreadRaw": "-5.69%",
+        "spreadPct": -5.69
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "1 237",
+        "releasedNum": 1237,
+        "forecast": "1 253",
+        "forecastNum": 1253,
+        "spreadRaw": "-1.29%",
+        "spreadPct": -1.29
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "987",
+        "releasedNum": 987,
+        "forecast": "994",
+        "forecastNum": 994,
+        "spreadRaw": "-0.68%",
+        "spreadPct": -0.68
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "0,53",
+        "releasedNum": 0.53,
+        "forecast": "0,54",
+        "forecastNum": 0.54,
+        "spreadRaw": "-1.26%",
+        "spreadPct": -1.26
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2024 Q4",
+        "released": "30/01/25",
+        "releasedDate": "30/01/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q1": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "7 935",
+        "releasedNum": 7935,
+        "forecast": "8 195",
+        "forecastNum": 8195,
+        "spreadRaw": "-3.17%",
+        "spreadPct": -3.17
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "1 763",
+        "releasedNum": 1763,
+        "forecast": "1 477",
+        "forecastNum": 1477,
+        "spreadRaw": "19.39%",
+        "spreadPct": 19.39
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "1 567",
+        "releasedNum": 1567,
+        "forecast": "1 302",
+        "forecastNum": 1302,
+        "spreadRaw": "20.39%",
+        "spreadPct": 20.39
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "1 588",
+        "releasedNum": 1588,
+        "forecast": "1 311",
+        "forecastNum": 1311,
+        "spreadRaw": "21.15%",
+        "spreadPct": 21.15
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "1 102",
+        "releasedNum": 1102,
+        "forecast": "952",
+        "forecastNum": 952,
+        "spreadRaw": "15.78%",
+        "spreadPct": 15.78
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "0,60",
+        "releasedNum": 0.6,
+        "forecast": "0,51",
+        "forecastNum": 0.51,
+        "spreadRaw": "17.66%",
+        "spreadPct": 17.66
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2025 Q1",
+        "released": "17/04/25",
+        "releasedDate": "17/04/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q2": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "8 900",
+        "releasedNum": 8900,
+        "forecast": "8 820",
+        "forecastNum": 8820,
+        "spreadRaw": "0.91%",
+        "spreadPct": 0.91
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "1 786",
+        "releasedNum": 1786,
+        "forecast": "1 749",
+        "forecastNum": 1749,
+        "spreadRaw": "2.11%",
+        "spreadPct": 2.11
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "1 573",
+        "releasedNum": 1573,
+        "forecast": "1 520",
+        "forecastNum": 1520,
+        "spreadRaw": "3.49%",
+        "spreadPct": 3.49
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "1 614",
+        "releasedNum": 1614,
+        "forecast": "1 572",
+        "forecastNum": 1572,
+        "spreadRaw": "2.69%",
+        "spreadPct": 2.69
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "1 151",
+        "releasedNum": 1151,
+        "forecast": "1 132",
+        "forecastNum": 1132,
+        "spreadRaw": "1.71%",
+        "spreadPct": 1.71
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "0,63",
+        "releasedNum": 0.63,
+        "forecast": "0,62",
+        "forecastNum": 0.62,
+        "spreadRaw": "1.51%",
+        "spreadPct": 1.51
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2025 Q2",
+        "released": "17/07/25",
+        "releasedDate": "17/07/25",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q3": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "8 886",
+        "forecastNum": 8886,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 803",
+        "forecastNum": 1803,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 571",
+        "forecastNum": 1571,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 548",
+        "forecastNum": 1548,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 134",
+        "forecastNum": 1134,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "0,62",
+        "forecastNum": 0.62,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2025 Q3",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2025 Q4": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "9 306",
+        "forecastNum": 9306,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 851",
+        "forecastNum": 1851,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 587",
+        "forecastNum": 1587,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 542",
+        "forecastNum": 1542,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 184",
+        "forecastNum": 1184,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "0,65",
+        "forecastNum": 0.65,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2025 Q4",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q1": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "8 684",
+        "forecastNum": 8684,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 770",
+        "forecastNum": 1770,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 672",
+        "forecastNum": 1672,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 701",
+        "forecastNum": 1701,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 225",
+        "forecastNum": 1225,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "0,67",
+        "forecastNum": 0.67,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2026 Q1",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q2": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "9 847",
+        "forecastNum": 9847,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 912",
+        "forecastNum": 1912,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 861",
+        "forecastNum": 1861,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 432",
+        "forecastNum": 1432,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "0,77",
+        "forecastNum": 0.77,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2026 Q2",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q3": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "9 286",
+        "forecastNum": 9286,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 692",
+        "forecastNum": 1692,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 924",
+        "forecastNum": 1924,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 346",
+        "forecastNum": 1346,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "0,79",
+        "forecastNum": 0.79,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2026 Q3",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    },
+    "2026 Q4": {
+      "Net salesMillion USD": {
+        "metric": "Net salesMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITDAMillion USD": {
+        "metric": "EBITDAMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": null,
+        "forecastNum": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EBITMillion USD": {
+        "metric": "EBITMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 868",
+        "forecastNum": 1868,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Earnings before Tax (EBT)Million USD": {
+        "metric": "Earnings before Tax (EBT)Million USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 900",
+        "forecastNum": 1900,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Net incomeMillion USD": {
+        "metric": "Net incomeMillion USD",
+        "unit": "Million USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "1 436",
+        "forecastNum": 1436,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "EPS USD": {
+        "metric": "EPS USD",
+        "unit": "USD",
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": null,
+        "releasedNum": null,
+        "forecast": "0,78",
+        "forecastNum": 0.78,
+        "spreadRaw": null,
+        "spreadPct": null
+      },
+      "Announcement Date": {
+        "metric": "Announcement Date",
+        "unit": null,
+        "fiscalMonth": "June",
+        "period": "2026 Q4",
+        "released": "-",
+        "releasedDate": "-",
+        "forecast": null,
+        "spreadRaw": null,
+        "spreadPct": null
+      }
+    }
+  },
+  "upcomingEvents": {
+    "count": 6,
+    "events": [
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-45098245.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/11/2025",
+        "dateTimeISO": "2025-11-17T18:30:00.000Z",
+        "title": "Capital Markets Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Capital-Markets-Day-48508418.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/01/2026",
+        "dateTimeISO": "2026-01-28T18:30:00.000Z",
+        "title": "Q4 2025 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Release-Projected-47961267.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/04/2026",
+        "dateTimeISO": "2026-04-15T18:30:00.000Z",
+        "title": "Q1 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Release-Projected-47961268.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/07/2026",
+        "dateTimeISO": "2026-07-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48508457.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2026",
+        "dateTimeISO": "2026-10-14T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48508467.ics"
+      }
+    ]
+  },
+  "pastEvents": {
+    "count": 135,
+    "events": [
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/07/2025 01:30 pm",
+        "dateTimeISO": "2025-07-17T08:00:00.000Z",
+        "title": "Q2 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Call-50494507.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/07/2025 10:15 am",
+        "dateTimeISO": "2025-07-17T04:45:00.000Z",
+        "title": "Q2 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Release-45098241.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/05/2025 09:30 pm",
+        "dateTimeISO": "2025-05-15T16:00:00.000Z",
+        "title": "OTC Markets Group Inc Deutsche Bank ADR Virtual Investor Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/OTC-Markets-Group-Inc-Deutsche-Bank-ADR-Virtual-Investor-Conference-49940284.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/04/2025 01:30 pm",
+        "dateTimeISO": "2025-04-17T08:00:00.000Z",
+        "title": "Q1 2025 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Call-49593521.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/04/2025 10:15 am",
+        "dateTimeISO": "2025-04-17T04:45:00.000Z",
+        "title": "Q1 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2025-Earnings-Release-45098238.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/03/2025",
+        "dateTimeISO": "2025-03-30T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-49278449.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/03/2025 02:30 pm",
+        "dateTimeISO": "2025-03-27T09:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-48508396.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2025 02:30 pm",
+        "dateTimeISO": "2025-01-30T09:00:00.000Z",
+        "title": "Q4 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Call-48868675.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2025 11:15 am",
+        "dateTimeISO": "2025-01-30T05:45:00.000Z",
+        "title": "Q4 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Release-45098237.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/10/2024 01:30 pm",
+        "dateTimeISO": "2024-10-17T08:00:00.000Z",
+        "title": "Q3 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Call-47959648.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/10/2024 10:15 am",
+        "dateTimeISO": "2024-10-17T04:45:00.000Z",
+        "title": "Q3 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Release-42782788.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/07/2024 01:30 pm",
+        "dateTimeISO": "2024-07-18T08:00:00.000Z",
+        "title": "Q2 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Call-47408426.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/07/2024 10:15 am",
+        "dateTimeISO": "2024-07-18T04:45:00.000Z",
+        "title": "Q2 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Release-42782775.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/04/2024 01:30 pm",
+        "dateTimeISO": "2024-04-18T08:00:00.000Z",
+        "title": "Q1 2024 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Call-46452187.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/04/2024 10:30 am",
+        "dateTimeISO": "2024-04-18T05:00:00.000Z",
+        "title": "Q1 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Release-42782766.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/03/2024",
+        "dateTimeISO": "2024-03-24T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-46079258.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/03/2024 02:30 pm",
+        "dateTimeISO": "2024-03-21T09:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-43690991.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/02/2024 02:30 pm",
+        "dateTimeISO": "2024-02-01T09:00:00.000Z",
+        "title": "Q4 2023 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Call-45771999.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/02/2024 11:15 am",
+        "dateTimeISO": "2024-02-01T05:45:00.000Z",
+        "title": "Q4 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Release-41065217.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/11/2023",
+        "dateTimeISO": "2023-11-29T18:30:00.000Z",
+        "title": "Capital Markets Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Capital-Markets-Day-42782652.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/12/2019",
+        "dateTimeISO": "2019-12-02T18:30:00.000Z",
+        "title": "Goldman Sachs Industrials Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Goldman-Sachs-Industrials-Conference-29110730.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/09/2019",
+        "dateTimeISO": "2019-09-09T18:30:00.000Z",
+        "title": "Turbomachinery Pump Symposium",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Turbomachinery-Pump-Symposium-29110198.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/09/2019",
+        "dateTimeISO": "2019-09-09T18:30:00.000Z",
+        "title": "International Fair of Mining, Power Industry and Metallurgy",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/International-Fair-of-Mining-Power-Industry-and-Metallurgy-29110197.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/09/2019",
+        "dateTimeISO": "2019-09-07T18:30:00.000Z",
+        "title": "IEEE PCIC Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/IEEE-PCIC-Conference-29110012.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/09/2019",
+        "dateTimeISO": "2019-09-03T18:30:00.000Z",
+        "title": "Cenex LVC Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Cenex-LVC-Conference-29109777.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/09/2019",
+        "dateTimeISO": "2019-09-02T18:30:00.000Z",
+        "title": "Digitaltag Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Digitaltag-Conference-29109665.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/08/2019",
+        "dateTimeISO": "2019-08-28T18:30:00.000Z",
+        "title": "SEB Industrial & Technology Seminar",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/SEB-Industrial-Technology-Seminar-29109545.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/08/2019",
+        "dateTimeISO": "2019-08-25T18:30:00.000Z",
+        "title": "Electric Vehicle Transition Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Electric-Vehicle-Transition-Conference-29109336.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/05/2019 01:30 pm",
+        "dateTimeISO": "2019-05-02T08:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-27498064.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/04/2019",
+        "dateTimeISO": "2019-04-28T18:30:00.000Z",
+        "title": "B2B Online Premier Digital Marketing Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/B2B-Online-Premier-Digital-Marketing-Conference-27691797.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/04/2019 05:30 pm",
+        "dateTimeISO": "2019-04-17T12:00:00.000Z",
+        "title": "Q1 2019 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2019-Earnings-Call-28453882.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/04/2019 10:20 am",
+        "dateTimeISO": "2019-04-17T04:50:00.000Z",
+        "title": "Q1 2019 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2019-Earnings-Release-25535644.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/04/2019",
+        "dateTimeISO": "2019-04-08T18:30:00.000Z",
+        "title": "AutomatedDC Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/AutomatedDC-Conference-28363088.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/04/2019",
+        "dateTimeISO": "2019-04-08T18:30:00.000Z",
+        "title": "Advanced Factories Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Advanced-Factories-Conference-28363087.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/04/2019",
+        "dateTimeISO": "2019-04-08T18:30:00.000Z",
+        "title": "Maintenance NEXT Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Maintenance-NEXT-Conference-28363086.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/04/2019",
+        "dateTimeISO": "2019-04-07T18:30:00.000Z",
+        "title": "Automate Showcase",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Automate-Showcase-28363027.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/04/2019",
+        "dateTimeISO": "2019-04-07T18:30:00.000Z",
+        "title": "Bauma Trade Fair",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Bauma-Trade-Fair-28363026.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/04/2019",
+        "dateTimeISO": "2019-04-07T18:30:00.000Z",
+        "title": "ProMat Showcase",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/ProMat-Showcase-28363025.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/04/2019",
+        "dateTimeISO": "2019-04-03T18:30:00.000Z",
+        "title": "Data Center Forum",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Data-Center-Forum-28362825.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/04/2019",
+        "dateTimeISO": "2019-04-02T18:30:00.000Z",
+        "title": "Empack Automation Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Empack-Automation-Conference-28362752.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/04/2019",
+        "dateTimeISO": "2019-04-01T18:30:00.000Z",
+        "title": "WindEurope Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/WindEurope-Conference-28362668.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/04/2019",
+        "dateTimeISO": "2019-03-31T18:30:00.000Z",
+        "title": "Hannover Messe Trade Fair",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Hannover-Messe-Trade-Fair-28138813.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/03/2019",
+        "dateTimeISO": "2019-03-10T18:30:00.000Z",
+        "title": "IHS Markit CERAWeek Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/IHS-Markit-CERAWeek-Conference-28056570.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "11/03/2019",
+        "dateTimeISO": "2019-03-10T18:30:00.000Z",
+        "title": "ON24 Webinar World Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/ON24-Webinar-World-Conference-27691741.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/02/2019 04:30 pm",
+        "dateTimeISO": "2019-02-28T11:00:00.000Z",
+        "title": "FY 2018 Earnings Call - Strategic Update Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2018-Earnings-Call-Strategic-Update-Call-27987812.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/02/2019 11:30 am",
+        "dateTimeISO": "2019-02-28T06:00:00.000Z",
+        "title": "FY 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2018-Earnings-Release-25392174.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/12/2018 06:30 pm",
+        "dateTimeISO": "2018-12-17T13:00:00.000Z",
+        "title": "Power Grids Business Divestment Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Power-Grids-Business-Divestment-Call-27790501.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/11/2018 03:30 pm",
+        "dateTimeISO": "2018-11-29T10:00:00.000Z",
+        "title": "Datacenter Forum",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Datacenter-Forum-27690794.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/10/2018 05:30 pm",
+        "dateTimeISO": "2018-10-25T12:00:00.000Z",
+        "title": "Q3 2018 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2018-Earnings-Call-25606218.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/10/2018 10:15 am",
+        "dateTimeISO": "2018-10-25T04:45:00.000Z",
+        "title": "Q3 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2018-Earnings-Release-23861751.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/10/2018",
+        "dateTimeISO": "2018-10-07T18:30:00.000Z",
+        "title": "Inspire Europe Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Inspire-Europe-Conference-27414935.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "18/09/2018",
+        "dateTimeISO": "2018-09-17T18:30:00.000Z",
+        "title": "InnoTrans International Trade Fair",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/InnoTrans-International-Trade-Fair-27299781.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/07/2018 05:30 pm",
+        "dateTimeISO": "2018-07-19T12:00:00.000Z",
+        "title": "Interim 2018 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2018-Earnings-Call-25605961.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/07/2018 10:30 am",
+        "dateTimeISO": "2018-07-19T05:00:00.000Z",
+        "title": "Interim 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2018-Earnings-Release-23861434.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "14/06/2018",
+        "dateTimeISO": "2018-06-13T18:30:00.000Z",
+        "title": "JP Morgan CEO Capital Goods Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/JP-Morgan-CEO-Capital-Goods-Conference-26299161.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/05/2018",
+        "dateTimeISO": "2018-05-29T18:30:00.000Z",
+        "title": "Morgan Stanley China Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-China-Conference-26778948.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/04/2018 05:30 pm",
+        "dateTimeISO": "2018-04-19T12:00:00.000Z",
+        "title": "Q1 2018 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2018-Earnings-Call-25605806.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/04/2018 10:30 am",
+        "dateTimeISO": "2018-04-19T05:00:00.000Z",
+        "title": "Q1 2018 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2018-Earnings-Release-23861189.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/03/2018 01:30 pm",
+        "dateTimeISO": "2018-03-29T08:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-24802646.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/03/2018",
+        "dateTimeISO": "2018-03-20T18:30:00.000Z",
+        "title": "BoAnnual meeting for shareholdersL Global Industrials Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/BoAnnual-meeting-for-shareholdersL-Global-Industrials-Conference-26296409.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2018 06:30 pm",
+        "dateTimeISO": "2018-02-08T13:00:00.000Z",
+        "title": "FY 2017 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2017-Earnings-Call-24420661.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2018 11:30 am",
+        "dateTimeISO": "2018-02-08T06:00:00.000Z",
+        "title": "FY 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2017-Earnings-Release-22857905.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/10/2017 05:30 pm",
+        "dateTimeISO": "2017-10-26T12:00:00.000Z",
+        "title": "Q3 2017 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2017-Earnings-Call-20917505.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/10/2017 10:30 am",
+        "dateTimeISO": "2017-10-26T05:00:00.000Z",
+        "title": "Q3 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2017-Earnings-Release-23858672.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/09/2017",
+        "dateTimeISO": "2017-09-27T18:30:00.000Z",
+        "title": "Sanford C. Bernstein & Co European Strategic Decisions Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Sanford-C-Bernstein-Co-European-Strategic-Decisions-Conference-24721346.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/09/2017 03:30 pm",
+        "dateTimeISO": "2017-09-25T10:00:00.000Z",
+        "title": "Acquisition of GE Industrial Solutions by ABB Ltd Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Acquisition-of-GE-Industrial-Solutions-by-ABB-Ltd-Call-25206026.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/09/2017",
+        "dateTimeISO": "2017-09-24T18:30:00.000Z",
+        "title": "PACK Las Vegas Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/PACK-Las-Vegas-Conference-25335775.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/09/2017",
+        "dateTimeISO": "2017-09-19T18:30:00.000Z",
+        "title": "Asian Offshore Support Journal Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Asian-Offshore-Support-Journal-Conference-25242547.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/09/2017",
+        "dateTimeISO": "2017-09-18T18:30:00.000Z",
+        "title": "PROCESS Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/PROCESS-Conference-25242541.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/09/2017",
+        "dateTimeISO": "2017-09-18T18:30:00.000Z",
+        "title": "Asia Power Week PowerGen Asia Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Asia-Power-Week-PowerGen-Asia-Conference-25242540.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "17/09/2017",
+        "dateTimeISO": "2017-09-16T18:30:00.000Z",
+        "title": "PCIC Americas Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/PCIC-Americas-Conference-25242532.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/09/2017",
+        "dateTimeISO": "2017-09-11T18:30:00.000Z",
+        "title": "Ineltec Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ineltec-Conference-25242521.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "12/09/2017",
+        "dateTimeISO": "2017-09-11T18:30:00.000Z",
+        "title": "WAN-IFRA India Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/WAN-IFRA-India-Conference-25127105.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/09/2017",
+        "dateTimeISO": "2017-09-09T18:30:00.000Z",
+        "title": "Solar Power International Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Solar-Power-International-Conference-25242514.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2017",
+        "dateTimeISO": "2017-09-06T18:30:00.000Z",
+        "title": "Morgan Stanley Industrials & Natural Resources conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-Industrials-Natural-Resources-conference-24759582.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2017",
+        "dateTimeISO": "2017-09-06T18:30:00.000Z",
+        "title": "Vertical Research Partners Industrial Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Vertical-Research-Partners-Industrial-Conference-24721337.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/09/2017",
+        "dateTimeISO": "2017-09-05T18:30:00.000Z",
+        "title": "Investor Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Investor-Day-24538115.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/09/2017",
+        "dateTimeISO": "2017-09-04T18:30:00.000Z",
+        "title": "Offshore Europe Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Offshore-Europe-Conference-25126351.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/07/2017 05:30 pm",
+        "dateTimeISO": "2017-07-20T12:00:00.000Z",
+        "title": "Interim 2017 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2017-Earnings-Call-22930922.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/07/2017 10:30 am",
+        "dateTimeISO": "2017-07-20T05:00:00.000Z",
+        "title": "Interim 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2017-Earnings-Release-20963918.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/06/2017",
+        "dateTimeISO": "2017-06-14T18:30:00.000Z",
+        "title": "JP Morgan European Capital Goods CEO Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/JP-Morgan-European-Capital-Goods-CEO-Conference-23814186.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/06/2017",
+        "dateTimeISO": "2017-05-31T18:30:00.000Z",
+        "title": "Sanford Bernstein CEO Strategic Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Sanford-Bernstein-CEO-Strategic-Conference-24575243.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/06/2017",
+        "dateTimeISO": "2017-05-31T18:30:00.000Z",
+        "title": "Morgan Stanley China Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-China-Conference-23814160.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/04/2017 05:30 pm",
+        "dateTimeISO": "2017-04-20T12:00:00.000Z",
+        "title": "Q1 2017 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2017-Earnings-Call-22930895.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/04/2017 10:30 am",
+        "dateTimeISO": "2017-04-20T05:00:00.000Z",
+        "title": "Q1 2017 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2017-Earnings-Release-20916166.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/04/2017 09:30 am",
+        "dateTimeISO": "2017-04-13T04:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-22930892.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/03/2017",
+        "dateTimeISO": "2017-03-20T18:30:00.000Z",
+        "title": "Bank of America Merrill Lynch Global Industrials Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Bank-of-America-Merrill-Lynch-Global-Industrials-Conference-23657229.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2017 06:30 pm",
+        "dateTimeISO": "2017-02-08T13:00:00.000Z",
+        "title": "FY 2016 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2016-Earnings-Call-22930870.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/02/2017 11:30 am",
+        "dateTimeISO": "2017-02-08T06:00:00.000Z",
+        "title": "FY 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2016-Earnings-Release-20915177.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/12/2016",
+        "dateTimeISO": "2016-12-06T18:30:00.000Z",
+        "title": "Barclays Energy Revolution Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Barclays-Energy-Revolution-Conference-23532285.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/12/2016",
+        "dateTimeISO": "2016-12-04T18:30:00.000Z",
+        "title": "Goldman Sachs European Industrials Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Goldman-Sachs-European-Industrials-Conference-22930862.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/11/2016",
+        "dateTimeISO": "2016-11-07T18:30:00.000Z",
+        "title": "Robert W. Baird Global Industrial Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Robert-W-Baird-Global-Industrial-Conference-22930839.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/10/2016 05:30 pm",
+        "dateTimeISO": "2016-10-27T12:00:00.000Z",
+        "title": "Q3 2016 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2016-Earnings-Call-20750196.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/10/2016 10:15 am",
+        "dateTimeISO": "2016-10-27T04:45:00.000Z",
+        "title": "Q3 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2016-Earnings-Release-19671373.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/10/2016 02:30 pm",
+        "dateTimeISO": "2016-10-04T09:00:00.000Z",
+        "title": "Capital Markets Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Capital-Markets-Day-22227081.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/09/2016",
+        "dateTimeISO": "2016-09-07T18:30:00.000Z",
+        "title": "Morgan Stanley Industrial & Natural Resources Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-Industrial-Natural-Resources-Conference-22930630.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/09/2016",
+        "dateTimeISO": "2016-09-06T18:30:00.000Z",
+        "title": "Vertical Research Industrial Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Vertical-Research-Industrial-Conference-22930590.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/08/2016",
+        "dateTimeISO": "2016-08-08T18:30:00.000Z",
+        "title": "Jefferies Industrials Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Jefferies-Industrials-Conference-22077190.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/07/2016 05:30 pm",
+        "dateTimeISO": "2016-07-21T12:00:00.000Z",
+        "title": "Interim 2016 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2016-Earnings-Call-19662924.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/07/2016 10:30 am",
+        "dateTimeISO": "2016-07-21T05:00:00.000Z",
+        "title": "Interim 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2016-Earnings-Release-20911254.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "16/06/2016",
+        "dateTimeISO": "2016-06-15T18:30:00.000Z",
+        "title": "Nomura European Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Nomura-European-Conference-22077127.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/06/2016",
+        "dateTimeISO": "2016-06-08T18:30:00.000Z",
+        "title": "JP Morgan Cazenove Capital Goods CEO Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/JP-Morgan-Cazenove-Capital-Goods-CEO-Conference-22111936.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/06/2016",
+        "dateTimeISO": "2016-06-07T18:30:00.000Z",
+        "title": "Deutsche Bank German Swiss & Austrian Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Deutsche-Bank-German-Swiss-Austrian-Conference-22111924.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/06/2016",
+        "dateTimeISO": "2016-06-06T18:30:00.000Z",
+        "title": "Berenberg Energy Efficiency & Construction Sector Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Berenberg-Energy-Efficiency-Construction-Sector-Conference-22543595.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "07/06/2016",
+        "dateTimeISO": "2016-06-06T18:30:00.000Z",
+        "title": "Vontobel Summer Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Vontobel-Summer-Conference-22510117.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "01/06/2016 08:30 pm",
+        "dateTimeISO": "2016-06-01T15:00:00.000Z",
+        "title": "Sanford C. Bernstein & Co. Strategic Decisions Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Sanford-C-Bernstein-Co-Strategic-Decisions-Conference-22111895.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "31/05/2016",
+        "dateTimeISO": "2016-05-30T18:30:00.000Z",
+        "title": "Kepler Cheuvreux German Property Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Kepler-Cheuvreux-German-Property-Day-22111886.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/05/2016",
+        "dateTimeISO": "2016-05-23T18:30:00.000Z",
+        "title": "Morgan Stanley China Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-China-Conference-22543518.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "13/05/2016",
+        "dateTimeISO": "2016-05-12T18:30:00.000Z",
+        "title": "JP Morgan Corporate Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/JP-Morgan-Corporate-Day-22111418.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/04/2016 01:30 pm",
+        "dateTimeISO": "2016-04-21T08:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-20463727.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/04/2016 06:30 pm",
+        "dateTimeISO": "2016-04-20T13:00:00.000Z",
+        "title": "Q1 2016 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2016-Earnings-Call-20750154.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/04/2016 10:30 am",
+        "dateTimeISO": "2016-04-20T05:00:00.000Z",
+        "title": "Q1 2016 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2016-Earnings-Release-19655502.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "15/03/2016",
+        "dateTimeISO": "2016-03-14T18:30:00.000Z",
+        "title": "Bank of America Merrill Lynch Global Industrials & EU Autos Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Bank-of-America-Merrill-Lynch-Global-Industrials-EU-Autos-Conference-22110236.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "10/03/2016",
+        "dateTimeISO": "2016-03-09T18:30:00.000Z",
+        "title": "Carnegie Capital Goods Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Carnegie-Capital-Goods-Conference-21926454.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/03/2016",
+        "dateTimeISO": "2016-03-08T18:30:00.000Z",
+        "title": "Morgan Stanley Investor Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Morgan-Stanley-Investor-Day-21926373.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/03/2016",
+        "dateTimeISO": "2016-03-07T18:30:00.000Z",
+        "title": "Barclays Robotics Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Barclays-Robotics-Conference-22110220.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/03/2016",
+        "dateTimeISO": "2016-03-07T18:30:00.000Z",
+        "title": "Barclays - The Rise of Co-Bots Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Barclays-The-Rise-of-Co-Bots-Conference-21926293.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/02/2016 06:30 pm",
+        "dateTimeISO": "2016-02-03T13:00:00.000Z",
+        "title": "FY 2015 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2015-Earnings-Call-21772399.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/02/2016 11:30 am",
+        "dateTimeISO": "2016-02-03T06:00:00.000Z",
+        "title": "FY 2015 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2015-Earnings-Release-19650103.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "02/12/2015",
+        "dateTimeISO": "2015-12-01T18:30:00.000Z",
+        "title": "Goldman Sachs European Industrials Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Goldman-Sachs-European-Industrials-Conference-21446848.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/10/2015 05:30 pm",
+        "dateTimeISO": "2015-10-21T12:00:00.000Z",
+        "title": "Q3 2015 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2015-Earnings-Call-18417614.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/10/2015",
+        "dateTimeISO": "2015-10-20T18:30:00.000Z",
+        "title": "Q3 2015 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2015-Earnings-Release-19176377.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/09/2015 03:30 pm",
+        "dateTimeISO": "2015-09-09T10:00:00.000Z",
+        "title": "Capital Markets Day",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Capital-Markets-Day-20712606.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/07/2015 06:30 pm",
+        "dateTimeISO": "2015-07-23T13:00:00.000Z",
+        "title": "Interim 2015 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2015-Earnings-Call-18417604.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/07/2015 10:30 am",
+        "dateTimeISO": "2015-07-23T05:00:00.000Z",
+        "title": "Interim 2015 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2015-Earnings-Release-18721624.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "09/06/2015",
+        "dateTimeISO": "2015-06-08T18:30:00.000Z",
+        "title": "Berenberg Bank Energy Efficiency Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Berenberg-Bank-Energy-Efficiency-Conference-20066349.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/05/2015 12:30 am",
+        "dateTimeISO": "2015-05-28T19:00:00.000Z",
+        "title": "Sanford C. Bernstein Strategic Decisions Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Sanford-C-Bernstein-Strategic-Decisions-Conference-20216970.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/05/2015",
+        "dateTimeISO": "2015-05-20T18:30:00.000Z",
+        "title": "Nomura European Responsible Investing Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Nomura-European-Responsible-Investing-Conference-19831942.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "19/05/2015 10:00 pm",
+        "dateTimeISO": "2015-05-19T16:30:00.000Z",
+        "title": "Electrical Products Group Spring Conference",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Electrical-Products-Group-Spring-Conference-20428048.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "04/05/2015",
+        "dateTimeISO": "2015-05-03T18:30:00.000Z",
+        "title": "Shareholders Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Shareholders-Meeting-19795568.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/04/2015 01:30 pm",
+        "dateTimeISO": "2015-04-30T08:00:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-18417567.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/04/2015 06:30 pm",
+        "dateTimeISO": "2015-04-29T13:00:00.000Z",
+        "title": "Q1 2015 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2015-Earnings-Call-18417564.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/04/2015 10:30 am",
+        "dateTimeISO": "2015-04-29T05:00:00.000Z",
+        "title": "Q1 2015 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2015-Earnings-Release-18253723.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/02/2015 06:30 pm",
+        "dateTimeISO": "2015-02-05T13:00:00.000Z",
+        "title": "FY 2014 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2014-Earnings-Call-18417512.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "05/02/2015 11:30 am",
+        "dateTimeISO": "2015-02-05T06:00:00.000Z",
+        "title": "FY 2014 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2014-Earnings-Release-17792364.ics"
+      }
+    ]
+  },
+  "pastDividends": {
+    "count": 23,
+    "dividends": [
+      {
+        "section": "Past Dividends",
+        "dateRaw": "31/03/2025",
+        "dateISO": "2025-03-30T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.9,
+        "currency": "CHF",
+        "title": "Annual 0.9 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "25/03/2024",
+        "dateISO": "2024-03-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.87,
+        "currency": "CHF",
+        "title": "Annual 0.87 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/03/2023",
+        "dateISO": "2023-03-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.84,
+        "currency": "CHF",
+        "title": "Annual 0.84 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/03/2022",
+        "dateISO": "2022-03-27T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.82,
+        "currency": "CHF",
+        "title": "Annual 0.82 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/03/2021",
+        "dateISO": "2021-03-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.8,
+        "currency": "CHF",
+        "title": "Annual 0.8 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "30/03/2020",
+        "dateISO": "2020-03-29T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.8,
+        "currency": "CHF",
+        "title": "Annual 0.8 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "06/05/2019",
+        "dateISO": "2019-05-05T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.8,
+        "currency": "CHF",
+        "title": "Annual 0.8 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "04/04/2018",
+        "dateISO": "2018-04-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.78,
+        "currency": "CHF",
+        "title": "Annual 0.78 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "19/04/2017",
+        "dateISO": "2017-04-18T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.76,
+        "currency": "CHF",
+        "title": "Annual 0.76 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "11/07/2016",
+        "dateISO": "2016-07-10T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.74,
+        "currency": "CHF",
+        "title": "Other Dividend 0.74 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/07/2015",
+        "dateISO": "2015-07-26T18:30:00.000Z",
+        "type": "0.17 CHF",
+        "amount": null,
+        "currency": null,
+        "title": "0.17 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "05/05/2015",
+        "dateISO": "2015-05-04T18:30:00.000Z",
+        "type": "0.55 CHF",
+        "amount": null,
+        "currency": null,
+        "title": "0.55 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "05/05/2014",
+        "dateISO": "2014-05-04T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.7,
+        "currency": "CHF",
+        "title": "Other Dividend 0.7 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/04/2013",
+        "dateISO": "2013-04-28T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.68,
+        "currency": "CHF",
+        "title": "Other Dividend 0.68 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "30/04/2012",
+        "dateISO": "2012-04-29T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.65,
+        "currency": "CHF",
+        "title": "Other Dividend 0.65 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "03/05/2011",
+        "dateISO": "2011-05-02T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.6,
+        "currency": "CHF",
+        "title": "Other Dividend 0.6 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "12/07/2010",
+        "dateISO": "2010-07-11T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.51,
+        "currency": "CHF",
+        "title": "Other Dividend 0.51 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/07/2009",
+        "dateISO": "2009-07-26T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.48,
+        "currency": "CHF",
+        "title": "Other Dividend 0.48 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/07/2008",
+        "dateISO": "2008-07-27T18:30:00.000Z",
+        "type": "Other Dividend",
+        "amount": 0.48,
+        "currency": "CHF",
+        "title": "Other Dividend 0.48 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/05/2007",
+        "dateISO": "2007-05-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.24,
+        "currency": "CHF",
+        "title": "Annual 0.24 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/05/2006",
+        "dateISO": "2006-05-08T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.12,
+        "currency": "CHF",
+        "title": "Annual 0.12 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "26/03/2001",
+        "dateISO": "2001-03-25T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3,
+        "currency": "CHF",
+        "title": "Annual 3 CHF"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "23/03/2000",
+        "dateISO": "2000-03-22T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3,
+        "currency": "CHF",
+        "title": "Annual 3 CHF"
+      }
+    ]
+  }
+}

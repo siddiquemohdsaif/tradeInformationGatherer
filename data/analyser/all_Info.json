@@ -1,0 +1,4258 @@
+{
+  "generatedAt": "2025-10-13T12:31:42.741Z",
+  "dirScanned": "D:\\Node Project\\webscrap\\ms-events\\data\\info",
+  "counts": {
+    "companiesWithUpcoming": 199,
+    "companiesWithDividends": 188
+  },
+  "upcoming": [
+    {
+      "companyCode": "BANK-OF-MAHARASHTRA-9059511",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/10/2025",
+        "dateTimeISO": "2025-10-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-46801965.ics"
+      }
+    },
+    {
+      "companyCode": "ICICI-LOMBARD-GENERAL-INS-46731374",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/10/2025",
+        "dateTimeISO": "2025-10-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-44948974.ics"
+      }
+    },
+    {
+      "companyCode": "ICICI-PRUDENTIAL-LIFE-INS-32000303",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/10/2025",
+        "dateTimeISO": "2025-10-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47950924.ics"
+      }
+    },
+    {
+      "companyCode": "PERSISTENT-SYSTEMS-LIMITE-9059922",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/10/2025",
+        "dateTimeISO": "2025-10-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47970656.ics"
+      }
+    },
+    {
+      "companyCode": "TECH-MAHINDRA-LIMITED-33647041",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/10/2025",
+        "dateTimeISO": "2025-10-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47981075.ics"
+      }
+    },
+    {
+      "companyCode": "AXIS-BANK-LIMITED-46730206",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2025",
+        "dateTimeISO": "2025-10-14T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-45025421.ics"
+      }
+    },
+    {
+      "companyCode": "HDFC-LIFE-INSURANCE-COMPA-46731381",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2025",
+        "dateTimeISO": "2025-10-14T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48019891.ics"
+      }
+    },
+    {
+      "companyCode": "INDN-RAIL-119082036",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2025",
+        "dateTimeISO": "2025-10-14T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48162586.ics"
+      }
+    },
+    {
+      "companyCode": "KEI-INDUSTRIES-LIMITED-6498805",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2025",
+        "dateTimeISO": "2025-10-14T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48063533.ics"
+      }
+    },
+    {
+      "companyCode": "OBEROI-REALTY-LIMITED-7939324",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2025",
+        "dateTimeISO": "2025-10-14T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48094645.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-COMMUNICATIONS-LIMIT-9058863",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/10/2025",
+        "dateTimeISO": "2025-10-14T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48029110.ics"
+      }
+    },
+    {
+      "companyCode": "ABB-LTD-8943400",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-45098245.ics"
+      }
+    },
+    {
+      "companyCode": "CENTRAL-BANK-OF-INDIA-9059895",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48052843.ics"
+      }
+    },
+    {
+      "companyCode": "CG-POWER-AND-INDUSTRIAL-S-9058926",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48094903.ics"
+      }
+    },
+    {
+      "companyCode": "INDIAN-OVERSEAS-BANK-9059279",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48074396.ics"
+      }
+    },
+    {
+      "companyCode": "JIO-FINANCIAL-SERVICES-LI-157409091",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-45744480.ics"
+      }
+    },
+    {
+      "companyCode": "LTIMINDTREE-LIMITED-31496899",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48039601.ics"
+      }
+    },
+    {
+      "companyCode": "NESTLE-INDIA-LIMITED-6493165",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-45605592.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-ELXSI-LIMITED-6493061",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-51240683.ics"
+      }
+    },
+    {
+      "companyCode": "WIPRO-LIMITED-6494362",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025",
+        "dateTimeISO": "2025-10-15T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release After hours",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-44919322.ics"
+      }
+    },
+    {
+      "companyCode": "INFOSYS-LIMITED-9743342",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "16/10/2025 03:45 pm",
+        "dateTimeISO": "2025-10-16T10:15:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47262909.ics"
+      }
+    },
+    {
+      "companyCode": "360-ONE-WAM-LIMITED-105516388",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48020499.ics"
+      }
+    },
+    {
+      "companyCode": "AMBUJA-CEMENTS-6491917",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-Projected-46618131.ics"
+      }
+    },
+    {
+      "companyCode": "AU-SMALL-FINANCE-BANK-LIM-36939117",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48039361.ics"
+      }
+    },
+    {
+      "companyCode": "CRISIL-LIMITED-9063424",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-47981319.ics"
+      }
+    },
+    {
+      "companyCode": "DIXON-TECHNOLOGIES-INDIA--111615221",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48116170.ics"
+      }
+    },
+    {
+      "companyCode": "HAVELLS-INDIA-LIMITED-17567316",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48066091.ics"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-ZINC-LIMITED-9058942",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48084373.ics"
+      }
+    },
+    {
+      "companyCode": "JSW-ENERGY-LIMITED-6500125",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48116212.ics"
+      }
+    },
+    {
+      "companyCode": "JSW-STEEL-LIMITED-46728626",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47981454.ics"
+      }
+    },
+    {
+      "companyCode": "POLYCAB-INDIA-LIMITED-58674735",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47999085.ics"
+      }
+    },
+    {
+      "companyCode": "RELIANCE-INDUSTRIES-LTD-9058833",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48020045.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-CONSUMER-PRODUCTS-LI-9058838",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/10/2025",
+        "dateTimeISO": "2025-10-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48063821.ics"
+      }
+    },
+    {
+      "companyCode": "HDFC-BANK-LIMITED-105516154",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47881453.ics"
+      }
+    },
+    {
+      "companyCode": "ICICI-BANK-LIMITED-23672738",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-44919796.ics"
+      }
+    },
+    {
+      "companyCode": "IDBI-BANK-LIMITED-9743068",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48113770.ics"
+      }
+    },
+    {
+      "companyCode": "IDFC-FIRST-BANK-LIMITED-46731334",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48176024.ics"
+      }
+    },
+    {
+      "companyCode": "INDUSLND-BANK-LIMITED-9059225",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48125282.ics"
+      }
+    },
+    {
+      "companyCode": "PUNJAB-NATIONAL-BANK-19165555",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48148753.ics"
+      }
+    },
+    {
+      "companyCode": "THE-FEDERAL-BANK-LIMITED-14609339",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48113868.ics"
+      }
+    },
+    {
+      "companyCode": "ULTRATECH-CEMENT-LIMITED-9059270",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-51004833.ics"
+      }
+    },
+    {
+      "companyCode": "YES-BANK-LIMITED-9059346",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/10/2025",
+        "dateTimeISO": "2025-10-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48053690.ics"
+      }
+    },
+    {
+      "companyCode": "KOTAK-MAHINDRA-BANK-LIMIT-9059013",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "20/10/2025",
+        "dateTimeISO": "2025-10-19T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48073647.ics"
+      }
+    },
+    {
+      "companyCode": "ACC-LTD-9058814",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47676906.ics"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-FINSERV-LTD-9059974",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48094646.ics"
+      }
+    },
+    {
+      "companyCode": "JUBILANT-FOODWORKS-LIMITE-9059999",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48285728.ics"
+      }
+    },
+    {
+      "companyCode": "KPIT-TECHNOLOGIES-LIMITED-105516357",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-44927913.ics"
+      }
+    },
+    {
+      "companyCode": "SBI-LIFE-INSURANCE-COMPAN-46731375",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113303.ics"
+      }
+    },
+    {
+      "companyCode": "SRF-LIMITED-6498495",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48094759.ics"
+      }
+    },
+    {
+      "companyCode": "TORRENT-PHARMACEUTICALS-L-6493365",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48052890.ics"
+      }
+    },
+    {
+      "companyCode": "UNION-BANK-OF-INDIA-9058857",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "22/10/2025",
+        "dateTimeISO": "2025-10-21T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48105879.ics"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-AUTO-LIMITED-9059975",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48020241.ics"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-HOLDINGS-INVESTMENT-6491903",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148520.ics"
+      }
+    },
+    {
+      "companyCode": "COLGATE-PALMOLIVE-INDIA-L-6492485",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48105625.ics"
+      }
+    },
+    {
+      "companyCode": "COROMANDEL-INTERNATIONAL--9059066",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136442.ics"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-UNILEVER-LIMITE-9058826",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q1 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Release-46815602.ics"
+      }
+    },
+    {
+      "companyCode": "INDIAN-BANK-9059774",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148646.ics"
+      }
+    },
+    {
+      "companyCode": "ITC-LIMITED-9743470",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113165.ics"
+      }
+    },
+    {
+      "companyCode": "NTPC-LTD-9743456",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48125407.ics"
+      }
+    },
+    {
+      "companyCode": "SBI-CARDS-AND-PAYMENT-SER-104922920",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148133.ics"
+      }
+    },
+    {
+      "companyCode": "SCHAEFFLER-INDIA-LIMITED-6493485",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-Projected-48960705.ics"
+      }
+    },
+    {
+      "companyCode": "TUBE-INVESTMENTS-OF-INDIA-105516309",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48201307.ics"
+      }
+    },
+    {
+      "companyCode": "UNITED-BREWERIES-LIMITED-6493101",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48073653.ics"
+      }
+    },
+    {
+      "companyCode": "BHARAT-ELECTRONICS-LIMITE-46728583",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "24/10/2025",
+        "dateTimeISO": "2025-10-23T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48105373.ics"
+      }
+    },
+    {
+      "companyCode": "BHARAT-PETROLEUM-CORPORAT-9743071",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "24/10/2025",
+        "dateTimeISO": "2025-10-23T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148258.ics"
+      }
+    },
+    {
+      "companyCode": "COFORGE-LIMITED-9059315",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "24/10/2025",
+        "dateTimeISO": "2025-10-23T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48113526.ics"
+      }
+    },
+    {
+      "companyCode": "DR-REDDY-S-LABORATORIES-L-6492671",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "24/10/2025",
+        "dateTimeISO": "2025-10-23T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47924200.ics"
+      }
+    },
+    {
+      "companyCode": "REC-LIMITED-9059899",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "24/10/2025",
+        "dateTimeISO": "2025-10-23T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48162919.ics"
+      }
+    },
+    {
+      "companyCode": "SHRIRAM-FINANCE-LIMITED-6498530",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "24/10/2025",
+        "dateTimeISO": "2025-10-23T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113164.ics"
+      }
+    },
+    {
+      "companyCode": "LODHA-DEVELOPERS-LIMITED-121553374",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "27/10/2025",
+        "dateTimeISO": "2025-10-26T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48176023.ics"
+      }
+    },
+    {
+      "companyCode": "ADANI-GREEN-ENERGY-LIMITE-46901469",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "28/10/2025",
+        "dateTimeISO": "2025-10-27T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48106133.ics"
+      }
+    },
+    {
+      "companyCode": "ADANI-TOTAL-GAS-LIMITED-111614976",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "28/10/2025",
+        "dateTimeISO": "2025-10-27T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48162581.ics"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-FINANCE-LIMITED-33647061",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "28/10/2025",
+        "dateTimeISO": "2025-10-27T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48019895.ics"
+      }
+    },
+    {
+      "companyCode": "SHREE-CEMENT-LIMITED-9059180",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "28/10/2025",
+        "dateTimeISO": "2025-10-27T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48113181.ics"
+      }
+    },
+    {
+      "companyCode": "ADITYA-BIRLA-CAPITAL-LIMI-46731373",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48074277.ics"
+      }
+    },
+    {
+      "companyCode": "CANARA-BANK-9059113",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113375.ics"
+      }
+    },
+    {
+      "companyCode": "COAL-INDIA-LIMITED-9060008",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48074279.ics"
+      }
+    },
+    {
+      "companyCode": "DABUR-INDIA-LIMITED-9058822",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48094387.ics"
+      }
+    },
+    {
+      "companyCode": "DLF-LIMITED-9743639",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136810.ics"
+      }
+    },
+    {
+      "companyCode": "HERO-MOTOCORP-LTD-6491918",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48270058.ics"
+      }
+    },
+    {
+      "companyCode": "INDUS-TOWERS-LIMITED-13122683",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48084259.ics"
+      }
+    },
+    {
+      "companyCode": "LARSEN-TOUBRO-LIMITED-6491923",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48105374.ics"
+      }
+    },
+    {
+      "companyCode": "MARICO-LIMITED-6493255",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48084476.ics"
+      }
+    },
+    {
+      "companyCode": "MOTILAL-OSWAL-FINANCIAL-S-9059898",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48187352.ics"
+      }
+    },
+    {
+      "companyCode": "PB-FINTECH-LIMITED-129330252",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/10/2025",
+        "dateTimeISO": "2025-10-28T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48084146.ics"
+      }
+    },
+    {
+      "companyCode": "ADANI-ENTERPRISES-LIMITED-6498499",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48162928.ics"
+      }
+    },
+    {
+      "companyCode": "ADANI-POWER-LIMITED-9059969",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48187466.ics"
+      }
+    },
+    {
+      "companyCode": "BANK-OF-INDIA-LIMITED-9743081",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148267.ics"
+      }
+    },
+    {
+      "companyCode": "BRITANNIA-INDUSTRIES-LTD-9058852",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48256624.ics"
+      }
+    },
+    {
+      "companyCode": "CUMMINS-INDIA-LIMITED-6493116",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47942095.ics"
+      }
+    },
+    {
+      "companyCode": "GAIL-INDIA-LIMITED-9743098",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48201185.ics"
+      }
+    },
+    {
+      "companyCode": "GUJARAT-FLUOROCHEMICALS-L-119082031",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48161955.ics"
+      }
+    },
+    {
+      "companyCode": "HITACHI-ENERGY-INDIA-LIMI-105516418",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48095130.ics"
+      }
+    },
+    {
+      "companyCode": "INDIAN-OIL-CORPORATION-LI-9743425",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47419353.ics"
+      }
+    },
+    {
+      "companyCode": "MPHASIS-LIMITED-6493907",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47951210.ics"
+      }
+    },
+    {
+      "companyCode": "TVS-MOTOR-COMPANY-LIMITED-6495911",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47377151.ics"
+      }
+    },
+    {
+      "companyCode": "VODAFONE-IDEA-LIMITED-9743588",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "30/10/2025",
+        "dateTimeISO": "2025-10-29T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48285520.ics"
+      }
+    },
+    {
+      "companyCode": "INTERGLOBE-AVIATION-LIMIT-25531239",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "31/10/2025",
+        "dateTimeISO": "2025-10-30T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48095226.ics"
+      }
+    },
+    {
+      "companyCode": "MARUTI-SUZUKI-INDIA-LTD-9059169",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "31/10/2025",
+        "dateTimeISO": "2025-10-30T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48113870.ics"
+      }
+    },
+    {
+      "companyCode": "TITAN-COMPANY-LIMITED-9059025",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "31/10/2025",
+        "dateTimeISO": "2025-10-30T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48269507.ics"
+      }
+    },
+    {
+      "companyCode": "J-K-CEMENT-LIMITED-6498521",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "01/11/2025",
+        "dateTimeISO": "2025-10-31T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48038733.ics"
+      }
+    },
+    {
+      "companyCode": "BANK-OF-BARODA-23320361",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "03/11/2025",
+        "dateTimeISO": "2025-11-02T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48084019.ics"
+      }
+    },
+    {
+      "companyCode": "BHARTI-HEXACOM-LIMITED-168461592",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "03/11/2025",
+        "dateTimeISO": "2025-11-02T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-49747137.ics"
+      }
+    },
+    {
+      "companyCode": "STATE-BANK-OF-INDIA-18603402",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "03/11/2025",
+        "dateTimeISO": "2025-11-02T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148421.ics"
+      }
+    },
+    {
+      "companyCode": "THE-SUPREME-INDUSTRIES-LI-9059584",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "03/11/2025",
+        "dateTimeISO": "2025-11-02T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113451.ics"
+      }
+    },
+    {
+      "companyCode": "APL-APOLLO-TUBES-LIMITED-46730605",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "04/11/2025",
+        "dateTimeISO": "2025-11-03T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48200779.ics"
+      }
+    },
+    {
+      "companyCode": "BHARTI-AIRTEL-LIMITED-6494412",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "04/11/2025",
+        "dateTimeISO": "2025-11-03T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113310.ics"
+      }
+    },
+    {
+      "companyCode": "MAHINDRA-MAHINDRA-LIMITED-9058830",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "04/11/2025",
+        "dateTimeISO": "2025-11-03T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48216622.ics"
+      }
+    },
+    {
+      "companyCode": "MANKIND-PHARMA-LIMITED-154280476",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "04/11/2025",
+        "dateTimeISO": "2025-11-03T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48172631.ics"
+      }
+    },
+    {
+      "companyCode": "SUN-PHARMACEUTICAL-INDUST-9058928",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "04/11/2025",
+        "dateTimeISO": "2025-11-03T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48063835.ics"
+      }
+    },
+    {
+      "companyCode": "VOLTAS-LIMITED-9058902",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "04/11/2025",
+        "dateTimeISO": "2025-11-03T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48135891.ics"
+      }
+    },
+    {
+      "companyCode": "ADANI-ENERGY-SOLUTIONS-LI-23437234",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136161.ics"
+      }
+    },
+    {
+      "companyCode": "ADANI-PORTS-SPECIAL-ECONO-9059803",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47576438.ics"
+      }
+    },
+    {
+      "companyCode": "BLUE-STAR-LIMITED-6494350",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47941781.ics"
+      }
+    },
+    {
+      "companyCode": "GODREJ-PROPERTIES-LIMITED-14976317",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48029582.ics"
+      }
+    },
+    {
+      "companyCode": "LUPIN-LIMITED-9059009",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136446.ics"
+      }
+    },
+    {
+      "companyCode": "MAX-HEALTHCARE-INSTITUTE--111315625",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48217131.ics"
+      }
+    },
+    {
+      "companyCode": "PATANJALI-FOODS-LIMITED-6498538",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48105897.ics"
+      }
+    },
+    {
+      "companyCode": "PETRONET-LNG-LIMITED-9059291",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48038727.ics"
+      }
+    },
+    {
+      "companyCode": "PIDILITE-INDUSTRIES-LIMIT-9058912",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47970658.ics"
+      }
+    },
+    {
+      "companyCode": "PRESTIGE-ESTATES-PROJECTS-8017310",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48161803.ics"
+      }
+    },
+    {
+      "companyCode": "THE-PHOENIX-MILLS-LIMITED-6498526",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48845899.ics"
+      }
+    },
+    {
+      "companyCode": "UNITED-SPIRITS-LIMITED-45456076",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48039244.ics"
+      }
+    },
+    {
+      "companyCode": "ZYDUS-LIFESCIENCES-LIMITE-34067618",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "05/11/2025",
+        "dateTimeISO": "2025-11-04T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47375857.ics"
+      }
+    },
+    {
+      "companyCode": "ABBOTT-INDIA-LIMITED-8495776",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48303440.ics"
+      }
+    },
+    {
+      "companyCode": "APOLLO-HOSPITALS-ENTERPRI-9058923",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148539.ics"
+      }
+    },
+    {
+      "companyCode": "BERGER-PAINTS-INDIA-LIMIT-46728958",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136703.ics"
+      }
+    },
+    {
+      "companyCode": "CHOLAMANDALAM-INVESTMENT--6498532",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47981165.ics"
+      }
+    },
+    {
+      "companyCode": "CIPLA-LIMITED-9058821",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47486768.ics"
+      }
+    },
+    {
+      "companyCode": "ETERNAL-LIMITED-125138034",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136162.ics"
+      }
+    },
+    {
+      "companyCode": "GODREJ-CONSUMER-PRODUCTS--9059191",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48073652.ics"
+      }
+    },
+    {
+      "companyCode": "KALYAN-JEWELLERS-INDIA-LI-120718174",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48094666.ics"
+      }
+    },
+    {
+      "companyCode": "MUTHOOT-FINANCE-LIMITED-9743895",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48330057.ics"
+      }
+    },
+    {
+      "companyCode": "NATIONAL-ALUMINIUM-COMPAN-9058953",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48374266.ics"
+      }
+    },
+    {
+      "companyCode": "NHPC-LIMITED-9743748",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48074276.ics"
+      }
+    },
+    {
+      "companyCode": "PI-INDUSTRIES-LIMITED-12996038",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48176119.ics"
+      }
+    },
+    {
+      "companyCode": "POWER-FINANCE-CORPORATION-9059675",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48269678.ics"
+      }
+    },
+    {
+      "companyCode": "PROCTER-GAMBLE-HYGIENE-AN-6492496",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48794926.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-STEEL-LIMITED-6491942",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48230514.ics"
+      }
+    },
+    {
+      "companyCode": "THE-INDIAN-HOTELS-COMPANY-6493261",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48230388.ics"
+      }
+    },
+    {
+      "companyCode": "TORRENT-POWER-LIMITED-9059747",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48330560.ics"
+      }
+    },
+    {
+      "companyCode": "TRENT-LIMITED-46728633",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/11/2025",
+        "dateTimeISO": "2025-11-05T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48113382.ics"
+      }
+    },
+    {
+      "companyCode": "ALKEM-LABORATORIES-LIMITE-25531345",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48284852.ics"
+      }
+    },
+    {
+      "companyCode": "ASHOK-LEYLAND-LIMITED-9058885",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48217144.ics"
+      }
+    },
+    {
+      "companyCode": "ASTRAL-LIMITED-18088171",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48216725.ics"
+      }
+    },
+    {
+      "companyCode": "BSE-LIMITED-33930062",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48135893.ics"
+      }
+    },
+    {
+      "companyCode": "GLENMARK-PHARMACEUTICALS--9058934",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48284657.ics"
+      }
+    },
+    {
+      "companyCode": "GMR-POWER-AND-URBAN-INFRA-135486325",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48136306.ics"
+      }
+    },
+    {
+      "companyCode": "HINDALCO-INDUSTRIES-LIMIT-6493281",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48329094.ics"
+      }
+    },
+    {
+      "companyCode": "LIFE-INSURANCE-CORPORATIO-137965464",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48239602.ics"
+      }
+    },
+    {
+      "companyCode": "MRF-LIMITED-9743372",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148430.ics"
+      }
+    },
+    {
+      "companyCode": "SJVN-LIMITED-8435226",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48172637.ics"
+      }
+    },
+    {
+      "companyCode": "STEEL-AUTHORITY-OF-INDIA--9058997",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48269950.ics"
+      }
+    },
+    {
+      "companyCode": "SUZLON-ENERGY-LIMITED-9059353",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48187030.ics"
+      }
+    },
+    {
+      "companyCode": "VEDANTA-LIMITED-37569657",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "07/11/2025",
+        "dateTimeISO": "2025-11-06T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48678939.ics"
+      }
+    },
+    {
+      "companyCode": "DIVI-S-LABORATORIES-LIMIT-9059190",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "10/11/2025",
+        "dateTimeISO": "2025-11-09T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48239063.ics"
+      }
+    },
+    {
+      "companyCode": "FSN-E-COMMERCE-VENTURES-L-129226164",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "10/11/2025",
+        "dateTimeISO": "2025-11-09T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48269523.ics"
+      }
+    },
+    {
+      "companyCode": "IPCA-LABORATORIES-LIMITED-9059018",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "10/11/2025",
+        "dateTimeISO": "2025-11-09T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48285494.ics"
+      }
+    },
+    {
+      "companyCode": "BIOCON-LIMITED-9059261",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47998704.ics"
+      }
+    },
+    {
+      "companyCode": "BOSCH-LIMITED-6493403",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47941938.ics"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-PETROLEUM-CORPO-9058827",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48029577.ics"
+      }
+    },
+    {
+      "companyCode": "MAX-FINANCIAL-SERVICES-LI-9058905",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-44949274.ics"
+      }
+    },
+    {
+      "companyCode": "POWER-GRID-CORPORATION-OF-9059859",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48285771.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-POWER-COMPANY-LIMITE-9062790",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48125290.ics"
+      }
+    },
+    {
+      "companyCode": "THERMAX-LIMITED-9058890",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48161804.ics"
+      }
+    },
+    {
+      "companyCode": "VARUN-BEVERAGES-LIMITED-34067670",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "11/11/2025",
+        "dateTimeISO": "2025-11-10T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-Projected-48094164.ics"
+      }
+    },
+    {
+      "companyCode": "ASIAN-PAINTS-LIMITED-13891348",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/11/2025",
+        "dateTimeISO": "2025-11-11T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48113776.ics"
+      }
+    },
+    {
+      "companyCode": "AUROBINDO-PHARMA-9059028",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/11/2025",
+        "dateTimeISO": "2025-11-11T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47633223.ics"
+      }
+    },
+    {
+      "companyCode": "BHARAT-FORGE-LIMITED-6493080",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/11/2025",
+        "dateTimeISO": "2025-11-11T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48384431.ics"
+      }
+    },
+    {
+      "companyCode": "HOUSING-AND-URBAN-DEVELOP-35776292",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/11/2025",
+        "dateTimeISO": "2025-11-11T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48124890.ics"
+      }
+    },
+    {
+      "companyCode": "INDIAN-RAILWAY-CATERING-T-68642709",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/11/2025",
+        "dateTimeISO": "2025-11-11T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48257139.ics"
+      }
+    },
+    {
+      "companyCode": "BHARAT-DYNAMICS-LIMITED-42470806",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "13/11/2025",
+        "dateTimeISO": "2025-11-12T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47981462.ics"
+      }
+    },
+    {
+      "companyCode": "EICHER-MOTORS-LIMITED-6493334",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "13/11/2025",
+        "dateTimeISO": "2025-11-12T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48284652.ics"
+      }
+    },
+    {
+      "companyCode": "GENERAL-INSURANCE-CORPORA-46731378",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "13/11/2025",
+        "dateTimeISO": "2025-11-12T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47808183.ics"
+      }
+    },
+    {
+      "companyCode": "GRASIM-INDUSTRIES-LIMITED-33647063",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "13/11/2025",
+        "dateTimeISO": "2025-11-12T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48402120.ics"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-AERONAUTICS-LIM-47006646",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "13/11/2025",
+        "dateTimeISO": "2025-11-12T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47577754.ics"
+      }
+    },
+    {
+      "companyCode": "PAGE-INDUSTRIES-LIMITED-9059783",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "13/11/2025",
+        "dateTimeISO": "2025-11-12T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47375540.ics"
+      }
+    },
+    {
+      "companyCode": "BALKRISHNA-INDUSTRIES-LIM-9059338",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47253206.ics"
+      }
+    },
+    {
+      "companyCode": "CONTAINER-CORPORATION-OF--105516155",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48063542.ics"
+      }
+    },
+    {
+      "companyCode": "FORTIS-HEALTHCARE-LIMITED-9059727",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48269952.ics"
+      }
+    },
+    {
+      "companyCode": "INFO-EDGE-INDIA-LIMITED-9059674",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48230725.ics"
+      }
+    },
+    {
+      "companyCode": "JINDAL-STAINLESS-LIMITED-9059514",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48073923.ics"
+      }
+    },
+    {
+      "companyCode": "JINDAL-STEEL-POWER-LIMITE-9059230",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47696559.ics"
+      }
+    },
+    {
+      "companyCode": "L-T-TECHNOLOGY-SERVICES-L-31439537",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-47971016.ics"
+      }
+    },
+    {
+      "companyCode": "ONE97-COMMUNICATIONS-LIMI-129457853",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48712495.ics"
+      }
+    },
+    {
+      "companyCode": "SAMVARDHANA-MOTHERSON-INT-6496618",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48106006.ics"
+      }
+    },
+    {
+      "companyCode": "SOLAR-INDUSTRIES-INDIA-LI-29752167",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48303426.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-MOTORS-LIMITED-9058835",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-47563643.ics"
+      }
+    },
+    {
+      "companyCode": "UPL-LIMITED-9059343",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "14/11/2025",
+        "dateTimeISO": "2025-11-13T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-48269662.ics"
+      }
+    },
+    {
+      "companyCode": "LINDE-INDIA-LIMITED-9743167",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/11/2025",
+        "dateTimeISO": "2025-11-16T18:30:00.000Z",
+        "title": "Q3 2025 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-Projected-46860150.ics"
+      }
+    },
+    {
+      "companyCode": "OIL-AND-NATURAL-GAS-CORPO-9743117",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "17/11/2025",
+        "dateTimeISO": "2025-11-16T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48201050.ics"
+      }
+    },
+    {
+      "companyCode": "NMDC-LIMITED-9743333",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/11/2025",
+        "dateTimeISO": "2025-11-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48313939.ics"
+      }
+    },
+    {
+      "companyCode": "UNO-MINDA-LIMITED-46730285",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "18/11/2025",
+        "dateTimeISO": "2025-11-17T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48303064.ics"
+      }
+    },
+    {
+      "companyCode": "SIEMENS-LIMITED-9058964",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "02/12/2025",
+        "dateTimeISO": "2025-12-01T18:30:00.000Z",
+        "title": "Q4 2025 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Release-Projected-49029820.ics"
+      }
+    },
+    {
+      "companyCode": "SWIGGY-LIMITED-178213415",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "09/12/2025",
+        "dateTimeISO": "2025-12-08T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48921768.ics"
+      }
+    },
+    {
+      "companyCode": "HCL-TECHNOLOGIES-LIMITED-9058931",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "09/01/2026",
+        "dateTimeISO": "2026-01-08T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48614216.ics"
+      }
+    },
+    {
+      "companyCode": "AVENUE-SUPERMARTS-LIMITED-34491272",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "12/01/2026",
+        "dateTimeISO": "2026-01-11T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48683610.ics"
+      }
+    },
+    {
+      "companyCode": "TATA-CONSULTANCY-SERVICES-9743454",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "15/01/2026",
+        "dateTimeISO": "2026-01-14T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-48678596.ics"
+      }
+    },
+    {
+      "companyCode": "OIL-INDIA-LIMITED-9059932",
+      "event": {
+        "section": "Upcoming",
+        "dateTimeRaw": "06/02/2026",
+        "dateTimeISO": "2026-02-05T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48946120.ics"
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "companyCode": "GLENMARK-PHARMACEUTICALS--9058934",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "03/10/2025",
+        "dateISO": "2025-10-02T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 2.5,
+        "currency": "INR",
+        "title": "Interim Payment 2.5 INR"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-HOLDINGS-INVESTMENT-6491903",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/09/2025",
+        "dateISO": "2025-09-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 65,
+        "currency": "INR",
+        "title": "Interim Payment 65 INR"
+      }
+    },
+    {
+      "companyCode": "GUJARAT-FLUOROCHEMICALS-L-119082031",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/09/2025",
+        "dateISO": "2025-09-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Annual 3 INR"
+      }
+    },
+    {
+      "companyCode": "BHARAT-DYNAMICS-LIMITED-42470806",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/09/2025",
+        "dateISO": "2025-09-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.65,
+        "currency": "INR",
+        "title": "Final Payment 0.65 INR"
+      }
+    },
+    {
+      "companyCode": "NATIONAL-ALUMINIUM-COMPAN-9058953",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/09/2025",
+        "dateISO": "2025-09-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 2.5,
+        "currency": "INR",
+        "title": "Final Payment 2.5 INR"
+      }
+    },
+    {
+      "companyCode": "SJVN-LIMITED-8435226",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/09/2025",
+        "dateISO": "2025-09-17T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.31,
+        "currency": "INR",
+        "title": "Final Payment 0.31 INR"
+      }
+    },
+    {
+      "companyCode": "DIXON-TECHNOLOGIES-INDIA--111615221",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "16/09/2025",
+        "dateISO": "2025-09-15T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Annual 8 INR"
+      }
+    },
+    {
+      "companyCode": "THE-PHOENIX-MILLS-LIMITED-6498526",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "15/09/2025",
+        "dateISO": "2025-09-14T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.5,
+        "currency": "INR",
+        "title": "Annual 2.5 INR"
+      }
+    },
+    {
+      "companyCode": "HOUSING-AND-URBAN-DEVELOP-35776292",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/09/2025",
+        "dateISO": "2025-09-07T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.05,
+        "currency": "INR",
+        "title": "Final Payment 1.05 INR"
+      }
+    },
+    {
+      "companyCode": "STEEL-AUTHORITY-OF-INDIA--9058997",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/09/2025",
+        "dateISO": "2025-09-07T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.6,
+        "currency": "INR",
+        "title": "Final Payment 1.6 INR"
+      }
+    },
+    {
+      "companyCode": "GENERAL-INSURANCE-CORPORA-46731378",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/09/2025",
+        "dateISO": "2025-09-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      }
+    },
+    {
+      "companyCode": "KALYAN-JEWELLERS-INDIA-LI-120718174",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/09/2025",
+        "dateISO": "2025-09-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Annual 1.5 INR"
+      }
+    },
+    {
+      "companyCode": "NTPC-LTD-9743456",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/09/2025",
+        "dateISO": "2025-09-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 3.35,
+        "currency": "INR",
+        "title": "Final Payment 3.35 INR"
+      }
+    },
+    {
+      "companyCode": "OIL-AND-NATURAL-GAS-CORPO-9743117",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/09/2025",
+        "dateISO": "2025-09-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.25,
+        "currency": "INR",
+        "title": "Final Payment 1.25 INR"
+      }
+    },
+    {
+      "companyCode": "OIL-INDIA-LIMITED-9059932",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/09/2025",
+        "dateISO": "2025-09-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Final Payment 1.5 INR"
+      }
+    },
+    {
+      "companyCode": "PATANJALI-FOODS-LIMITED-6498538",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "03/09/2025",
+        "dateISO": "2025-09-02T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Final Payment 2 INR"
+      }
+    },
+    {
+      "companyCode": "PRESTIGE-ESTATES-PROJECTS-8017310",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "03/09/2025",
+        "dateISO": "2025-09-02T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.8,
+        "currency": "INR",
+        "title": "Annual 1.8 INR"
+      }
+    },
+    {
+      "companyCode": "PROCTER-GAMBLE-HYGIENE-AN-6492496",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/08/2025",
+        "dateISO": "2025-08-27T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 65,
+        "currency": "INR",
+        "title": "Final Payment 65 INR"
+      }
+    },
+    {
+      "companyCode": "VEDANTA-LIMITED-37569657",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "26/08/2025",
+        "dateISO": "2025-08-25T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 16,
+        "currency": "INR",
+        "title": "Interim Payment 16 INR"
+      }
+    },
+    {
+      "companyCode": "APL-APOLLO-TUBES-LIMITED-46730605",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2025",
+        "dateISO": "2025-08-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5.75,
+        "currency": "INR",
+        "title": "Annual 5.75 INR"
+      }
+    },
+    {
+      "companyCode": "INDIAN-RAILWAY-CATERING-T-68642709",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2025",
+        "dateISO": "2025-08-21T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Final Payment 1 INR"
+      }
+    },
+    {
+      "companyCode": "JINDAL-STAINLESS-LIMITED-9059514",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2025",
+        "dateISO": "2025-08-21T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Final Payment 2 INR"
+      }
+    },
+    {
+      "companyCode": "JINDAL-STEEL-POWER-LIMITE-9059230",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2025",
+        "dateISO": "2025-08-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Annual 2 INR"
+      }
+    },
+    {
+      "companyCode": "LODHA-DEVELOPERS-LIMITED-121553374",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2025",
+        "dateISO": "2025-08-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.25,
+        "currency": "INR",
+        "title": "Annual 4.25 INR"
+      }
+    },
+    {
+      "companyCode": "THE-FEDERAL-BANK-LIMITED-14609339",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/08/2025",
+        "dateISO": "2025-08-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.2,
+        "currency": "INR",
+        "title": "Annual 1.2 INR"
+      }
+    },
+    {
+      "companyCode": "COAL-INDIA-LIMITED-9060008",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "21/08/2025",
+        "dateISO": "2025-08-20T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 5.15,
+        "currency": "INR",
+        "title": "Final Payment 5.15 INR"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-AERONAUTICS-LIM-47006646",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "21/08/2025",
+        "dateISO": "2025-08-20T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 15,
+        "currency": "INR",
+        "title": "Final Payment 15 INR"
+      }
+    },
+    {
+      "companyCode": "APOLLO-HOSPITALS-ENTERPRI-9058923",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/08/2025",
+        "dateISO": "2025-08-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Final Payment 10 INR"
+      }
+    },
+    {
+      "companyCode": "POWER-GRID-CORPORATION-OF-9059859",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/08/2025",
+        "dateISO": "2025-08-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.25,
+        "currency": "INR",
+        "title": "Final Payment 1.25 INR"
+      }
+    },
+    {
+      "companyCode": "POWER-FINANCE-CORPORATION-9059675",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/08/2025",
+        "dateISO": "2025-08-17T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 3.7,
+        "currency": "INR",
+        "title": "Interim Payment 3.7 INR"
+      }
+    },
+    {
+      "companyCode": "ASTRAL-LIMITED-18088171",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 2.25,
+        "currency": "INR",
+        "title": "Final Payment 2.25 INR"
+      }
+    },
+    {
+      "companyCode": "BHARAT-ELECTRONICS-LIMITE-46728583",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.9,
+        "currency": "INR",
+        "title": "Final Payment 0.9 INR"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-PETROLEUM-CORPO-9058827",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10.5,
+        "currency": "INR",
+        "title": "Annual 10.5 INR"
+      }
+    },
+    {
+      "companyCode": "NHPC-LIMITED-9743748",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.51,
+        "currency": "INR",
+        "title": "Final Payment 0.51 INR"
+      }
+    },
+    {
+      "companyCode": "NMDC-LIMITED-9743333",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Final Payment 1 INR"
+      }
+    },
+    {
+      "companyCode": "REC-LIMITED-9059899",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 2.6,
+        "currency": "INR",
+        "title": "Final Payment 2.6 INR"
+      }
+    },
+    {
+      "companyCode": "RELIANCE-INDUSTRIES-LTD-9058833",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/08/2025",
+        "dateISO": "2025-08-13T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5.5,
+        "currency": "INR",
+        "title": "Annual 5.5 INR"
+      }
+    },
+    {
+      "companyCode": "CONTAINER-CORPORATION-OF--105516155",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/08/2025",
+        "dateISO": "2025-08-12T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 1.6,
+        "currency": "INR",
+        "title": "Interim Payment 1.6 INR"
+      }
+    },
+    {
+      "companyCode": "GODREJ-CONSUMER-PRODUCTS--9059191",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/08/2025",
+        "dateISO": "2025-08-12T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "HITACHI-ENERGY-INDIA-LIMI-105516418",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/08/2025",
+        "dateISO": "2025-08-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      }
+    },
+    {
+      "companyCode": "INTERGLOBE-AVIATION-LIMIT-25531239",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/08/2025",
+        "dateISO": "2025-08-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      }
+    },
+    {
+      "companyCode": "PAGE-INDUSTRIES-LIMITED-9059783",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/08/2025",
+        "dateISO": "2025-08-12T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 150,
+        "currency": "INR",
+        "title": "Interim Payment 150 INR"
+      }
+    },
+    {
+      "companyCode": "PIDILITE-INDUSTRIES-LIMIT-9058912",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/08/2025",
+        "dateISO": "2025-08-12T18:30:00.000Z",
+        "type": "Bonus Payment",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Bonus Payment 10 INR"
+      }
+    },
+    {
+      "companyCode": "GRASIM-INDUSTRIES-LIMITED-33647063",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "12/08/2025",
+        "dateISO": "2025-08-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      }
+    },
+    {
+      "companyCode": "ICICI-BANK-LIMITED-23672738",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "12/08/2025",
+        "dateISO": "2025-08-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 11,
+        "currency": "INR",
+        "title": "Annual 11 INR"
+      }
+    },
+    {
+      "companyCode": "JIO-FINANCIAL-SERVICES-LI-157409091",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "11/08/2025",
+        "dateISO": "2025-08-10T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.5,
+        "currency": "INR",
+        "title": "Annual 0.5 INR"
+      }
+    },
+    {
+      "companyCode": "ALKEM-LABORATORIES-LIMITE-25531345",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/08/2025",
+        "dateISO": "2025-08-07T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Final Payment 8 INR"
+      }
+    },
+    {
+      "companyCode": "AUROBINDO-PHARMA-9059028",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/08/2025",
+        "dateISO": "2025-08-07T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Interim Payment 4 INR"
+      }
+    },
+    {
+      "companyCode": "HINDALCO-INDUSTRIES-LIMIT-6493281",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/08/2025",
+        "dateISO": "2025-08-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Annual 5 INR"
+      }
+    },
+    {
+      "companyCode": "INDIAN-OIL-CORPORATION-LI-9743425",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/08/2025",
+        "dateISO": "2025-08-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Annual 3 INR"
+      }
+    },
+    {
+      "companyCode": "MANKIND-PHARMA-LIMITED-154280476",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/08/2025",
+        "dateISO": "2025-08-07T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Interim Payment 1 INR"
+      }
+    },
+    {
+      "companyCode": "LINDE-INDIA-LIMITED-9743167",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "07/08/2025",
+        "dateISO": "2025-08-06T18:30:00.000Z",
+        "type": "Bonus Payment",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Bonus Payment 7.5 INR"
+      }
+    },
+    {
+      "companyCode": "PI-INDUSTRIES-LIMITED-12996038",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "07/08/2025",
+        "dateISO": "2025-08-06T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Final Payment 10 INR"
+      }
+    },
+    {
+      "companyCode": "BERGER-PAINTS-INDIA-LIMIT-46728958",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "05/08/2025",
+        "dateISO": "2025-08-04T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3.8,
+        "currency": "INR",
+        "title": "Annual 3.8 INR"
+      }
+    },
+    {
+      "companyCode": "IPCA-LABORATORIES-LIMITED-9059018",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "05/08/2025",
+        "dateISO": "2025-08-04T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Final Payment 2 INR"
+      }
+    },
+    {
+      "companyCode": "BRITANNIA-INDUSTRIES-LTD-9058852",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/08/2025",
+        "dateISO": "2025-08-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 75,
+        "currency": "INR",
+        "title": "Annual 75 INR"
+      }
+    },
+    {
+      "companyCode": "GAIL-INDIA-LIMITED-9743098",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/08/2025",
+        "dateISO": "2025-08-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Final Payment 1 INR"
+      }
+    },
+    {
+      "companyCode": "EICHER-MOTORS-LIMITED-6493334",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "01/08/2025",
+        "dateISO": "2025-07-31T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 70,
+        "currency": "INR",
+        "title": "Annual 70 INR"
+      }
+    },
+    {
+      "companyCode": "MARICO-LIMITED-6493255",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "01/08/2025",
+        "dateISO": "2025-07-31T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Final Payment 7 INR"
+      }
+    },
+    {
+      "companyCode": "MARUTI-SUZUKI-INDIA-LTD-9059169",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "01/08/2025",
+        "dateISO": "2025-07-31T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 135,
+        "currency": "INR",
+        "title": "Annual 135 INR"
+      }
+    },
+    {
+      "companyCode": "UNITED-SPIRITS-LIMITED-45456076",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "01/08/2025",
+        "dateISO": "2025-07-31T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Final Payment 8 INR"
+      }
+    },
+    {
+      "companyCode": "VARUN-BEVERAGES-LIMITED-34067670",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "01/08/2025",
+        "dateISO": "2025-07-31T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 0.5,
+        "currency": "INR",
+        "title": "Interim Payment 0.5 INR"
+      }
+    },
+    {
+      "companyCode": "BALKRISHNA-INDUSTRIES-LIM-9059338",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "31/07/2025",
+        "dateISO": "2025-07-30T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Interim Payment 4 INR"
+      }
+    },
+    {
+      "companyCode": "BHARAT-PETROLEUM-CORPORAT-9743071",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "31/07/2025",
+        "dateISO": "2025-07-30T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Final Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "COFORGE-LIMITED-9059315",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "31/07/2025",
+        "dateISO": "2025-07-30T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Interim Payment 4 INR"
+      }
+    },
+    {
+      "companyCode": "UNITED-BREWERIES-LIMITED-6493101",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "31/07/2025",
+        "dateISO": "2025-07-30T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      }
+    },
+    {
+      "companyCode": "BOSCH-LIMITED-6493403",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "29/07/2025",
+        "dateISO": "2025-07-28T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 512,
+        "currency": "INR",
+        "title": "Final Payment 512 INR"
+      }
+    },
+    {
+      "companyCode": "SRF-LIMITED-6498495",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "29/07/2025",
+        "dateISO": "2025-07-28T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Interim Payment 4 INR"
+      }
+    },
+    {
+      "companyCode": "CRISIL-LIMITED-9063424",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/07/2025",
+        "dateISO": "2025-07-27T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 9,
+        "currency": "INR",
+        "title": "Interim Payment 9 INR"
+      }
+    },
+    {
+      "companyCode": "DLF-LIMITED-9743639",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/07/2025",
+        "dateISO": "2025-07-27T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      }
+    },
+    {
+      "companyCode": "KPIT-TECHNOLOGIES-LIMITED-105516357",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/07/2025",
+        "dateISO": "2025-07-27T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Final Payment 6 INR"
+      }
+    },
+    {
+      "companyCode": "WIPRO-LIMITED-6494362",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/07/2025",
+        "dateISO": "2025-07-27T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "ABBOTT-INDIA-LIMITED-8495776",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 475,
+        "currency": "INR",
+        "title": "Annual 475 INR"
+      }
+    },
+    {
+      "companyCode": "BHARTI-HEXACOM-LIMITED-168461592",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      }
+    },
+    {
+      "companyCode": "CENTRAL-BANK-OF-INDIA-9059895",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 0.2,
+        "currency": "INR",
+        "title": "Interim Payment 0.2 INR"
+      }
+    },
+    {
+      "companyCode": "DIVI-S-LABORATORIES-LIMIT-9059190",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 30,
+        "currency": "INR",
+        "title": "Annual 30 INR"
+      }
+    },
+    {
+      "companyCode": "FORTIS-HEALTHCARE-LIMITED-9059727",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      }
+    },
+    {
+      "companyCode": "HDFC-BANK-LIMITED-105516154",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Bonus Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Bonus Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "INFO-EDGE-INDIA-LIMITED-9059674",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 3.6,
+        "currency": "INR",
+        "title": "Final Payment 3.6 INR"
+      }
+    },
+    {
+      "companyCode": "LIFE-INSURANCE-CORPORATIO-137965464",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 12,
+        "currency": "INR",
+        "title": "Annual 12 INR"
+      }
+    },
+    {
+      "companyCode": "LUPIN-LIMITED-9059009",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 12,
+        "currency": "INR",
+        "title": "Annual 12 INR"
+      }
+    },
+    {
+      "companyCode": "OBEROI-REALTY-LIMITED-7939324",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Interim Payment 2 INR"
+      }
+    },
+    {
+      "companyCode": "TUBE-INVESTMENTS-OF-INDIA-105516309",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Final Payment 1.5 INR"
+      }
+    },
+    {
+      "companyCode": "ULTRATECH-CEMENT-LIMITED-9059270",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 77.5,
+        "currency": "INR",
+        "title": "Annual 77.5 INR"
+      }
+    },
+    {
+      "companyCode": "UNION-BANK-OF-INDIA-9058857",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.75,
+        "currency": "INR",
+        "title": "Annual 4.75 INR"
+      }
+    },
+    {
+      "companyCode": "ZYDUS-LIFESCIENCES-LIMITE-34067618",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/07/2025",
+        "dateISO": "2025-07-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 11,
+        "currency": "INR",
+        "title": "Annual 11 INR"
+      }
+    },
+    {
+      "companyCode": "CHOLAMANDALAM-INVESTMENT--6498532",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "24/07/2025",
+        "dateISO": "2025-07-23T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.7,
+        "currency": "INR",
+        "title": "Final Payment 0.7 INR"
+      }
+    },
+    {
+      "companyCode": "HERO-MOTOCORP-LTD-6491918",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "24/07/2025",
+        "dateISO": "2025-07-23T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 65,
+        "currency": "INR",
+        "title": "Final Payment 65 INR"
+      }
+    },
+    {
+      "companyCode": "SHREE-CEMENT-LIMITED-9059180",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "21/07/2025",
+        "dateISO": "2025-07-20T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 60,
+        "currency": "INR",
+        "title": "Final Payment 60 INR"
+      }
+    },
+    {
+      "companyCode": "BHARTI-AIRTEL-LIMITED-6494412",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 16,
+        "currency": "INR",
+        "title": "Annual 16 INR"
+      }
+    },
+    {
+      "companyCode": "BLUE-STAR-LIMITED-6494350",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 9,
+        "currency": "INR",
+        "title": "Annual 9 INR"
+      }
+    },
+    {
+      "companyCode": "CUMMINS-INDIA-LIMITED-6493116",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 33.5,
+        "currency": "INR",
+        "title": "Final Payment 33.5 INR"
+      }
+    },
+    {
+      "companyCode": "DABUR-INDIA-LIMITED-9058822",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 5.25,
+        "currency": "INR",
+        "title": "Final Payment 5.25 INR"
+      }
+    },
+    {
+      "companyCode": "HCL-TECHNOLOGIES-LIMITED-9058931",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 12,
+        "currency": "INR",
+        "title": "Interim Payment 12 INR"
+      }
+    },
+    {
+      "companyCode": "JUBILANT-FOODWORKS-LIMITE-9059999",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.2,
+        "currency": "INR",
+        "title": "Annual 1.2 INR"
+      }
+    },
+    {
+      "companyCode": "KOTAK-MAHINDRA-BANK-LIMIT-9059013",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.5,
+        "currency": "INR",
+        "title": "Annual 2.5 INR"
+      }
+    },
+    {
+      "companyCode": "MRF-LIMITED-9743372",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "18/07/2025",
+        "dateISO": "2025-07-17T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 229,
+        "currency": "INR",
+        "title": "Final Payment 229 INR"
+      }
+    },
+    {
+      "companyCode": "COROMANDEL-INTERNATIONAL--9059066",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "17/07/2025",
+        "dateISO": "2025-07-16T18:30:00.000Z",
+        "type": "Bonus Payment",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Bonus Payment 3 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-CONSULTANCY-SERVICES-9743454",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "16/07/2025",
+        "dateISO": "2025-07-15T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 11,
+        "currency": "INR",
+        "title": "Interim Payment 11 INR"
+      }
+    },
+    {
+      "companyCode": "IDBI-BANK-LIMITED-9743068",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "15/07/2025",
+        "dateISO": "2025-07-14T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.1,
+        "currency": "INR",
+        "title": "Annual 2.1 INR"
+      }
+    },
+    {
+      "companyCode": "PERSISTENT-SYSTEMS-LIMITE-9059922",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/07/2025",
+        "dateISO": "2025-07-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 15,
+        "currency": "INR",
+        "title": "Final Payment 15 INR"
+      }
+    },
+    {
+      "companyCode": "IDFC-FIRST-BANK-LIMITED-46731334",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "11/07/2025",
+        "dateISO": "2025-07-10T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.25,
+        "currency": "INR",
+        "title": "Annual 0.25 INR"
+      }
+    },
+    {
+      "companyCode": "SHRIRAM-FINANCE-LIMITED-6498530",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "11/07/2025",
+        "dateISO": "2025-07-10T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Final Payment 3 INR"
+      }
+    },
+    {
+      "companyCode": "UPL-LIMITED-9059343",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "11/07/2025",
+        "dateISO": "2025-07-10T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      }
+    },
+    {
+      "companyCode": "DR-REDDY-S-LABORATORIES-L-6492671",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "10/07/2025",
+        "dateISO": "2025-07-09T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Annual 8 INR"
+      }
+    },
+    {
+      "companyCode": "MPHASIS-LIMITED-6493907",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "09/07/2025",
+        "dateISO": "2025-07-08T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 57,
+        "currency": "INR",
+        "title": "Annual 57 INR"
+      }
+    },
+    {
+      "companyCode": "J-K-CEMENT-LIMITED-6498521",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2025",
+        "dateISO": "2025-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 15,
+        "currency": "INR",
+        "title": "Annual 15 INR"
+      }
+    },
+    {
+      "companyCode": "JSW-STEEL-LIMITED-46728626",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2025",
+        "dateISO": "2025-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.8,
+        "currency": "INR",
+        "title": "Annual 2.8 INR"
+      }
+    },
+    {
+      "companyCode": "SOLAR-INDUSTRIES-INDIA-LI-29752167",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2025",
+        "dateISO": "2025-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      }
+    },
+    {
+      "companyCode": "TITAN-COMPANY-LIMITED-9059025",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2025",
+        "dateISO": "2025-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 11,
+        "currency": "INR",
+        "title": "Annual 11 INR"
+      }
+    },
+    {
+      "companyCode": "SUN-PHARMACEUTICAL-INDUST-9058928",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "07/07/2025",
+        "dateISO": "2025-07-06T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 5.5,
+        "currency": "INR",
+        "title": "Final Payment 5.5 INR"
+      }
+    },
+    {
+      "companyCode": "AU-SMALL-FINANCE-BANK-LIM-36939117",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      }
+    },
+    {
+      "companyCode": "AXIS-BANK-LIMITED-46730206",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      }
+    },
+    {
+      "companyCode": "BHARAT-FORGE-LIMITED-6493080",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Final Payment 6 INR"
+      }
+    },
+    {
+      "companyCode": "BIOCON-LIMITED-9059261",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.5,
+        "currency": "INR",
+        "title": "Annual 0.5 INR"
+      }
+    },
+    {
+      "companyCode": "MAHINDRA-MAHINDRA-LIMITED-9058830",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 25.3,
+        "currency": "INR",
+        "title": "Annual 25.3 INR"
+      }
+    },
+    {
+      "companyCode": "MAX-HEALTHCARE-INSTITUTE--111315625",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Annual 1.5 INR"
+      }
+    },
+    {
+      "companyCode": "NESTLE-INDIA-LIMITED-6493165",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Final Payment 10 INR"
+      }
+    },
+    {
+      "companyCode": "PETRONET-LNG-LIMITED-9059291",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 3,
+        "currency": "INR",
+        "title": "Final Payment 3 INR"
+      }
+    },
+    {
+      "companyCode": "TECH-MAHINDRA-LIMITED-33647041",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 30,
+        "currency": "INR",
+        "title": "Final Payment 30 INR"
+      }
+    },
+    {
+      "companyCode": "THERMAX-LIMITED-9058890",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2025",
+        "dateISO": "2025-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 14,
+        "currency": "INR",
+        "title": "Annual 14 INR"
+      }
+    },
+    {
+      "companyCode": "THE-INDIAN-HOTELS-COMPANY-6493261",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "30/06/2025",
+        "dateISO": "2025-06-29T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.25,
+        "currency": "INR",
+        "title": "Annual 2.25 INR"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-FINSERV-LTD-9059974",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "27/06/2025",
+        "dateISO": "2025-06-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      }
+    },
+    {
+      "companyCode": "CIPLA-LIMITED-9058821",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "27/06/2025",
+        "dateISO": "2025-06-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 13,
+        "currency": "INR",
+        "title": "Annual 13 INR"
+      }
+    },
+    {
+      "companyCode": "POLYCAB-INDIA-LIMITED-58674735",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "24/06/2025",
+        "dateISO": "2025-06-23T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 35,
+        "currency": "INR",
+        "title": "Annual 35 INR"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-UNILEVER-LIMITE-9058826",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "23/06/2025",
+        "dateISO": "2025-06-22T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 24,
+        "currency": "INR",
+        "title": "Final Payment 24 INR"
+      }
+    },
+    {
+      "companyCode": "SAMVARDHANA-MOTHERSON-INT-6496618",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "23/06/2025",
+        "dateISO": "2025-06-22T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.35,
+        "currency": "INR",
+        "title": "Final Payment 0.35 INR"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-AUTO-LIMITED-9059975",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 210,
+        "currency": "INR",
+        "title": "Annual 210 INR"
+      }
+    },
+    {
+      "companyCode": "BANK-OF-INDIA-LIMITED-9743081",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4.05,
+        "currency": "INR",
+        "title": "Annual 4.05 INR"
+      }
+    },
+    {
+      "companyCode": "HDFC-LIFE-INSURANCE-COMPA-46731381",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.1,
+        "currency": "INR",
+        "title": "Annual 2.1 INR"
+      }
+    },
+    {
+      "companyCode": "PUNJAB-NATIONAL-BANK-19165555",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.9,
+        "currency": "INR",
+        "title": "Annual 2.9 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-POWER-COMPANY-LIMITE-9062790",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2.25,
+        "currency": "INR",
+        "title": "Annual 2.25 INR"
+      }
+    },
+    {
+      "companyCode": "THE-SUPREME-INDUSTRIES-LI-9059584",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 24,
+        "currency": "INR",
+        "title": "Final Payment 24 INR"
+      }
+    },
+    {
+      "companyCode": "TORRENT-PHARMACEUTICALS-L-6493365",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Final Payment 6 INR"
+      }
+    },
+    {
+      "companyCode": "VOLTAS-LIMITED-9058902",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "20/06/2025",
+        "dateISO": "2025-06-19T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-COMMUNICATIONS-LIMIT-9058863",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/06/2025",
+        "dateISO": "2025-06-18T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Annual 25 INR"
+      }
+    },
+    {
+      "companyCode": "HINDUSTAN-ZINC-LIMITED-9058942",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "17/06/2025",
+        "dateISO": "2025-06-16T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Interim Payment 10 INR"
+      }
+    },
+    {
+      "companyCode": "ACC-LTD-9058814",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/06/2025",
+        "dateISO": "2025-06-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Annual 7.5 INR"
+      }
+    },
+    {
+      "companyCode": "ADANI-ENTERPRISES-LIMITED-6498499",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/06/2025",
+        "dateISO": "2025-06-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.3,
+        "currency": "INR",
+        "title": "Annual 1.3 INR"
+      }
+    },
+    {
+      "companyCode": "ADANI-PORTS-SPECIAL-ECONO-9059803",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/06/2025",
+        "dateISO": "2025-06-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Annual 7 INR"
+      }
+    },
+    {
+      "companyCode": "ADANI-TOTAL-GAS-LIMITED-111614976",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/06/2025",
+        "dateISO": "2025-06-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.25,
+        "currency": "INR",
+        "title": "Annual 0.25 INR"
+      }
+    },
+    {
+      "companyCode": "AMBUJA-CEMENTS-6491917",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/06/2025",
+        "dateISO": "2025-06-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Annual 2 INR"
+      }
+    },
+    {
+      "companyCode": "CANARA-BANK-9059113",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/06/2025",
+        "dateISO": "2025-06-12T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Annual 4 INR"
+      }
+    },
+    {
+      "companyCode": "ICICI-PRUDENTIAL-LIFE-INS-32000303",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "12/06/2025",
+        "dateISO": "2025-06-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.85,
+        "currency": "INR",
+        "title": "Annual 0.85 INR"
+      }
+    },
+    {
+      "companyCode": "TRENT-LIMITED-46728633",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "12/06/2025",
+        "dateISO": "2025-06-11T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Annual 5 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-ELXSI-LIMITED-6493061",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "11/06/2025",
+        "dateISO": "2025-06-10T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 75,
+        "currency": "INR",
+        "title": "Annual 75 INR"
+      }
+    },
+    {
+      "companyCode": "ASIAN-PAINTS-LIMITED-13891348",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "10/06/2025",
+        "dateISO": "2025-06-09T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 20.55,
+        "currency": "INR",
+        "title": "Final Payment 20.55 INR"
+      }
+    },
+    {
+      "companyCode": "INDIAN-BANK-9059774",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "10/06/2025",
+        "dateISO": "2025-06-09T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 16.25,
+        "currency": "INR",
+        "title": "Annual 16.25 INR"
+      }
+    },
+    {
+      "companyCode": "BANK-OF-BARODA-23320361",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "06/06/2025",
+        "dateISO": "2025-06-05T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8.35,
+        "currency": "INR",
+        "title": "Annual 8.35 INR"
+      }
+    },
+    {
+      "companyCode": "ICICI-LOMBARD-GENERAL-INS-46731374",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "06/06/2025",
+        "dateISO": "2025-06-05T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 7,
+        "currency": "INR",
+        "title": "Final Payment 7 INR"
+      }
+    },
+    {
+      "companyCode": "JSW-ENERGY-LIMITED-6500125",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "06/06/2025",
+        "dateISO": "2025-06-05T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Annual 2 INR"
+      }
+    },
+    {
+      "companyCode": "L-T-TECHNOLOGY-SERVICES-L-31439537",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "06/06/2025",
+        "dateISO": "2025-06-05T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 38,
+        "currency": "INR",
+        "title": "Final Payment 38 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-STEEL-LIMITED-6491942",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "06/06/2025",
+        "dateISO": "2025-06-05T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 3.6,
+        "currency": "INR",
+        "title": "Annual 3.6 INR"
+      }
+    },
+    {
+      "companyCode": "TORRENT-POWER-LIMITED-9059747",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "06/06/2025",
+        "dateISO": "2025-06-05T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Final Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-MOTORS-LIMITED-9058835",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "04/06/2025",
+        "dateISO": "2025-06-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Annual 6 INR"
+      }
+    },
+    {
+      "companyCode": "LARSEN-TOUBRO-LIMITED-6491923",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "03/06/2025",
+        "dateISO": "2025-06-02T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 34,
+        "currency": "INR",
+        "title": "Annual 34 INR"
+      }
+    },
+    {
+      "companyCode": "BAJAJ-FINANCE-LIMITED-33647061",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "30/05/2025",
+        "dateISO": "2025-05-29T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 44,
+        "currency": "INR",
+        "title": "Annual 44 INR"
+      }
+    },
+    {
+      "companyCode": "INFOSYS-LIMITED-9743342",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "30/05/2025",
+        "dateISO": "2025-05-29T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 22,
+        "currency": "INR",
+        "title": "Final Payment 22 INR"
+      }
+    },
+    {
+      "companyCode": "UNO-MINDA-LIMITED-46730285",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "30/05/2025",
+        "dateISO": "2025-05-29T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Final Payment 1.5 INR"
+      }
+    },
+    {
+      "companyCode": "TATA-CONSUMER-PRODUCTS-LI-9058838",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "29/05/2025",
+        "dateISO": "2025-05-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8.25,
+        "currency": "INR",
+        "title": "Annual 8.25 INR"
+      }
+    },
+    {
+      "companyCode": "COLGATE-PALMOLIVE-INDIA-L-6492485",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/05/2025",
+        "dateISO": "2025-05-27T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 27,
+        "currency": "INR",
+        "title": "Interim Payment 27 INR"
+      }
+    },
+    {
+      "companyCode": "ITC-LIMITED-9743470",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/05/2025",
+        "dateISO": "2025-05-27T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 7.85,
+        "currency": "INR",
+        "title": "Final Payment 7.85 INR"
+      }
+    },
+    {
+      "companyCode": "HAVELLS-INDIA-LIMITED-17567316",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "23/05/2025",
+        "dateISO": "2025-05-22T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Final Payment 6 INR"
+      }
+    },
+    {
+      "companyCode": "LTIMINDTREE-LIMITED-31496899",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "23/05/2025",
+        "dateISO": "2025-05-22T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 45,
+        "currency": "INR",
+        "title": "Final Payment 45 INR"
+      }
+    },
+    {
+      "companyCode": "ASHOK-LEYLAND-LIMITED-9058885",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/05/2025",
+        "dateISO": "2025-05-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4.25,
+        "currency": "INR",
+        "title": "Interim Payment 4.25 INR"
+      }
+    },
+    {
+      "companyCode": "STATE-BANK-OF-INDIA-18603402",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "16/05/2025",
+        "dateISO": "2025-05-15T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 15.9,
+        "currency": "INR",
+        "title": "Annual 15.9 INR"
+      }
+    },
+    {
+      "companyCode": "BSE-LIMITED-33930062",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "14/05/2025",
+        "dateISO": "2025-05-13T18:30:00.000Z",
+        "type": "Bonus Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Bonus Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "BANK-OF-MAHARASHTRA-9059511",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "09/05/2025",
+        "dateISO": "2025-05-08T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1.5,
+        "currency": "INR",
+        "title": "Annual 1.5 INR"
+      }
+    },
+    {
+      "companyCode": "360-ONE-WAM-LIMITED-105516388",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "29/04/2025",
+        "dateISO": "2025-04-28T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 6,
+        "currency": "INR",
+        "title": "Interim Payment 6 INR"
+      }
+    },
+    {
+      "companyCode": "MUTHOOT-FINANCE-LIMITED-9743895",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/04/2025",
+        "dateISO": "2025-04-24T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 26,
+        "currency": "INR",
+        "title": "Interim Payment 26 INR"
+      }
+    },
+    {
+      "companyCode": "SCHAEFFLER-INDIA-LIMITED-6493485",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "23/04/2025",
+        "dateISO": "2025-04-22T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 28,
+        "currency": "INR",
+        "title": "Annual 28 INR"
+      }
+    },
+    {
+      "companyCode": "ABB-LTD-8943400",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "31/03/2025",
+        "dateISO": "2025-03-30T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.9,
+        "currency": "CHF",
+        "title": "Annual 0.9 CHF"
+      }
+    },
+    {
+      "companyCode": "TVS-MOTOR-COMPANY-LIMITED-6495911",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "26/03/2025",
+        "dateISO": "2025-03-25T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Interim Payment 10 INR"
+      }
+    },
+    {
+      "companyCode": "CG-POWER-AND-INDUSTRIAL-S-9058926",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "21/03/2025",
+        "dateISO": "2025-03-20T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 1.3,
+        "currency": "INR",
+        "title": "Interim Payment 1.3 INR"
+      }
+    },
+    {
+      "companyCode": "INDN-RAIL-119082036",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "21/03/2025",
+        "dateISO": "2025-03-20T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 0.8,
+        "currency": "INR",
+        "title": "Interim Payment 0.8 INR"
+      }
+    },
+    {
+      "companyCode": "SBI-LIFE-INSURANCE-COMPAN-46731375",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "07/03/2025",
+        "dateISO": "2025-03-06T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 2.7,
+        "currency": "INR",
+        "title": "Interim Payment 2.7 INR"
+      }
+    },
+    {
+      "companyCode": "SBI-CARDS-AND-PAYMENT-SER-104922920",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "25/02/2025",
+        "dateISO": "2025-02-24T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 2.5,
+        "currency": "INR",
+        "title": "Interim Payment 2.5 INR"
+      }
+    },
+    {
+      "companyCode": "MOTILAL-OSWAL-FINANCIAL-S-9059898",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "31/01/2025",
+        "dateISO": "2025-01-30T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 5,
+        "currency": "INR",
+        "title": "Interim Payment 5 INR"
+      }
+    },
+    {
+      "companyCode": "SIEMENS-LIMITED-9058964",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "30/01/2025",
+        "dateISO": "2025-01-29T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 12,
+        "currency": "INR",
+        "title": "Annual 12 INR"
+      }
+    },
+    {
+      "companyCode": "KEI-INDUSTRIES-LIMITED-6498805",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "27/01/2025",
+        "dateISO": "2025-01-26T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 4,
+        "currency": "INR",
+        "title": "Interim Payment 4 INR"
+      }
+    },
+    {
+      "companyCode": "INDUSLND-BANK-LIMITED-9059225",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "28/06/2024",
+        "dateISO": "2024-06-27T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 16.5,
+        "currency": "INR",
+        "title": "Annual 16.5 INR"
+      }
+    },
+    {
+      "companyCode": "INDUS-TOWERS-LIMITED-13122683",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "13/05/2022",
+        "dateISO": "2022-05-12T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 11,
+        "currency": "INR",
+        "title": "Interim Payment 11 INR"
+      }
+    },
+    {
+      "companyCode": "YES-BANK-LIMITED-9059346",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "03/06/2019",
+        "dateISO": "2019-06-02T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Annual 2 INR"
+      }
+    },
+    {
+      "companyCode": "VODAFONE-IDEA-LIMITED-9743588",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "22/09/2016",
+        "dateISO": "2016-09-21T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 0.6,
+        "currency": "INR",
+        "title": "Annual 0.6 INR"
+      }
+    },
+    {
+      "companyCode": "MAX-FINANCIAL-SERVICES-LI-9058905",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/09/2016",
+        "dateISO": "2016-09-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 1.8,
+        "currency": "INR",
+        "title": "Final Payment 1.8 INR"
+      }
+    },
+    {
+      "companyCode": "GODREJ-PROPERTIES-LIMITED-14976317",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "27/07/2015",
+        "dateISO": "2015-07-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 2,
+        "currency": "INR",
+        "title": "Annual 2 INR"
+      }
+    },
+    {
+      "companyCode": "INDIAN-OVERSEAS-BANK-9059279",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "19/06/2014",
+        "dateISO": "2014-06-18T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 0.5,
+        "currency": "INR",
+        "title": "Final Payment 0.5 INR"
+      }
+    },
+    {
+      "companyCode": "SUZLON-ENERGY-LIMITED-9059353",
+      "pastDividend": {
+        "section": "Past Dividends",
+        "dateRaw": "17/07/2008",
+        "dateISO": "2008-07-16T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 1,
+        "currency": "INR",
+        "title": "Annual 1 INR"
+      }
+    }
+  ]
+}

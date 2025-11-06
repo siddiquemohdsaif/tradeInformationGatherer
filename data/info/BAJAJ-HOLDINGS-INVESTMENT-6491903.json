@@ -1,0 +1,645 @@
+{
+  "companyCode": "BAJAJ-HOLDINGS-INVESTMENT-6491903",
+  "timestamp": "2025-10-13T12:12:49.537Z",
+  "annualResults": {},
+  "quarterlyResults": {},
+  "upcomingEvents": {
+    "count": 4,
+    "events": [
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/10/2025",
+        "dateTimeISO": "2025-10-22T18:30:00.000Z",
+        "title": "Q2 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2026-Earnings-Release-Projected-48148520.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/01/2026",
+        "dateTimeISO": "2026-01-28T18:30:00.000Z",
+        "title": "Q3 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2026-Earnings-Release-Projected-48693015.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "23/04/2026",
+        "dateTimeISO": "2026-04-22T18:30:00.000Z",
+        "title": "Q4 2026 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2026-Earnings-Release-Projected-50137202.ics"
+      },
+      {
+        "section": "Upcoming",
+        "dateTimeRaw": "29/07/2026",
+        "dateTimeISO": "2026-07-28T18:30:00.000Z",
+        "title": "Q1 2027 Earnings Release (Projected)",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2027-Earnings-Release-Projected-50384953.ics"
+      }
+    ]
+  },
+  "pastEvents": {
+    "count": 44,
+    "events": [
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/09/2025",
+        "dateTimeISO": "2025-09-21T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-51205402.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/08/2025 04:01 pm",
+        "dateTimeISO": "2025-08-06T10:31:00.000Z",
+        "title": "Q1 2026 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2026-Earnings-Release-48148513.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "06/08/2025 04:00 pm",
+        "dateTimeISO": "2025-08-06T10:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-50137197.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/06/2025",
+        "dateTimeISO": "2025-06-26T18:30:00.000Z",
+        "title": "Final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Final-dividend-50185370.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/05/2025 01:23 pm",
+        "dateTimeISO": "2025-05-30T07:53:00.000Z",
+        "title": "Q4 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2025-Earnings-Release-50137175.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2025 04:56 pm",
+        "dateTimeISO": "2025-01-30T11:26:00.000Z",
+        "title": "Q3 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2025-Earnings-Release-45656250.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/10/2024 03:54 pm",
+        "dateTimeISO": "2024-10-23T10:24:00.000Z",
+        "title": "Q2 2025 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2025-Earnings-Release-44957965.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "25/09/2024",
+        "dateTimeISO": "2024-09-24T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-47912558.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/07/2024 04:28 pm",
+        "dateTimeISO": "2024-07-24T10:58:00.000Z",
+        "title": "Q4 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Release-46554433.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "24/07/2024 04:15 pm",
+        "dateTimeISO": "2024-07-24T10:45:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-47253124.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/06/2024",
+        "dateTimeISO": "2024-06-27T18:30:00.000Z",
+        "title": "Final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Final-dividend-46629931.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/04/2024 05:36 pm",
+        "dateTimeISO": "2024-04-26T12:06:00.000Z",
+        "title": "Q4 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2024-Earnings-Release-43692890.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2024",
+        "dateTimeISO": "2024-01-29T18:30:00.000Z",
+        "title": "Q3 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2024-Earnings-Release-42899742.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/10/2023 03:59 pm",
+        "dateTimeISO": "2023-10-27T10:29:00.000Z",
+        "title": "Q2 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q2-2024-Earnings-Release-42145461.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/09/2023",
+        "dateTimeISO": "2023-09-27T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-45013901.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/07/2023 04:15 pm",
+        "dateTimeISO": "2023-07-27T10:45:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-41144780.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/07/2023 04:12 pm",
+        "dateTimeISO": "2023-07-27T10:42:00.000Z",
+        "title": "Q1 2024 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2024-Earnings-Release-43692804.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/06/2023",
+        "dateTimeISO": "2023-06-29T18:30:00.000Z",
+        "title": "Final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Final-dividend-43766341.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "27/04/2023 05:34 pm",
+        "dateTimeISO": "2023-04-27T12:04:00.000Z",
+        "title": "Q4 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q4-2023-Earnings-Release-40012186.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2023 04:02 pm",
+        "dateTimeISO": "2023-01-30T10:32:00.000Z",
+        "title": "Q3 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2023-Earnings-Release-37497475.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/10/2022 04:37 pm",
+        "dateTimeISO": "2022-10-21T11:07:00.000Z",
+        "title": "Interim 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2023-Earnings-Release-36582326.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/09/2022",
+        "dateTimeISO": "2022-09-21T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-41801799.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/07/2022 04:02 pm",
+        "dateTimeISO": "2022-07-28T10:32:00.000Z",
+        "title": "Q1 2023 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2023-Earnings-Release-35964605.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/07/2022 04:00 pm",
+        "dateTimeISO": "2022-07-28T10:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-40232294.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/06/2022",
+        "dateTimeISO": "2022-06-29T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-40238462.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/04/2022 06:07 pm",
+        "dateTimeISO": "2022-04-28T12:37:00.000Z",
+        "title": "FY 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2022-Earnings-Release-32875902.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "20/01/2022 04:31 pm",
+        "dateTimeISO": "2022-01-20T11:01:00.000Z",
+        "title": "Q3 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2022-Earnings-Release-32087237.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/10/2021 03:28 pm",
+        "dateTimeISO": "2021-10-28T09:58:00.000Z",
+        "title": "Interim 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2022-Earnings-Release-31470268.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "28/09/2021",
+        "dateTimeISO": "2021-09-27T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-36458546.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2021 04:15 pm",
+        "dateTimeISO": "2021-07-22T10:45:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-36518390.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2021",
+        "dateTimeISO": "2021-07-21T18:30:00.000Z",
+        "title": "Q1 2022 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2022-Earnings-Release-30872416.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "08/07/2021",
+        "dateTimeISO": "2021-07-07T18:30:00.000Z",
+        "title": "Ex-dividend day for final dividend",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-final-dividend-33127562.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "29/04/2021",
+        "dateTimeISO": "2021-04-28T18:30:00.000Z",
+        "title": "FY 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2021-Earnings-Release-30620845.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/01/2021",
+        "dateTimeISO": "2021-01-20T18:30:00.000Z",
+        "title": "Q3 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2021-Earnings-Release-29794045.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/10/2020",
+        "dateTimeISO": "2020-10-21T18:30:00.000Z",
+        "title": "Interim 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2021-Earnings-Release-29404402.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2020 04:00 pm",
+        "dateTimeISO": "2020-07-22T10:30:00.000Z",
+        "title": "Q1 2021 Earnings Call",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2021-Earnings-Call-30988554.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2020",
+        "dateTimeISO": "2020-07-21T18:30:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-30766569.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "22/07/2020",
+        "dateTimeISO": "2020-07-21T18:30:00.000Z",
+        "title": "Q1 2021 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2021-Earnings-Release-28970279.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "21/05/2020",
+        "dateTimeISO": "2020-05-20T18:30:00.000Z",
+        "title": "FY 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/FY-2020-Earnings-Release-30574577.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "03/03/2020",
+        "dateTimeISO": "2020-03-02T18:30:00.000Z",
+        "title": "Ex-dividend day for dividende intermédiaire",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Ex-dividend-day-for-dividende-intermediaire-30049551.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "30/01/2020",
+        "dateTimeISO": "2020-01-29T18:30:00.000Z",
+        "title": "Q3 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q3-2020-Earnings-Release-27457726.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "23/10/2019",
+        "dateTimeISO": "2019-10-22T18:30:00.000Z",
+        "title": "Interim 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Interim-2020-Earnings-Release-27457682.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/07/2019 11:45 am",
+        "dateTimeISO": "2019-07-26T06:15:00.000Z",
+        "title": "Annual General Meeting",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Annual-General-Meeting-28728840.ics"
+      },
+      {
+        "section": "Past",
+        "dateTimeRaw": "26/07/2019",
+        "dateTimeISO": "2019-07-25T18:30:00.000Z",
+        "title": "Q1 2020 Earnings Release",
+        "icsUrl": "https://in.marketscreener.com/api/stateful/agenda/event-async/Q1-2020-Earnings-Release-27457604.ics"
+      }
+    ]
+  },
+  "pastDividends": {
+    "count": 32,
+    "dividends": [
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/09/2025",
+        "dateISO": "2025-09-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 65,
+        "currency": "INR",
+        "title": "Interim Payment 65 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/06/2025",
+        "dateISO": "2025-06-26T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 28,
+        "currency": "INR",
+        "title": "Final Payment 28 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "25/09/2024",
+        "dateISO": "2024-09-24T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 65,
+        "currency": "INR",
+        "title": "Interim Payment 65 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/06/2024",
+        "dateISO": "2024-06-27T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 21,
+        "currency": "INR",
+        "title": "Final Payment 21 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/09/2023",
+        "dateISO": "2023-09-27T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 110,
+        "currency": "INR",
+        "title": "Interim Payment 110 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "30/06/2023",
+        "dateISO": "2023-06-29T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 13,
+        "currency": "INR",
+        "title": "Final Payment 13 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "22/09/2022",
+        "dateISO": "2022-09-21T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 110,
+        "currency": "INR",
+        "title": "Interim Payment 110 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "30/06/2022",
+        "dateISO": "2022-06-29T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Final Payment 25 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/09/2021",
+        "dateISO": "2021-09-27T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 90,
+        "currency": "INR",
+        "title": "Interim Payment 90 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2021",
+        "dateISO": "2021-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 40,
+        "currency": "INR",
+        "title": "Annual 40 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "03/03/2020",
+        "dateISO": "2020-03-02T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 40,
+        "currency": "INR",
+        "title": "Interim Payment 40 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "11/07/2019",
+        "dateISO": "2019-07-10T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 32.5,
+        "currency": "INR",
+        "title": "Annual 32.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "05/07/2018",
+        "dateISO": "2018-07-04T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 40,
+        "currency": "INR",
+        "title": "Annual 40 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "06/07/2017",
+        "dateISO": "2017-07-05T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 32.5,
+        "currency": "INR",
+        "title": "Annual 32.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "14/07/2016",
+        "dateISO": "2016-07-13T18:30:00.000Z",
+        "type": "Final Payment",
+        "amount": 7.5,
+        "currency": "INR",
+        "title": "Final Payment 7.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "16/03/2016",
+        "dateISO": "2016-03-15T18:30:00.000Z",
+        "type": "Interim Payment",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Interim Payment 25 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "09/07/2015",
+        "dateISO": "2015-07-08T18:30:00.000Z",
+        "type": "32.5 INR",
+        "amount": null,
+        "currency": null,
+        "title": "32.5 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "03/07/2014",
+        "dateISO": "2014-07-02T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 30,
+        "currency": "INR",
+        "title": "Annual 30 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "04/07/2013",
+        "dateISO": "2013-07-03T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Annual 25 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "05/07/2012",
+        "dateISO": "2012-07-04T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Annual 25 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/06/2011",
+        "dateISO": "2011-06-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 35,
+        "currency": "INR",
+        "title": "Annual 35 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "08/07/2010",
+        "dateISO": "2010-07-07T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 30,
+        "currency": "INR",
+        "title": "Annual 30 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "02/07/2009",
+        "dateISO": "2009-07-01T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 10,
+        "currency": "INR",
+        "title": "Annual 10 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "27/06/2008",
+        "dateISO": "2008-06-26T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 20,
+        "currency": "INR",
+        "title": "Annual 20 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "28/06/2007",
+        "dateISO": "2007-06-27T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 40,
+        "currency": "INR",
+        "title": "Annual 40 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/06/2006",
+        "dateISO": "2006-06-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 40,
+        "currency": "INR",
+        "title": "Annual 40 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/06/2005",
+        "dateISO": "2005-06-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Annual 25 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "15/07/2004",
+        "dateISO": "2004-07-14T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 25,
+        "currency": "INR",
+        "title": "Annual 25 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "10/07/2003",
+        "dateISO": "2003-07-09T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 14,
+        "currency": "INR",
+        "title": "Annual 14 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "10/07/2002",
+        "dateISO": "2002-07-09T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 14,
+        "currency": "INR",
+        "title": "Annual 14 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "29/06/2001",
+        "dateISO": "2001-06-28T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Annual 8 INR"
+      },
+      {
+        "section": "Past Dividends",
+        "dateRaw": "25/06/1998",
+        "dateISO": "1998-06-24T18:30:00.000Z",
+        "type": "Annual",
+        "amount": 8,
+        "currency": "INR",
+        "title": "Annual 8 INR"
+      }
+    ]
+  }
+}
