@@ -1,4 +1,3 @@
-
-### Ignore data and node modules directories
-./data
-./node_modules
+# node modules
+node_modules/
+data/
