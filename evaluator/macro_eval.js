@@ -51,23 +51,29 @@ function computeQuarterlyGrowth(inputRows, smooth = false) {
   // Defensive clone & sort
   const rows = [...inputRows].sort(sortByQuarter);
 
+  // Helpers
+  const toNum = (v) => (v === undefined || v === null || v === "" ? null : Number(v));
+  const getSales = (r) =>
+    toNum(
+      // Prefer Sales; else Revenue.
+      r.Sales ?? r.Revenue ??
+      null
+    );
+  const getEps = (r) =>
+    smooth
+      ? toNum(r["EPS smooth in Rs"] ?? r.EPS)
+      : toNum(r["EPS in Rs"] ?? r.EPS);
+
   const byKey = indexByKey(rows);
 
   const out = rows.map((row, i) => {
-    const sales = Number(row.Sales ?? null);
-
-    // if smooth is true, use smoothed EPS (average of current and previous quarter)
-    let eps;
-    if (smooth) {  
-        eps = Number(row["EPS smooth in Rs"] ?? row.EPS ?? null);
-    } else {
-        eps = Number(row["EPS in Rs"] ?? row.EPS ?? null);
-    }
+    const sales = getSales(row);
+    const eps   = getEps(row);
 
     // QoQ (previous row)
     const prev = i > 0 ? rows[i - 1] : null;
-    const prevSales = prev ? Number(prev.Sales ?? null) : null;
-    const prevEps   = prev ? Number(prev["EPS in Rs"] ?? prev.EPS ?? null) : null;
+    const prevSales = prev ? getSales(prev) : null;
+    const prevEps   = prev ? getEps(prev)   : null;
 
     const sales_qoq_change = (prevSales != null && sales != null) ? (sales - prevSales) : null;
     const eps_qoq_change   = (prevEps   != null && eps   != null) ? (eps   - prevEps)   : null;
@@ -80,8 +86,8 @@ function computeQuarterlyGrowth(inputRows, smooth = false) {
     const yoyIdx = byKey.get(prevYearKey);
     const yoyRow = (yoyIdx != null) ? rows[yoyIdx] : null;
 
-    const yoySales = yoyRow ? Number(yoyRow.Sales ?? null) : null;
-    const yoyEps   = yoyRow ? Number(yoyRow["EPS in Rs"] ?? yoyRow.EPS ?? null) : null;
+    const yoySales = yoyRow ? getSales(yoyRow) : null;
+    const yoyEps   = yoyRow ? getEps(yoyRow)   : null;
 
     const sales_yoy_change = (yoySales != null && sales != null) ? (sales - yoySales) : null;
     const eps_yoy_change   = (yoyEps   != null && eps   != null) ? (eps   - yoyEps)   : null;
@@ -91,8 +97,8 @@ function computeQuarterlyGrowth(inputRows, smooth = false) {
 
     return {
       Quarter: row.Quarter,
-      Sales: sales,
-      EPS: eps,
+      Sales: sales,           // <- now uses Sales, or falls back to Revenue
+      EPS: eps,               // <- respects smoothing consistently
 
       sales_qoq_change,
       sales_qoq_pct,
