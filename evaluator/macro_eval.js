@@ -47,7 +47,7 @@ function yoyKey(label) {
  *   sales_qoq_change, sales_qoq_pct, sales_yoy_change, sales_yoy_pct
  *   eps_qoq_change,   eps_qoq_pct,   eps_yoy_change,   eps_yoy_pct
  */
-function computeQuarterlyGrowth(inputRows) {
+function computeQuarterlyGrowth(inputRows, smooth = false) {
   // Defensive clone & sort
   const rows = [...inputRows].sort(sortByQuarter);
 
@@ -55,7 +55,14 @@ function computeQuarterlyGrowth(inputRows) {
 
   const out = rows.map((row, i) => {
     const sales = Number(row.Sales ?? null);
-    const eps   = Number(row["EPS in Rs"] ?? row.EPS ?? null);
+
+    // if smooth is true, use smoothed EPS (average of current and previous quarter)
+    let eps;
+    if (smooth) {  
+        eps = Number(row["EPS smooth in Rs"] ?? row.EPS ?? null);
+    } else {
+        eps = Number(row["EPS in Rs"] ?? row.EPS ?? null);
+    }
 
     // QoQ (previous row)
     const prev = i > 0 ? rows[i - 1] : null;

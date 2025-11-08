@@ -27,12 +27,16 @@ function normalizeRType(type) {
     return 'c';
 }
 
-function pickParser(type) {
+function pickParser(type, smooth) { // smooth true use  => parseStockConsolidatedWithSmooth
+
     const t = String(type || '').trim().toLowerCase();
     if ((t === 's' || t === 'standalone') && typeof quarter_parser.parseStockStandalone === 'function') {
         return quarter_parser.parseStockStandalone;
     }
-    if (typeof quarter_parser.parseStockConsolidated === 'function') {
+    if (typeof quarter_parser.parseStockConsolidated === 'function') { 
+        if(smooth && typeof quarter_parser.parseStockConsolidatedWithSmooth === 'function'){
+            return quarter_parser.parseStockConsolidatedWithSmooth;
+        }
         return quarter_parser.parseStockConsolidated;
     }
     throw new Error('No suitable parser available in bse_quarterly_results_parser.');
@@ -124,15 +128,16 @@ function tryLoadCompanyInfoJson(nseSymbol, msId) {
 
 /* --------------- core builders / orchestrators --------------- */
 
-async function buildQuarterRows({ companyCode, from, to, type }) {
+async function buildQuarterRows({ companyCode, from, to, type, smooth }) {
     const rType = normalizeRType(type);
     const rawBundle = await fetchBseQuarterRange({ companyCode, from, to, rType });
 
-    const parserFn = pickParser(type);
-    const parsed = parserFn(rawBundle);
+    const parserFn = pickParser(type, smooth);
+    const parsed = await parserFn(rawBundle);
     const rows = coerceToArray(parsed);
 
     if (!Array.isArray(rows)) {
+        console.log('Parsed quarterly data:', parsed);
         const shapeHint =
             typeof parsed === 'string'
                 ? `string(len=${parsed.length})`
@@ -158,12 +163,14 @@ async function buildQuarterRows({ companyCode, from, to, type }) {
     return rows;
 }
 
-async function evaluateQuarterRange({ companyCode, from, to, type = 'c' }) {
+async function evaluateQuarterRange({ companyCode, from, to, type = 'c' , smooth = true}) {
     // 1) raw rows (Mar/Jun/Sep/Dec blocks)
-    const rows = await buildQuarterRows({ companyCode, from, to, type });
+    const rows = await buildQuarterRows({ companyCode, from, to, type , smooth}); //[{...},{...}]
 
     // 2) QoQ/YoY metrics
-    const evaluated = computeQuarterlyGrowth(rows);
+    let evaluated = computeQuarterlyGrowth(rows, smooth);
+    // add rows metadata for downstream evals as per index rows[i]
+    evaluated = evaluated.map((r, i) => ({ ...r, etrra_info: rows[i] }));
 
     return evaluated;
 }

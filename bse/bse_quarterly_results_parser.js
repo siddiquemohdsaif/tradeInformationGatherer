@@ -158,6 +158,192 @@ function quarterLabelFromItem(item) {
   return "Unknown";
 }
 
+
+// ----- Smooth EPS helpers (rolling 5 logic) -----
+function _median(nums) {
+  const a = nums.filter(Number.isFinite).slice().sort((x, y) => x - y);
+  if (!a.length) return 0;
+  const m = Math.floor(a.length / 2);
+  return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2;
+}
+function _mean(nums) {
+  const a = nums.filter(Number.isFinite);
+  return a.length ? a.reduce((s, v) => s + v, 0) / a.length : 0;
+}
+
+/** For index i in [0..n-1], return [start, end] for a x-quarter window.
+ *  Prefers past 4 + current; if not enough past, pull future to make x.
+ */
+function _rollingWindowBounds(i, n, win) {
+  if (n <= 0) return [0, -1];
+  if (win <= 1) return [i, i];
+
+  // If we have at least 4 past quarters, use [i-4..i]
+  if (i >= win - 1) return [i - (win - 1), i];
+
+  // Otherwise, start at 0 and extend into the future as needed
+  const end = Math.min(n - 1, win - 1);
+  return [0, end];
+}
+
+/**
+ * rows: array returned by parseStockConsolidated(...).rows
+ * totalShares: absolute share count (e.g., 12515990453)
+ * Returns { rowsWithSmooth, inputs }
+ *
+ * NEW: Rolling window (size 5). For each row i:
+ *  - Window = past 4 + current; if not enough past, include future to make 5.
+ *  - Medians/avgTax computed over window's rows (not the whole series).
+ */
+function computeSmoothEPS(rows, totalShares) {
+  if (!Array.isArray(rows) || !rows.length) {
+    return { rowsWithSmooth: [], inputs: { reason: 'no-rows', totalShares } };
+  }
+
+  const CRORE_TO_RS = 1e7;
+  const n = rows.length;
+
+  const rowsWithSmooth = [];
+  const perRowStats = [];
+
+  for (let i = 0; i < n; i++) {
+    const [start, end] = _rollingWindowBounds(i, n, 6);
+    const win = rows.slice(start, end + 1);
+
+    const otherIncomeSeries = win.map(r => Number(r['Other Income']));
+    const depSeries         = win.map(r => Number(r['Depreciation']));
+    const intSeries         = win.map(r => Number(r['Interest']));
+    const taxPctSeries      = win.map(r => Number(r['Tax %']));
+
+    const medOtherIncome = _median(otherIncomeSeries);
+    const medDep         = _median(depSeries);
+    const medInt         = _median(intSeries);
+    const avgTaxPct      = _mean(taxPctSeries);
+
+    const taxMultiplier = 1 - ((Number(avgTaxPct) || 0) / 100);
+
+    const op = Number(rows[i]['Operating Profit']);
+    const earningCrore = (Number.isFinite(op) ? op : 0)
+                       + (Number.isFinite(medOtherIncome) ? medOtherIncome : 0)
+                       - (Number.isFinite(medDep) ? medDep : 0)
+                       - (Number.isFinite(medInt) ? medInt : 0);
+
+    const earningAfterTaxRs = earningCrore * CRORE_TO_RS * taxMultiplier;
+    const epsSmooth = (totalShares && totalShares > 0)
+      ? (earningAfterTaxRs / totalShares)
+      : null;
+
+    rowsWithSmooth.push({
+      ...rows[i],
+      'EPS smooth in Rs': epsSmooth == null ? null : Number(epsSmooth.toFixed(2)),
+    });
+
+    perRowStats.push({
+      index: i,
+      quarter: rows[i]?.Quarter ?? null,
+      windowStartIndex: start,
+      windowEndIndex: end,
+      windowSize: end >= start ? (end - start + 1) : 0,
+      medianOtherIncome: Number.isFinite(medOtherIncome) ? medOtherIncome : 0,
+      medianDepreciation: Number.isFinite(medDep) ? medDep : 0,
+      medianInterest: Number.isFinite(medInt) ? medInt : 0,
+      avgTaxPercent: Number.isFinite(avgTaxPct) ? Number(avgTaxPct.toFixed(2)) : 0,
+    });
+  }
+
+  return {
+    rowsWithSmooth,
+    inputs: {
+      mode: 'rolling6',
+      totalShares: totalShares || null,
+      perRow: perRowStats,
+    },
+  };
+}
+
+/**
+ * Async convenience:
+ * - Parses consolidated rows (₹ crore by default)
+ * - Resolves outstanding shares if not provided (BSE code -> NSE -> MarketScreener -> shares)
+ * - Computes and attaches "EPS smooth in Rs"
+ *
+ * @param {object} inputJson BSE fetcher JSON { companyCode, results: [...] }
+ * @param {object} opts
+ *   - unit: 'crore'|'million' (default 'crore')
+ *   - totalShares?: number (absolute)
+ *   - autoResolveShares?: boolean (default true)
+ *   - companyInfoModulePath?: string (default '../evaluator/companyInfoParser')
+ *   - sharesFetcherModulePath?: string (default '../getLatestOutstandingShare')
+ *
+ * @returns {
+ *   meta, rows, rowsWithSmooth, smoothInputs,
+ *   toTSV, toCSV, toJSON
+ * }
+ */
+async function parseStockConsolidatedWithSmooth(inputJson, opts = {}) {
+  const {
+    unit = 'crore',
+    totalShares,
+    autoResolveShares = true,
+    companyInfoModulePath = '../evaluator/companyInfoParser',
+    sharesFetcherModulePath = '../getLatestOutstandingShare',
+  } = opts;
+
+  // 1) Base parse
+  const parsed = parseStockConsolidated(inputJson, { unit });
+  const rows = parsed.rows;
+
+  // 2) Resolve shares if needed
+  let sharesToUse = totalShares || null;
+  let shareSource = { source: null, nseSymbol: null, marketScreenerCode: null, error: null };
+
+  if (!sharesToUse && autoResolveShares && inputJson?.companyCode) {
+    try {
+      // Lazy require (keeps this file usable stand-alone if user doesn’t need smooth)
+      const companyInfo = require(companyInfoModulePath);
+      const { getNseSymbolFromBseCompanyCode, getMarketScreenerFromNse } = companyInfo;
+      const { getLatestOutstandingShare } = require(sharesFetcherModulePath);
+
+      const nse = getNseSymbolFromBseCompanyCode(String(inputJson.companyCode));
+      const ms  = nse ? getMarketScreenerFromNse(nse) : null;
+      const fetchedShares = ms ? await getLatestOutstandingShare(ms) : null;
+
+      sharesToUse = fetchedShares || null;
+      shareSource = {
+        source: 'marketscreener',
+        nseSymbol: nse || null,
+        marketScreenerCode: ms || null,
+        error: null,
+      };
+    } catch (e) {
+      shareSource = {
+        source: 'resolve-error',
+        nseSymbol: null,
+        marketScreenerCode: null,
+        error: String(e?.message || e),
+      };
+    }
+  }
+
+  // 3) Compute smooth EPS
+  const { rowsWithSmooth, inputs } = computeSmoothEPS(rows, sharesToUse);
+
+  // 4) Return same API as base + extras
+  return {
+    meta: {
+      ...parsed.meta,
+      shareSource,
+    },
+    rows,
+    rowsWithSmooth,
+    smoothInputs: inputs,
+    toTSV: () => toTSV(rowsWithSmooth),
+    toCSV: () => toCSV(rowsWithSmooth),
+    toJSON: (pretty = true) => toJSON(rowsWithSmooth, pretty),
+  };
+}
+
+
 /////////////////////////////
 // 1) Consolidated Parser
 /////////////////////////////
@@ -290,6 +476,7 @@ async function exportParsed(format, parsed, outPath) {
 
 module.exports = {
   parseStockConsolidated,
+  parseStockConsolidatedWithSmooth,
   parseStockStandalone,
   exportParsed,
   toCSV,

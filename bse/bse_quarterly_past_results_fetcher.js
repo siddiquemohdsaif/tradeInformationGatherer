@@ -227,7 +227,7 @@ if (require.main === module) {
       const data = await fetchBseQuarterRange({ companyCode, from, to, rType });
       //console.log(JSON.stringify(data, null, 2));
 
-      const data2 = quarter_parser.parseStockConsolidated(data);
+      const data2 = await quarter_parser.parseStockConsolidatedWithSmooth(data);
       console.log(data2.toJSON());
     } catch (e) {
       console.error('Error:', e);
