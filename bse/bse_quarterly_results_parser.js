@@ -7,6 +7,7 @@ const {
 
 const { parseBankConsolidated }    = require('./result_parsers/bank_parser');
 const { parseNonBankConsolidated } = require('./result_parsers/nonbank_parser');
+const { parseNbfcConsolidatedBankFormat } = require('./result_parsers/nbfc_parser');
 
 // ---------- Type detection ----------
 function detectIsBank(rows) {
@@ -18,6 +19,7 @@ function detectIsBank(rows) {
                   || !!getValueByLabels(rows, BANK_LABELS.OTHER_OPERATING);
   return (hasRevenue && hasIntExp && hasOps);
 }
+
 
 // ---------- EPS smoothing helpers (kept same for non-bank) ----------
 function _median(nums) {
@@ -103,6 +105,50 @@ function computeSmoothEPS(rows, totalShares) {
   };
 }
 
+// ---------- EPS smoothing for bank-like entities (Bank + NBFC) ----------
+function computeBankSmoothEPS(rows, totalShares) {
+  if (!Array.isArray(rows) || !rows.length) {
+    return { rowsWithSmooth: [], inputs: { reason: 'no-rows', totalShares } };
+  }
+  const CRORE_TO_RS = 1e7;
+
+  const rowsWithSmooth = [];
+  const perRowStats = [];
+
+  for (let i = 0; i < rows.length; i++) {
+    const row = rows[i];
+
+    // Use Net Profit directly (already after tax); DO NOT apply Tax %
+    const netProfitCrore = Number(row['Net Profit']); // in crore
+    const earningRs = (Number.isFinite(netProfitCrore) ? netProfitCrore : 0) * CRORE_TO_RS;
+
+    const epsSmooth = (totalShares && totalShares > 0)
+      ? (earningRs / totalShares)
+      : null;
+
+    rowsWithSmooth.push({
+      ...row,
+      'EPS smooth in Rs': epsSmooth == null ? null : Number(epsSmooth.toFixed(2)),
+    });
+
+    perRowStats.push({
+      index: i,
+      quarter: row?.Quarter ?? null,
+      netProfitCrore: Number.isFinite(netProfitCrore) ? netProfitCrore : 0,
+      usedTaxPercent: null, // explicit: no tax applied
+    });
+  }
+
+  return {
+    rowsWithSmooth,
+    inputs: {
+      mode: 'bank-netprofit-direct',
+      totalShares: totalShares || null,
+      perRow: perRowStats,
+    },
+  };
+}
+
 // ---------- Public API ----------
 function parseStockConsolidated(inputJson, opts = {}) {
   const unitOut = (opts.unit || "crore").toLowerCase();
@@ -112,14 +158,27 @@ function parseStockConsolidated(inputJson, opts = {}) {
   let entityType = 'nonbank';
   for (const it of results) {
     if (Array.isArray(it?.rows) && it.rows.length) {
-      if (detectIsBank(it.rows)) entityType = 'bank';
+      if (it.nbfc) {
+        entityType = 'nbfc';
+      }else if (detectIsBank(it.rows)) {
+        entityType = 'bank';
+      }else {
+        entityType = 'nonbank';
+      }
       break;
     }
   }
 
-  const rows = entityType === 'bank'
-    ? parseBankConsolidated(inputJson, { unit: unitOut })
-    : parseNonBankConsolidated(inputJson, { unit: unitOut });
+
+  let rows;
+  if (entityType === 'bank') {
+    rows = parseBankConsolidated(inputJson, { unit: unitOut });
+  } else if (entityType === 'nbfc') {
+    // NBFC handled same as bank → bank-type format
+    rows = parseNbfcConsolidatedBankFormat(inputJson, { unit: unitOut });
+  } else {
+    rows = parseNonBankConsolidated(inputJson, { unit: unitOut });
+  }
 
   return {
     meta: {
@@ -140,8 +199,8 @@ function parseStockConsolidated(inputJson, opts = {}) {
 
 /**
  * parseStockConsolidatedWithSmooth:
- * - Non-bank: resolves shares (if needed) & computes smooth EPS
- * - Bank: **does not** smooth; copies EPS → 'EPS smooth in Rs'
+ * - Non-bank: rolling-window OP-based smoothing
+ * - Bank & NBFC: use Net Profit directly (no tax re-application)
  */
 async function parseStockConsolidatedWithSmooth(inputJson, opts = {}) {
   const {
@@ -155,23 +214,7 @@ async function parseStockConsolidatedWithSmooth(inputJson, opts = {}) {
   const parsed = parseStockConsolidated(inputJson, { unit });
   const rows = parsed.rows;
 
-  if (parsed?.meta?.entityType === 'bank') {
-    const rowsWithSmooth = rows.map(r => ({
-      ...r,
-      'EPS smooth in Rs': r['EPS in Rs'],
-    }));
-    return {
-      meta: parsed.meta,
-      rows,
-      rowsWithSmooth,
-      smoothInputs: { mode: 'bank-pass-through', reason: 'bank-no-smooth', totalShares: null, perRow: [] },
-      toTSV: () => toTSV(rowsWithSmooth),
-      toCSV: () => toCSV(rowsWithSmooth),
-      toJSON: (pretty = true) => toJSON(rowsWithSmooth, pretty),
-    };
-  }
-
-  // non-bank: optionally resolve outstanding shares
+  // Resolve shares for BOTH bank and non-bank
   let sharesToUse = totalShares || null;
   let shareSource = { source: null, nseSymbol: null, marketScreenerCode: null, error: null };
 
@@ -202,7 +245,13 @@ async function parseStockConsolidatedWithSmooth(inputJson, opts = {}) {
     }
   }
 
-  const { rowsWithSmooth, inputs } = computeSmoothEPS(rows, sharesToUse);
+  // CHANGED: NBFC uses bank-style smoothing too
+  let rowsWithSmooth, inputs;
+  if (parsed?.meta?.entityType === 'bank' || parsed?.meta?.entityType === 'nbfc') {
+    ({ rowsWithSmooth, inputs } = computeBankSmoothEPS(rows, sharesToUse));
+  } else {
+    ({ rowsWithSmooth, inputs } = computeSmoothEPS(rows, sharesToUse));
+  }
 
   return {
     meta: { ...parsed.meta, shareSource },

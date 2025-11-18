@@ -7,35 +7,78 @@
 //   node bse_quarterly_past_results_fetcher.js 532281 "2025 mar" "2025 sep" c
 //
 // Notes:
-// - Quarter code qtr = ((YY - 1994) * 4) + QQ, where QQ: Mar=1, Jun=2, Sep=3, Dec=4
-// - Typ=Q (constant), RType: c=Consolidated, D=Standalone
+// - Regular BSE quarter code: qtr = ((year - 1994) * 4) + q, where q: Mar=1, Jun=2, Sep=3, Dec=4
+// - NBFC pages use base 322 <=> 2023-Mar and step +4 per quarter.
+// - Regular path: results.aspx?Code=...&qtr=...&RType=c|D&Typ=Q
+// - NBFC Standalone:   NBFC.aspx?Code=...&qtr=...&Rtype=P
+// - NBFC Consolidated: NBFC_Consolidated.aspx?Code=...&qtr=...&Rtype=P
 
 const axios = require('axios');
 const cheerio = require('cheerio');
 const quarter_parser = require('./bse_quarterly_results_parser');
 
-const BSE_BASE = 'https://www.bseindia.com/corporates/results.aspx';
+const BSE_BASE_RESULTS = 'https://www.bseindia.com/corporates/results.aspx';
+const BSE_BASE_NBFC_STANDALONE   = 'https://www.bseindia.com/corporates/NBFC.aspx';
+const BSE_BASE_NBFC_CONSOLIDATED = 'https://www.bseindia.com/corporates/NBFC_Consolidated.aspx';
+
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
 
+// Month <-> quarter helpers
 const MONTH_TO_Q = {
-  mar: 1,
-  march: 1,
-  jun: 2,
-  june: 2,
-  sep: 3,
-  sept: 3,
-  september: 3,
-  dec: 4,
-  december: 4,
+  mar: 1, march: 1,
+  jun: 2, june: 2,
+  sep: 3, sept: 3, september: 3,
+  dec: 4, december: 4,
 };
-
 const Q_TO_MONTH = { 1: 'Mar', 2: 'Jun', 3: 'Sep', 4: 'Dec' };
 
+// NBFC detection (your list)
+const KNOWN_NBFC_CODES = new Set([
+  '500034','532978','543257','543940','532810','500490','511243','532955',
+  '511218','533398','543066','540691','532892','540530','542772','500271'
+]);
+function isNbfc(companyCode) {
+  return KNOWN_NBFC_CODES.has(String(companyCode));
+}
+
+// NBFC quarter-code mapping
+const NBFC_BASE_CODE = 322;   // 2023-Mar
+const NBFC_BASE_YEAR = 2023;
+const NBFC_BASE_QINDEX = 0;   // 0: Mar, 1: Jun, 2: Sep, 3: Dec
+const NBFC_MONTHS = ['Mar', 'Jun', 'Sep', 'Dec'];
+const NBFC_MONTH_TO_QINDEX = { mar:0, march:0, jun:1, june:1, sep:2, sept:2, september:2, dec:3, december:3 };
+
+function nbfcCodeToQuarter(code) {
+  if ((code - NBFC_BASE_CODE) % 4 !== 0) {
+    throw new Error(`NBFC code ${code} is not aligned to step 4 from base ${NBFC_BASE_CODE}`);
+  }
+  const quartersFromBase = (code - NBFC_BASE_CODE) / 4;
+  const x = NBFC_BASE_QINDEX + quartersFromBase;
+  const qIndex = ((x % 4) + 4) % 4;
+  const year = NBFC_BASE_YEAR + Math.floor((NBFC_BASE_QINDEX + quartersFromBase) / 4);
+  const month = NBFC_MONTHS[qIndex];
+  return { year, qIndex, month, label: `${year}-${month}` };
+}
+
+function nbfcQuarterToCode({ year, q }) {
+  let qIndex;
+  if (typeof q === 'number') {
+    if (q < 1 || q > 4) throw new Error('q must be 1..4 (1=Mar, 2=Jun, 3=Sep, 4=Dec)');
+    qIndex = q - 1;
+  } else {
+    const k = String(q).toLowerCase();
+    if (!(k in NBFC_MONTH_TO_QINDEX)) throw new Error(`Unknown month: ${q}`);
+    qIndex = NBFC_MONTH_TO_QINDEX[k];
+  }
+  const quartersFromBase = (year - NBFC_BASE_YEAR) * 4 + (qIndex - NBFC_BASE_QINDEX);
+  return NBFC_BASE_CODE + 4 * quartersFromBase;
+}
+
+// Parse flexible quarter string
 function parseQuarterString(s) {
   if (!s) throw new Error('Invalid quarter string');
   const norm = s.trim().replace(/\s+/g, ' ').toLowerCase();
-  // Accept: "2025 mar", "mar 2025", "2025-mar", "2025/sep"
   const parts = norm.split(/[\s\-\/]+/);
   if (parts.length < 2) throw new Error(`Cannot parse quarter: ${s}`);
 
@@ -55,30 +98,31 @@ function parseQuarterString(s) {
   return { year: y, q };
 }
 
+// Regular (non-NBFC) quarter-code
 function quarterToCode(year, q) {
-  // q: 1..4
   const code = (year - 1994) * 4 + q;
   if (code <= 0) throw new Error(`Quarter out of range for year ${year}, q ${q}`);
   return code;
 }
 
-function* enumerateQuarters(from, to) {
+// Range enumerator (auto-switch NBFC vs regular)
+function* enumerateQuarters(from, to, nbfc) {
   const a = parseQuarterString(from);
   const b = parseQuarterString(to);
-
-  // Make a numeric comparable value: (year, q) -> year*10 + q
   const key = ({ year, q }) => year * 10 + q;
   if (key(a) > key(b)) throw new Error(`"from" must be <= "to"`);
 
   let y = a.year;
   let q = a.q;
   while (y < b.year || (y === b.year && q <= b.q)) {
-    yield { year: y, q, qtrCode: quarterToCode(y, q) };
+    const qtrCode = nbfc
+      ? nbfcQuarterToCode({ year: y, q })
+      : quarterToCode(y, q);
+
+    yield { year: y, q, qtrCode };
+
     q++;
-    if (q > 4) {
-      q = 1;
-      y++;
-    }
+    if (q > 4) { q = 1; y++; }
   }
 }
 
@@ -86,7 +130,6 @@ function safeNum(x) {
   if (x == null) return null;
   const s = String(x).trim().replace(/[,]/g, '');
   if (s === '' || s.toLowerCase() === 'na') return null;
-  // Allow leading ± and decimals
   const n = Number(s);
   return Number.isFinite(n) ? n : null;
 }
@@ -98,77 +141,128 @@ function cleanText(t) {
     .trim();
 }
 
-async function fetchQuarterPage({ companyCode, qtrCode, rType = 'c' }) {
-  const params = {
-    Code: companyCode,
-    qtr: String(qtrCode),
-    RType: rType, // 'c' or 'D'
-    Typ: 'Q',
-  };
+// Parse table rows into {label, valueRaw, valueNumber}[]
+// Supports both regular table (#ContentPlaceHolder1_tbl_typeID) and NBFC grid (#ContentPlaceHolder1_gv_Profit)
+function extractRowsFromTable($, $table) {
+  const rows = [];
 
-  const url = `${BSE_BASE}?${new URLSearchParams(params).toString()}`;
+  // Try to detect NBFC grid by header text
+  const $head = $table.find('tr').first();
+  const ths = $head.find('th');
+  const looksLikeNbfcGrid =
+    ths.length >= 3 &&
+    /Particulars/i.test($(ths.get(1)).text()) &&
+    /current/i.test($(ths.get(2)).text());
+
+  if (looksLikeNbfcGrid) {
+    // NBFC grid: cols = [blank, Particulars, Current, Previous]
+    $table.find('tr').slice(1).each((_, tr) => {
+      const tds = $(tr).find('td');
+      if (tds.length < 3) return;
+      const label = cleanText($(tds.get(1)).text());
+      const valueText = cleanText($(tds.get(2)).text()); // current period value
+      if (!label) return;
+      rows.push({
+        label,
+        valueRaw: valueText || null,
+        valueNumber: safeNum(valueText),
+      });
+    });
+    return rows;
+  }
+
+  // Fallback: classic two-column label/value table
+  $table.find('tr').each((_, tr) => {
+    const tds = $(tr).find('td');
+    if (tds.length >= 2) {
+      const label = cleanText($(tds[0]).text());
+      const valueText = cleanText($(tds[1]).text());
+      if (!label) return;
+      rows.push({
+        label,
+        valueRaw: valueText || null,
+        valueNumber: safeNum(valueText),
+      });
+    }
+  });
+
+  return rows;
+}
+
+// Fetch one quarter page (NBFC vs regular handled internally)
+async function fetchQuarterPage({ companyCode, qtrCode, rType = 'c' }) {
+  const nbfc = isNbfc(companyCode);
+
+  let url, params;
+  if (nbfc) {
+    const isConsolidated = String(rType).toLowerCase() === 'c';
+    const base = isConsolidated ? BSE_BASE_NBFC_CONSOLIDATED : BSE_BASE_NBFC_STANDALONE;
+    params = { Code: companyCode, qtr: String(qtrCode), Rtype: 'P' }; // NBFC requires Rtype=P
+    url = `${base}?${new URLSearchParams(params).toString()}`;
+  } else {
+    params = { Code: companyCode, qtr: String(qtrCode), RType: rType, Typ: 'Q' };
+    url = `${BSE_BASE_RESULTS}?${new URLSearchParams(params).toString()}`;
+  }
+
   const res = await axios.get(url, {
     headers: { 'User-Agent': UA, Referer: 'https://www.bseindia.com/', Accept: 'text/html,*/*' },
     timeout: 30000,
-    // Prevent axios from decoding entities; cheerio can handle
     transformResponse: (d) => d,
     validateStatus: (s) => s >= 200 && s < 400,
   });
 
   const html = res.data;
   const $ = cheerio.load(html);
-  // The main results table has id "ContentPlaceHolder1_tbl_typeID" inside #tbl
-  const $table = $('#ContentPlaceHolder1_tbl_typeID');
+
+  // Try known ids in order: regular first, then NBFC grid, then heuristic fallback
+  let $table = $('#ContentPlaceHolder1_tbl_typeID');
+  if ($table.length === 0) $table = $('#ContentPlaceHolder1_gv_Profit');
+
   if ($table.length === 0) {
-    // No data / page structure changed
+    // Heuristic fallback: pick a table under #tbl or body that looks like label/value-ish.
+    const $root = $('#tbl').length ? $('#tbl') : $('body');
+    $root.find('table').each((_, t) => {
+      if ($table.length) return;
+      const $t = $(t);
+      const trs = $t.find('tr');
+      if (trs.length >= 4) {
+        const ok = trs.slice(0, 4).toArray().every(tr => $(tr).find('td,th').length >= 2);
+        if (ok) $table = $t;
+      }
+    });
+  }
+
+  if ($table.length === 0) {
     return {
       url,
       ok: false,
       error: 'Results table not found (no data or structure changed)',
       rawLength: html?.length ?? 0,
+      nbfc,
     };
   }
 
-  // Parse into rows of [label, value]
-  const rows = [];
-  $table.find('tr').each((_, tr) => {
-    const tds = $(tr).find('td');
-    if (tds.length >= 2) {
-      const label = cleanText($(tds[0]).text());
-      // The value cell might contain a link for Notes
-      let valueText = cleanText($(tds[1]).text());
-      const link = $(tds[1]).find('a').attr('onclick') || $(tds[1]).find('a').attr('href') || null;
+  const rows = extractRowsFromTable($, $table);
 
-      rows.push({
-        label,
-        valueRaw: valueText || null,
-        // Try to extract number where meaningful (e.g., "3,03,490.00" -> 303490)
-        valueNumber: safeNum(valueText),
-      });
-    }
-  });
-
-  // Extract key metadata
+  // Extract meta with multiple label variants
   const meta = {};
-  function pick(labelStartsWith) {
-    const r = rows.find((r) => r.label.toLowerCase().startsWith(labelStartsWith.toLowerCase()));
+  function pick(prefixes) {
+    const p = Array.isArray(prefixes) ? prefixes : [prefixes];
+    const r = rows.find(r =>
+      p.some(px => r.label.toLowerCase().startsWith(String(px).toLowerCase()))
+    );
     return r?.valueRaw ?? null;
   }
 
-  meta.type = pick('Type') || null;
-  meta.dateBegin = pick('Date Begin') || null;
-  meta.dateEnd = pick('Date End') || null;
+  meta.type = pick(['Type','Whether accounts are audited or unaudited','Nature of report standalone or consolidated']) || null;
+  meta.dateBegin = pick(['Date Begin','Date of start of reporting period']) || null;
+  meta.dateEnd = pick(['Date End','Date of end of reporting period']) || null;
 
-  // Units usually in the header row: "Amount (Rs. million)"
-  const unitHeader = rows.find((r) => /Amount\s*\(.*\)/i.test(r.label));
-  meta.unit = unitHeader ? unitHeader.label.replace(/^Description\s*/i, '').trim() : 'Amount (Rs. million)';
+  // Units header not explicit on NBFC grid; keep null if not found
+  const unitRow = rows.find(r => /Amount\s*\(.*\)/i.test(r.label));
+  meta.unit = unitRow ? unitRow.label.replace(/^Description\s*/i, '').trim() : null;
 
-  return {
-    ok: true,
-    url,
-    meta,
-    rows,
-  };
+  return { ok: true, url, meta, rows, nbfc };
 }
 
 function sleep(ms) {
@@ -176,9 +270,10 @@ function sleep(ms) {
 }
 
 async function fetchBseQuarterRange({ companyCode, from, to, rType = 'c', throttleMs = 800 }) {
-  // rType: 'c' for consolidated, 'D' for standalone
+  const nbfc = isNbfc(companyCode);
   const results = [];
-  for (const { year, q, qtrCode } of enumerateQuarters(from, to)) {
+
+  for (const { year, q, qtrCode } of enumerateQuarters(from, to, nbfc)) {
     const quarterLabel = `${year}-${Q_TO_MONTH[q]}`;
     try {
       const page = await fetchQuarterPage({ companyCode, qtrCode, rType });
@@ -225,8 +320,6 @@ if (require.main === module) {
     }
     try {
       const data = await fetchBseQuarterRange({ companyCode, from, to, rType });
-      //console.log(JSON.stringify(data, null, 2));
-
       const data2 = await quarter_parser.parseStockConsolidatedWithSmooth(data);
       console.log(data2.toJSON());
     } catch (e) {

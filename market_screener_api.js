@@ -91,7 +91,7 @@ module.exports = {
 
 
 (async () => {
-  const companyCode = "BANK-OF-BARODA-23320361";
+  const companyCode = "TITAN-COMPANY-LIMITED-46728594";
   const data = await getAllMarketScreenerData(companyCode, {
     includeAnnual: true,
     includeQuarterly: true,
